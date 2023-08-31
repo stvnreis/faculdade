@@ -1,0 +1,11 @@
+Vantagens
+    - Desempenho elevado, já que o SQL é executado de forma agrupada, ao invés de uma única instrução.
+    - Alta produtividade.
+    - Integração total com SQL
+    - Segurança.
+
+Desvantagens
+
+    - As procedures que ficam guardadas no PL/SQL usam muita memória.
+    - Não oferece suporte ao debugging de procedures armazenadas.
+    - Qualquer mudança que ocorra no banco de dados requer alguma mudança na camada de apresentação.
