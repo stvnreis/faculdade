@@ -11460,12 +11460,7 @@ VALUES
   ('Ultricies Dignissim Lacus PC'),
   ('Ac LLC'),
   ('Eu Corporation');
-
-
-
-
-
-INSERT INTO `campeonato` (nome)
+INSERT INTO campeonato (nome)
 VALUES
   ('Ipsum Sodales Incorporated'),
   ('Luctus Ipsum LLP'),
@@ -12065,55 +12060,3 @@ VALUES
   ('Suspendisse Commodo Foundation'),
   ('Volutpat Corp.'),
   ('Quam Elementum Institute');
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

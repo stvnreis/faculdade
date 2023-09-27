@@ -8,6 +8,6 @@ services:
           - POSTGRES_PASSWORD=postgres
         ports:
           - '5438:5432'
-        # volumes: 
+        volumes: 
           # copy the sql script to create tables
-          # - ./sql/create_tables.sql:/docker-entrypoint-initdb.d/create_tables.sql
+          - ./sql/criacao-banco/tabelas.sql:/docker-entrypoint-initdb.d/create_tables.sql

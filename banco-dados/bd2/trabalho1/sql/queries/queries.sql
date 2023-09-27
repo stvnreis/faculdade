@@ -1,3 +1,38 @@
+explain analyze select 
+	j.datajogo,
+	ec.nome,
+	tc.nome,
+	ef.nome,
+	tf.nome 
+from jogo j
+join equipe ec on ec.id = j.idequipecasa 
+join equipe ef on ef.id = j.idequipefora 
+join tecnico tc on tc.idequipe = ec.id 
+join tecnico tf on tf.idequipe = ef.id
+where j.idequipecasa = 1 
+and j.datajogo between '1900-01-01' and now()
+
+
+drop index jogo_equipecasa
+drop index jogo_datajogo
+create index jogo_equipecasa on jogo (idequipecasa);
+create index jogo_datajogo on jogo (datajogo);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 select 
     t.id,
     t.nome,
@@ -120,3 +155,4 @@ begin
         set i += 1
     end 
 end
+

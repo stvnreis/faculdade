@@ -1,4 +1,4 @@
-﻿INSERT INTO cidades (nome)
+﻿INSERT INTO cidade (nome)
 VALUES
   ('Chapecó'),
   ('Goiânia'),
@@ -10,7 +10,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Londrina'),
   ('Colombo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Castanhal'),
   ('Porto Alegre'),
@@ -22,7 +22,7 @@ VALUES
   ('Ribeirão das Neves'),
   ('Campinas'),
   ('Cabo de Santo Agostinho');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('Maracanaú'),
@@ -34,7 +34,7 @@ VALUES
   ('Parauapebas'),
   ('Nova Iguaçu'),
   ('Bacabal');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caxias do Sul'),
   ('Lauro de Freitas'),
@@ -46,7 +46,7 @@ VALUES
   ('Águas Lindas de Goiás'),
   ('Bayeux'),
   ('Canoas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Foz do Iguaçu'),
   ('Petrópolis'),
@@ -58,7 +58,7 @@ VALUES
   ('Governador Valadares'),
   ('Niterói'),
   ('Maranguape');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ponta Grossa'),
   ('Divinópolis'),
@@ -70,7 +70,7 @@ VALUES
   ('Campina Grande'),
   ('Paranaguá'),
   ('Campinas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão das Neves'),
   ('Jaboatão dos Guararapes'),
@@ -82,7 +82,7 @@ VALUES
   ('Açailândia'),
   ('Joinville'),
   ('Valparaíso de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Paulista'),
   ('Crato'),
@@ -94,7 +94,7 @@ VALUES
   ('Maracanaú'),
   ('Paço do Lumiar'),
   ('Olinda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Maria'),
   ('Bayeux'),
@@ -106,7 +106,7 @@ VALUES
   ('Timon'),
   ('Pelotas'),
   ('Vitória da Conquista');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Valparaíso de Goiás'),
   ('Lauro de Freitas'),
@@ -118,7 +118,7 @@ VALUES
   ('Porto Alegre'),
   ('Rio de Janeiro'),
   ('Sousa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campina Grande'),
   ('Joinville'),
@@ -130,7 +130,7 @@ VALUES
   ('Maranguape'),
   ('Uberlândia'),
   ('São João de Meriti');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Chapecó'),
   ('Abaetetuba'),
@@ -142,7 +142,7 @@ VALUES
   ('Anápolis'),
   ('Camaçari'),
   ('Porto Alegre');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão Preto'),
   ('Ipatinga'),
@@ -154,7 +154,7 @@ VALUES
   ('Foz do Iguaçu'),
   ('Abaetetuba'),
   ('Curitiba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itajaí'),
   ('Blumenau'),
@@ -166,7 +166,7 @@ VALUES
   ('Patos'),
   ('Itajaí'),
   ('Castanhal');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cametá'),
   ('Itajaí'),
@@ -178,7 +178,7 @@ VALUES
   ('Itabuna'),
   ('Jundiaí'),
   ('Uberaba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São João de Meriti'),
   ('Piracicaba'),
@@ -190,7 +190,7 @@ VALUES
   ('Joinville'),
   ('Santa Luzia'),
   ('Olinda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Porto Alegre'),
   ('Governador Valadares'),
@@ -202,7 +202,7 @@ VALUES
   ('Nova Iguaçu'),
   ('Castanhal'),
   ('Rio Verde');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Verde'),
   ('Mogi das Cruzes'),
@@ -214,7 +214,7 @@ VALUES
   ('Jaboatão dos Guararapes'),
   ('Recife'),
   ('Valparaíso de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Novo Hamburgo'),
   ('Paulista'),
@@ -226,7 +226,7 @@ VALUES
   ('Balsas'),
   ('Barra do Corda'),
   ('Sobral');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Joinville'),
   ('Gravataí'),
@@ -238,7 +238,7 @@ VALUES
   ('Cabo de Santo Agostinho'),
   ('Ananindeua'),
   ('Recife');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belford Roxo'),
   ('Maranguape'),
@@ -250,7 +250,7 @@ VALUES
   ('Crato'),
   ('Itapipoca'),
   ('Jundiaí');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Goiânia'),
   ('Duque de Caxias'),
@@ -262,7 +262,7 @@ VALUES
   ('Ilhéus'),
   ('Anápolis'),
   ('Itajaí');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jaboatão dos Guararapes'),
   ('Bragança'),
@@ -274,7 +274,7 @@ VALUES
   ('Caxias do Sul'),
   ('Curitiba'),
   ('Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Novo Hamburgo'),
   ('Caxias do Sul'),
@@ -286,7 +286,7 @@ VALUES
   ('Cabo de Santo Agostinho'),
   ('Uberlândia'),
   ('Abaetetuba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Paço do Lumiar'),
   ('Londrina'),
@@ -298,7 +298,7 @@ VALUES
   ('São José dos Pinhais'),
   ('Chapecó'),
   ('Petrolina');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São Gonçalo'),
   ('Valparaíso de Goiás'),
@@ -310,7 +310,7 @@ VALUES
   ('Rio de Janeiro'),
   ('Caxias do Sul'),
   ('Divinópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Balsas'),
   ('Santa Rita'),
@@ -322,7 +322,7 @@ VALUES
   ('Juiz de Fora'),
   ('Timon'),
   ('Salvador');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Piracicaba'),
   ('Ilhéus'),
@@ -334,7 +334,7 @@ VALUES
   ('Jundiaí'),
   ('Porto Alegre'),
   ('Patos');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bragança'),
   ('Salvador'),
@@ -346,7 +346,7 @@ VALUES
   ('Marabá'),
   ('Criciúma'),
   ('Abaetetuba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Uberlândia'),
   ('Águas Lindas de Goiás'),
@@ -358,7 +358,7 @@ VALUES
   ('São José dos Pinhais'),
   ('Duque de Caxias'),
   ('Juazeiro do Norte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Osasco'),
   ('Sete Lagoas'),
@@ -370,7 +370,7 @@ VALUES
   ('Sousa'),
   ('Jundiaí'),
   ('Petrolina');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Timon'),
   ('Santa Luzia'),
@@ -382,7 +382,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Sousa'),
   ('Caucaia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Goiânia'),
   ('Bayeux'),
@@ -394,7 +394,7 @@ VALUES
   ('Caxias'),
   ('São João de Meriti'),
   ('Olinda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ilhéus'),
   ('Niterói'),
@@ -406,7 +406,7 @@ VALUES
   ('Bayeux'),
   ('Olinda'),
   ('Maringá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Castanhal'),
   ('Florianópolis'),
@@ -418,7 +418,7 @@ VALUES
   ('Santa Maria'),
   ('São José'),
   ('Paulista');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jundiaí'),
   ('Gravataí'),
@@ -430,7 +430,7 @@ VALUES
   ('Juazeiro'),
   ('Olinda'),
   ('Santa Maria');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Gravataí'),
   ('Bragança'),
@@ -442,7 +442,7 @@ VALUES
   ('Bayeux'),
   ('Codó'),
   ('Castanhal');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Marabá'),
   ('Camaçari'),
@@ -454,7 +454,7 @@ VALUES
   ('Chapadinha'),
   ('Anápolis'),
   ('Rio Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Grande'),
   ('Juiz de Fora'),
@@ -466,7 +466,7 @@ VALUES
   ('Juiz de Fora'),
   ('Rio Verde'),
   ('São Gonçalo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Criciúma'),
   ('Niterói'),
@@ -478,7 +478,7 @@ VALUES
   ('Petrópolis'),
   ('Ribeirão Preto'),
   ('Anápolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Grande'),
   ('Campinas'),
@@ -490,7 +490,7 @@ VALUES
   ('Juazeiro do Norte'),
   ('Contagem'),
   ('Criciúma');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Lauro de Freitas'),
   ('Feira de Santana'),
@@ -502,7 +502,7 @@ VALUES
   ('Fortaleza'),
   ('Jaboatão dos Guararapes'),
   ('Foz do Iguaçu');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Paranaguá'),
   ('Governador Valadares'),
@@ -514,7 +514,7 @@ VALUES
   ('Juazeiro'),
   ('Lauro de Freitas'),
   ('Petrópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Marabá'),
   ('Guarapuava'),
@@ -526,7 +526,7 @@ VALUES
   ('Ipatinga'),
   ('Nova Iguaçu'),
   ('João Pessoa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itajaí'),
   ('Chapadinha'),
@@ -538,7 +538,7 @@ VALUES
   ('Cametá'),
   ('Pelotas'),
   ('Sousa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Florianópolis'),
   ('Paulista'),
@@ -550,7 +550,7 @@ VALUES
   ('Ribeirão das Neves'),
   ('Salvador'),
   ('Anápolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Vitória da Conquista'),
   ('Olinda'),
@@ -562,7 +562,7 @@ VALUES
   ('Lauro de Freitas'),
   ('Goiânia'),
   ('Crato');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cajazeiras'),
   ('Bacabal'),
@@ -574,7 +574,7 @@ VALUES
   ('Ilhéus'),
   ('Novo Hamburgo'),
   ('Diadema');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Goiânia'),
   ('Chapecó'),
@@ -586,7 +586,7 @@ VALUES
   ('Caxias do Sul'),
   ('Patos'),
   ('Vitória da Conquista');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Curitiba'),
   ('Nova Iguaçu'),
@@ -604,7 +604,7 @@ VALUES
 
 
 
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Castanhal'),
   ('Guarapuava'),
@@ -616,7 +616,7 @@ VALUES
   ('Olinda'),
   ('Cabo de Santo Agostinho'),
   ('Guarulhos');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Patos'),
   ('Montes Claros'),
@@ -628,7 +628,7 @@ VALUES
   ('Ribeirão Preto'),
   ('Betim'),
   ('Santa Luzia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Balsas'),
   ('Rio de Janeiro'),
@@ -640,7 +640,7 @@ VALUES
   ('Parauapebas'),
   ('Carapicuíba'),
   ('Ribeirão Preto');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Pelotas'),
@@ -652,7 +652,7 @@ VALUES
   ('Juazeiro do Norte'),
   ('Niterói'),
   ('Salvador');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Nova Iguaçu'),
   ('Recife'),
@@ -664,7 +664,7 @@ VALUES
   ('Gravataí'),
   ('Joinville'),
   ('Cajazeiras');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jaboatão dos Guararapes'),
   ('Caucaia'),
@@ -676,7 +676,7 @@ VALUES
   ('Itajaí'),
   ('Recife'),
   ('Canoas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Colombo'),
   ('Campos dos Goytacazes'),
@@ -688,7 +688,7 @@ VALUES
   ('Santarém'),
   ('Caucaia'),
   ('Londrina');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Camaragibe'),
   ('Santa Inês'),
@@ -700,7 +700,7 @@ VALUES
   ('Sete Lagoas'),
   ('Balsas'),
   ('Ponta Grossa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São João de Meriti'),
   ('Bayeux'),
@@ -712,7 +712,7 @@ VALUES
   ('Paço do Lumiar'),
   ('São Gonçalo'),
   ('João Pessoa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Joinville'),
   ('Ipatinga'),
@@ -724,7 +724,7 @@ VALUES
   ('Maranguape'),
   ('Guarulhos'),
   ('Colombo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Chapadinha'),
   ('Curitiba'),
@@ -736,7 +736,7 @@ VALUES
   ('Diadema'),
   ('Ribeirão Preto'),
   ('Blumenau');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Codó'),
   ('Vitória da Conquista'),
@@ -748,7 +748,7 @@ VALUES
   ('Caxias do Sul'),
   ('Bragança'),
   ('Caxias');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Petrópolis'),
   ('Ilhéus'),
@@ -760,7 +760,7 @@ VALUES
   ('Bacabal'),
   ('Cajazeiras'),
   ('Salvador');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Rita'),
   ('Uberaba'),
@@ -772,7 +772,7 @@ VALUES
   ('Açailândia'),
   ('Ipatinga'),
   ('Divinópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Blumenau'),
   ('Mogi das Cruzes'),
@@ -784,7 +784,7 @@ VALUES
   ('Açailândia'),
   ('São João de Meriti'),
   ('Nova Iguaçu');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Marabá'),
   ('Caruaru'),
@@ -796,7 +796,7 @@ VALUES
   ('Cajazeiras'),
   ('Açailândia'),
   ('Caruaru');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cascavel'),
   ('São José dos Pinhais'),
@@ -808,7 +808,7 @@ VALUES
   ('Camaçari'),
   ('Chapadinha'),
   ('Mauá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Aparecida de Goiânia'),
   ('Imperatriz'),
@@ -820,7 +820,7 @@ VALUES
   ('Luziânia'),
   ('Paço do Lumiar'),
   ('Recife');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jaboatão dos Guararapes'),
   ('São José dos Pinhais'),
@@ -832,7 +832,7 @@ VALUES
   ('Rio Verde'),
   ('Vitória da Conquista'),
   ('Florianópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campos dos Goytacazes'),
   ('Colombo'),
@@ -844,7 +844,7 @@ VALUES
   ('Novo Hamburgo'),
   ('Imperatriz'),
   ('Águas Lindas de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caucaia'),
   ('Sete Lagoas'),
@@ -856,7 +856,7 @@ VALUES
   ('Paranaguá'),
   ('Goiânia'),
   ('Betim');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bragança'),
   ('Timon'),
@@ -868,7 +868,7 @@ VALUES
   ('Santa Inês'),
   ('Anápolis'),
   ('Bacabal');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Maringá'),
   ('Guarapuava'),
@@ -880,7 +880,7 @@ VALUES
   ('Ponta Grossa'),
   ('Santa Luzia'),
   ('Porto Alegre');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('Caxias do Sul'),
@@ -892,7 +892,7 @@ VALUES
   ('Curitiba'),
   ('Londrina'),
   ('Paranaguá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Balsas'),
   ('Marabá'),
@@ -904,7 +904,7 @@ VALUES
   ('Jaboatão dos Guararapes'),
   ('Goiânia'),
   ('Foz do Iguaçu');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Petrolina'),
   ('Abaetetuba'),
@@ -916,7 +916,7 @@ VALUES
   ('Fortaleza'),
   ('Paço do Lumiar'),
   ('Anápolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campos dos Goytacazes'),
   ('Rio Grande'),
@@ -928,7 +928,7 @@ VALUES
   ('Feira de Santana'),
   ('Mauá'),
   ('Ribeirão das Neves');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Petrolina'),
   ('Colombo'),
@@ -940,7 +940,7 @@ VALUES
   ('Salvador'),
   ('Anápolis'),
   ('Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Niterói'),
   ('Itajaí'),
@@ -952,7 +952,7 @@ VALUES
   ('Águas Lindas de Goiás'),
   ('Carapicuíba'),
   ('Jundiaí');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jundiaí'),
   ('Osasco'),
@@ -964,7 +964,7 @@ VALUES
   ('São Gonçalo'),
   ('Governador Valadares'),
   ('Juazeiro do Norte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Barra do Corda'),
   ('Anápolis'),
@@ -976,7 +976,7 @@ VALUES
   ('Balsas'),
   ('Camaçari'),
   ('Bayeux');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jaboatão dos Guararapes'),
   ('Maringá'),
@@ -988,7 +988,7 @@ VALUES
   ('Belford Roxo'),
   ('Colombo'),
   ('São Luís');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Colombo'),
   ('Florianópolis'),
@@ -1000,7 +1000,7 @@ VALUES
   ('Ponta Grossa'),
   ('Itapipoca'),
   ('Salvador');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Vitória da Conquista'),
   ('Luziânia'),
@@ -1012,7 +1012,7 @@ VALUES
   ('Itabuna'),
   ('Ananindeua'),
   ('Abaetetuba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juiz de Fora'),
   ('Paranaguá'),
@@ -1024,7 +1024,7 @@ VALUES
   ('Anápolis'),
   ('Jundiaí'),
   ('Piracicaba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caruaru'),
   ('São José dos Pinhais'),
@@ -1036,7 +1036,7 @@ VALUES
   ('João Pessoa'),
   ('Crato'),
   ('Itabuna');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Açailândia'),
   ('Joinville'),
@@ -1048,7 +1048,7 @@ VALUES
   ('Ponta Grossa'),
   ('Vitória da Conquista'),
   ('Canoas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Vitória da Conquista'),
   ('Lauro de Freitas'),
@@ -1060,7 +1060,7 @@ VALUES
   ('Juiz de Fora'),
   ('Ipatinga'),
   ('Salvador');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Olinda'),
   ('Paranaguá'),
@@ -1072,7 +1072,7 @@ VALUES
   ('Vitória da Conquista'),
   ('Belford Roxo'),
   ('Caruaru');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Rio Verde'),
@@ -1084,7 +1084,7 @@ VALUES
   ('Luziânia'),
   ('Santa Luzia'),
   ('Mogi das Cruzes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itabuna'),
   ('Santarém'),
@@ -1096,7 +1096,7 @@ VALUES
   ('Cametá'),
   ('Patos'),
   ('Sousa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cametá'),
   ('Caruaru'),
@@ -1108,7 +1108,7 @@ VALUES
   ('Porto Alegre'),
   ('Cabo de Santo Agostinho'),
   ('Aparecida de Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Curitiba'),
   ('Olinda'),
@@ -1120,7 +1120,7 @@ VALUES
   ('Caruaru'),
   ('Santa Inês'),
   ('Rio de Janeiro');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Carapicuíba'),
   ('Caxias'),
@@ -1132,7 +1132,7 @@ VALUES
   ('Açailândia'),
   ('Itajaí'),
   ('Recife');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cajazeiras'),
   ('Maracanaú'),
@@ -1144,7 +1144,7 @@ VALUES
   ('Campos dos Goytacazes'),
   ('Caxias do Sul'),
   ('Recife');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Recife'),
   ('Belém'),
@@ -1156,7 +1156,7 @@ VALUES
   ('Patos'),
   ('Paço do Lumiar'),
   ('Florianópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cabo de Santo Agostinho'),
   ('Joinville'),
@@ -1168,7 +1168,7 @@ VALUES
   ('São Luís'),
   ('Blumenau'),
   ('Camaçari');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Castanhal'),
   ('São João de Meriti'),
@@ -1180,7 +1180,7 @@ VALUES
   ('Carapicuíba'),
   ('João Pessoa'),
   ('Santa Maria');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Olinda'),
   ('Santa Inês'),
@@ -1192,7 +1192,7 @@ VALUES
   ('Londrina'),
   ('Ipatinga'),
   ('Itajaí');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Criciúma'),
   ('Foz do Iguaçu'),
@@ -1208,7 +1208,7 @@ VALUES
 
 
 
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Chapadinha'),
   ('Caxias'),
@@ -1220,7 +1220,7 @@ VALUES
   ('Olinda'),
   ('Jaboatão dos Guararapes'),
   ('João Pessoa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Lauro de Freitas'),
   ('Belford Roxo'),
@@ -1232,7 +1232,7 @@ VALUES
   ('Campina Grande'),
   ('Belford Roxo'),
   ('Valparaíso de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sousa'),
   ('Juiz de Fora'),
@@ -1244,7 +1244,7 @@ VALUES
   ('Águas Lindas de Goiás'),
   ('Ribeirão Preto'),
   ('Aparecida de Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santarém'),
   ('Sete Lagoas'),
@@ -1256,7 +1256,7 @@ VALUES
   ('Osasco'),
   ('Maracanaú'),
   ('Itabuna');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ananindeua'),
   ('Guarulhos'),
@@ -1268,7 +1268,7 @@ VALUES
   ('Bayeux'),
   ('Camaçari'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Niterói'),
   ('Ananindeua'),
@@ -1280,7 +1280,7 @@ VALUES
   ('Carapicuíba'),
   ('Santa Maria'),
   ('Recife');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Niterói'),
   ('Goiânia'),
@@ -1292,7 +1292,7 @@ VALUES
   ('Cajazeiras'),
   ('Contagem'),
   ('Foz do Iguaçu');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Salvador'),
   ('Curitiba'),
@@ -1304,7 +1304,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Cametá'),
   ('Guarulhos');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Abaetetuba'),
   ('Criciúma'),
@@ -1316,7 +1316,7 @@ VALUES
   ('Osasco'),
   ('Campos dos Goytacazes'),
   ('Uberlândia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Salvador'),
   ('Londrina'),
@@ -1328,7 +1328,7 @@ VALUES
   ('Aparecida de Goiânia'),
   ('Duque de Caxias'),
   ('Vitória da Conquista');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bragança'),
   ('Timon'),
@@ -1340,7 +1340,7 @@ VALUES
   ('Criciúma'),
   ('Jundiaí'),
   ('Caxias do Sul');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Joinville'),
   ('Jundiaí'),
@@ -1352,7 +1352,7 @@ VALUES
   ('Aparecida de Goiânia'),
   ('Cajazeiras'),
   ('Paço do Lumiar');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São Luís'),
   ('Mauá'),
@@ -1364,7 +1364,7 @@ VALUES
   ('Caxias do Sul'),
   ('João Pessoa'),
   ('Águas Lindas de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itajaí'),
   ('Campina Grande'),
@@ -1376,7 +1376,7 @@ VALUES
   ('Ribeirão das Neves'),
   ('Campos dos Goytacazes'),
   ('Niterói');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Cabo de Santo Agostinho'),
@@ -1388,7 +1388,7 @@ VALUES
   ('Cascavel'),
   ('Olinda'),
   ('Santa Maria');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ilhéus'),
   ('Campina Grande'),
@@ -1400,7 +1400,7 @@ VALUES
   ('Olinda'),
   ('Novo Hamburgo'),
   ('Gravataí');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caucaia'),
   ('Cascavel'),
@@ -1412,7 +1412,7 @@ VALUES
   ('Imperatriz'),
   ('Divinópolis'),
   ('Anápolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Londrina'),
   ('Castanhal'),
@@ -1424,7 +1424,7 @@ VALUES
   ('Fortaleza'),
   ('Sousa'),
   ('Juazeiro do Norte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belo Horizonte'),
   ('Lauro de Freitas'),
@@ -1436,7 +1436,7 @@ VALUES
   ('Campina Grande'),
   ('Cabo de Santo Agostinho'),
   ('Chapecó');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Duque de Caxias'),
   ('Belo Horizonte'),
@@ -1448,7 +1448,7 @@ VALUES
   ('Criciúma'),
   ('Santarém'),
   ('Petrópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Maranguape'),
   ('Uberaba'),
@@ -1460,7 +1460,7 @@ VALUES
   ('Cabo de Santo Agostinho'),
   ('Contagem'),
   ('Maranguape');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Aparecida de Goiânia'),
   ('Maranguape'),
@@ -1472,7 +1472,7 @@ VALUES
   ('Aparecida de Goiânia'),
   ('Aparecida de Goiânia'),
   ('Rio de Janeiro');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Paranaguá'),
   ('Guarulhos'),
@@ -1484,7 +1484,7 @@ VALUES
   ('Anápolis'),
   ('Londrina'),
   ('Marabá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campina Grande'),
   ('São Gonçalo'),
@@ -1496,7 +1496,7 @@ VALUES
   ('Santarém'),
   ('Goiânia'),
   ('Belém');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Maracanaú'),
   ('Crato'),
@@ -1508,7 +1508,7 @@ VALUES
   ('Santa Inês'),
   ('Santa Maria'),
   ('Luziânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('Caxias do Sul'),
@@ -1520,7 +1520,7 @@ VALUES
   ('Piracicaba'),
   ('Juiz de Fora'),
   ('Betim');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Luziânia'),
   ('Camaçari'),
@@ -1532,7 +1532,7 @@ VALUES
   ('Parauapebas'),
   ('Gravataí'),
   ('Joinville');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Canoas'),
   ('Bragança'),
@@ -1544,7 +1544,7 @@ VALUES
   ('Itabuna'),
   ('Ribeirão das Neves'),
   ('Mauá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itapipoca'),
   ('Santarém'),
@@ -1556,7 +1556,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Ilhéus'),
   ('Bragança');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sobral'),
   ('Castanhal'),
@@ -1568,7 +1568,7 @@ VALUES
   ('Juazeiro'),
   ('Salvador'),
   ('Criciúma');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itabuna'),
   ('Uberlândia'),
@@ -1580,7 +1580,7 @@ VALUES
   ('Chapecó'),
   ('Crato'),
   ('Paulista');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Joinville'),
   ('Piracicaba'),
@@ -1592,7 +1592,7 @@ VALUES
   ('Cascavel'),
   ('Ribeirão Preto'),
   ('Contagem');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cabo de Santo Agostinho'),
   ('Caxias do Sul'),
@@ -1604,7 +1604,7 @@ VALUES
   ('Paço do Lumiar'),
   ('Recife'),
   ('Itabuna');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Duque de Caxias'),
   ('Fortaleza'),
@@ -1616,7 +1616,7 @@ VALUES
   ('Juazeiro do Norte'),
   ('Rio Verde'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Novo Hamburgo'),
   ('Cajazeiras'),
@@ -1628,7 +1628,7 @@ VALUES
   ('Patos'),
   ('Açailândia'),
   ('Barra do Corda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Verde'),
   ('Santa Rita'),
@@ -1640,7 +1640,7 @@ VALUES
   ('Novo Hamburgo'),
   ('São José'),
   ('Pelotas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Inês'),
   ('Santa Maria'),
@@ -1652,7 +1652,7 @@ VALUES
   ('Santa Maria'),
   ('Bacabal'),
   ('Diadema');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itajaí'),
   ('Itajaí'),
@@ -1664,7 +1664,7 @@ VALUES
   ('Caruaru'),
   ('Osasco'),
   ('Vitória da Conquista');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itapipoca'),
   ('Niterói'),
@@ -1676,7 +1676,7 @@ VALUES
   ('Santa Luzia'),
   ('Bragança'),
   ('Petrolina');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('João Pessoa'),
   ('Fortaleza'),
@@ -1688,7 +1688,7 @@ VALUES
   ('Camaçari'),
   ('Petrópolis'),
   ('Colombo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Abaetetuba'),
   ('São João de Meriti'),
@@ -1700,7 +1700,7 @@ VALUES
   ('Itabuna'),
   ('Campinas'),
   ('Cascavel');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Açailândia'),
   ('Juazeiro do Norte'),
@@ -1712,7 +1712,7 @@ VALUES
   ('Cametá'),
   ('Aparecida de Goiânia'),
   ('Lauro de Freitas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Canoas'),
   ('Castanhal'),
@@ -1724,7 +1724,7 @@ VALUES
   ('Cascavel'),
   ('Belo Horizonte'),
   ('Curitiba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Maranguape'),
   ('Chapadinha'),
@@ -1736,7 +1736,7 @@ VALUES
   ('Rio Verde'),
   ('Recife'),
   ('Canoas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Vitória da Conquista'),
   ('Petrópolis'),
@@ -1748,7 +1748,7 @@ VALUES
   ('Petrópolis'),
   ('Chapecó'),
   ('Aparecida de Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sete Lagoas'),
   ('Ilhéus'),
@@ -1760,7 +1760,7 @@ VALUES
   ('Fortaleza'),
   ('Goiânia'),
   ('Carapicuíba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Contagem'),
   ('Maranguape'),
@@ -1772,7 +1772,7 @@ VALUES
   ('Itapipoca'),
   ('Ribeirão Preto'),
   ('Açailândia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Florianópolis'),
   ('João Pessoa'),
@@ -1784,7 +1784,7 @@ VALUES
   ('Salvador'),
   ('Betim'),
   ('Criciúma');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro'),
   ('Joinville'),
@@ -1796,7 +1796,7 @@ VALUES
   ('Diadema'),
   ('Maranguape'),
   ('Ipatinga');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Patos'),
   ('Parauapebas'),
@@ -1813,7 +1813,7 @@ VALUES
 
 
 
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio de Janeiro'),
   ('Jaboatão dos Guararapes'),
@@ -1825,7 +1825,7 @@ VALUES
   ('Santa Maria'),
   ('Feira de Santana'),
   ('Campinas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Maria'),
   ('Fortaleza'),
@@ -1837,7 +1837,7 @@ VALUES
   ('Curitiba'),
   ('Itapipoca'),
   ('Governador Valadares');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarapuava'),
   ('Recife'),
@@ -1849,7 +1849,7 @@ VALUES
   ('Chapecó'),
   ('Santa Maria'),
   ('Cabo de Santo Agostinho');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Camaragibe'),
   ('Itajaí'),
@@ -1861,7 +1861,7 @@ VALUES
   ('Paulista'),
   ('Ilhéus'),
   ('João Pessoa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Salvador'),
   ('Novo Hamburgo'),
@@ -1873,7 +1873,7 @@ VALUES
   ('Florianópolis'),
   ('Criciúma'),
   ('Rio de Janeiro');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Florianópolis'),
   ('Ponta Grossa'),
@@ -1885,7 +1885,7 @@ VALUES
   ('Caucaia'),
   ('São João de Meriti'),
   ('Feira de Santana');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Foz do Iguaçu'),
   ('Maracanaú'),
@@ -1897,7 +1897,7 @@ VALUES
   ('Patos'),
   ('Porto Alegre'),
   ('Açailândia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Florianópolis'),
   ('São José'),
@@ -1909,7 +1909,7 @@ VALUES
   ('Belford Roxo'),
   ('Olinda'),
   ('Patos');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Castanhal'),
   ('Timon'),
@@ -1921,7 +1921,7 @@ VALUES
   ('Caucaia'),
   ('Valparaíso de Goiás'),
   ('Londrina');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Florianópolis'),
   ('São Gonçalo'),
@@ -1933,7 +1933,7 @@ VALUES
   ('Governador Valadares'),
   ('Guarulhos'),
   ('Joinville');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Divinópolis'),
   ('Caruaru'),
@@ -1945,7 +1945,7 @@ VALUES
   ('Camaragibe'),
   ('Águas Lindas de Goiás'),
   ('Santa Maria');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Luziânia'),
   ('Caruaru'),
@@ -1957,7 +1957,7 @@ VALUES
   ('Luziânia'),
   ('Marabá'),
   ('Juiz de Fora');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Feira de Santana'),
   ('Luziânia'),
@@ -1969,7 +1969,7 @@ VALUES
   ('Santa Inês'),
   ('Blumenau'),
   ('Caruaru');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São Gonçalo'),
   ('Juazeiro do Norte'),
@@ -1981,7 +1981,7 @@ VALUES
   ('Guarapuava'),
   ('Bayeux'),
   ('Belém');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Florianópolis'),
   ('Pelotas'),
@@ -1993,7 +1993,7 @@ VALUES
   ('São José dos Pinhais'),
   ('Olinda'),
   ('Duque de Caxias');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Diadema'),
   ('Cajazeiras'),
@@ -2005,7 +2005,7 @@ VALUES
   ('Diadema'),
   ('Castanhal'),
   ('Novo Hamburgo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Camaçari'),
   ('Montes Claros'),
@@ -2017,7 +2017,7 @@ VALUES
   ('Caxias'),
   ('Colombo'),
   ('Santa Rita');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Blumenau'),
   ('Criciúma'),
@@ -2029,7 +2029,7 @@ VALUES
   ('Sousa'),
   ('Paulista'),
   ('Juazeiro do Norte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Camaçari'),
   ('Londrina'),
@@ -2041,7 +2041,7 @@ VALUES
   ('Santarém'),
   ('João Pessoa'),
   ('Codó');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Petrolina'),
   ('Curitiba'),
@@ -2053,7 +2053,7 @@ VALUES
   ('Petrolina'),
   ('Anápolis'),
   ('Lauro de Freitas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro do Norte'),
   ('Vitória da Conquista'),
@@ -2065,7 +2065,7 @@ VALUES
   ('Maracanaú'),
   ('Rio de Janeiro'),
   ('São Gonçalo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Salvador'),
   ('Montes Claros'),
@@ -2077,7 +2077,7 @@ VALUES
   ('Londrina'),
   ('Juazeiro do Norte'),
   ('Lauro de Freitas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Paranaguá'),
   ('Feira de Santana'),
@@ -2089,7 +2089,7 @@ VALUES
   ('Jaboatão dos Guararapes'),
   ('Blumenau'),
   ('Chapecó');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Londrina'),
   ('Santa Luzia'),
@@ -2101,7 +2101,7 @@ VALUES
   ('Vitória da Conquista'),
   ('Foz do Iguaçu'),
   ('Campos dos Goytacazes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Castanhal'),
   ('Betim'),
@@ -2113,7 +2113,7 @@ VALUES
   ('Ribeirão Preto'),
   ('Guarapuava'),
   ('Canoas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Paranaguá'),
   ('Vitória da Conquista'),
@@ -2125,7 +2125,7 @@ VALUES
   ('Bacabal'),
   ('Maringá'),
   ('Santarém');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caxias'),
   ('Santa Rita'),
@@ -2137,7 +2137,7 @@ VALUES
   ('Caxias do Sul'),
   ('Águas Lindas de Goiás'),
   ('Açailândia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mauá'),
   ('Gravataí'),
@@ -2149,7 +2149,7 @@ VALUES
   ('Sete Lagoas'),
   ('Novo Hamburgo'),
   ('Carapicuíba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bacabal'),
   ('Foz do Iguaçu'),
@@ -2161,7 +2161,7 @@ VALUES
   ('Cabo de Santo Agostinho'),
   ('Niterói'),
   ('Caxias do Sul');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Canoas'),
   ('Betim'),
@@ -2173,7 +2173,7 @@ VALUES
   ('Petrolina'),
   ('Campinas'),
   ('Ilhéus');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Criciúma'),
   ('Cajazeiras'),
@@ -2185,7 +2185,7 @@ VALUES
   ('Aparecida de Goiânia'),
   ('Canoas'),
   ('Bragança');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Divinópolis'),
   ('Blumenau'),
@@ -2197,7 +2197,7 @@ VALUES
   ('Campos dos Goytacazes'),
   ('Montes Claros'),
   ('Cajazeiras');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itapipoca'),
   ('Patos'),
@@ -2209,7 +2209,7 @@ VALUES
   ('Montes Claros'),
   ('Feira de Santana'),
   ('Criciúma');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Foz do Iguaçu'),
   ('Anápolis'),
@@ -2221,7 +2221,7 @@ VALUES
   ('Balsas'),
   ('Jaboatão dos Guararapes'),
   ('Jundiaí');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caruaru'),
   ('Feira de Santana'),
@@ -2233,7 +2233,7 @@ VALUES
   ('Maranguape'),
   ('Maringá'),
   ('Belém');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Marabá'),
   ('Criciúma'),
@@ -2245,7 +2245,7 @@ VALUES
   ('Petrópolis'),
   ('Cametá'),
   ('Campinas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Petrolina'),
   ('Patos'),
@@ -2257,7 +2257,7 @@ VALUES
   ('Timon'),
   ('Jundiaí'),
   ('Salvador');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Castanhal'),
   ('Sobral'),
@@ -2269,7 +2269,7 @@ VALUES
   ('Ilhéus'),
   ('Anápolis'),
   ('Maringá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Grande'),
   ('Itapipoca'),
@@ -2281,7 +2281,7 @@ VALUES
   ('Juazeiro do Norte'),
   ('Jaboatão dos Guararapes'),
   ('Caruaru');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Chapecó'),
   ('Luziânia'),
@@ -2293,7 +2293,7 @@ VALUES
   ('Jundiaí'),
   ('Aparecida de Goiânia'),
   ('Diadema');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São Luís'),
   ('Salvador'),
@@ -2305,7 +2305,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Ponta Grossa'),
   ('João Pessoa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Governador Valadares'),
   ('Cabo de Santo Agostinho'),
@@ -2317,7 +2317,7 @@ VALUES
   ('Aparecida de Goiânia'),
   ('Castanhal'),
   ('Sobral');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São João de Meriti'),
   ('Abaetetuba'),
@@ -2329,7 +2329,7 @@ VALUES
   ('Londrina'),
   ('Feira de Santana'),
   ('Paulista');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Balsas'),
   ('Niterói'),
@@ -2341,7 +2341,7 @@ VALUES
   ('Petrolina'),
   ('Fortaleza'),
   ('Parauapebas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José dos Pinhais'),
   ('Florianópolis'),
@@ -2353,7 +2353,7 @@ VALUES
   ('Castanhal'),
   ('Maranguape'),
   ('Campinas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Canoas'),
   ('Itapipoca'),
@@ -2365,7 +2365,7 @@ VALUES
   ('Parauapebas'),
   ('Ilhéus'),
   ('Itapipoca');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão das Neves'),
   ('Cajazeiras'),
@@ -2377,7 +2377,7 @@ VALUES
   ('Cabo de Santo Agostinho'),
   ('Rio Grande'),
   ('Campos dos Goytacazes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão das Neves'),
   ('Ponta Grossa'),
@@ -2389,7 +2389,7 @@ VALUES
   ('Carapicuíba'),
   ('Camaragibe'),
   ('Niterói');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Sousa'),
@@ -2401,7 +2401,7 @@ VALUES
   ('Maracanaú'),
   ('Cabo de Santo Agostinho'),
   ('Valparaíso de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Foz do Iguaçu'),
   ('Itapipoca'),
@@ -2417,7 +2417,7 @@ VALUES
 
 
 
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Montes Claros'),
   ('Santa Luzia'),
@@ -2429,7 +2429,7 @@ VALUES
   ('Osasco'),
   ('São José dos Pinhais'),
   ('Bacabal');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('Feira de Santana'),
@@ -2441,7 +2441,7 @@ VALUES
   ('Ribeirão Preto'),
   ('Campinas'),
   ('Belford Roxo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Abaetetuba'),
   ('Codó'),
@@ -2453,7 +2453,7 @@ VALUES
   ('Itabuna'),
   ('Caxias do Sul'),
   ('Curitiba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Colombo'),
   ('Chapecó'),
@@ -2465,7 +2465,7 @@ VALUES
   ('Abaetetuba'),
   ('Jaboatão dos Guararapes'),
   ('Ipatinga');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Luziânia'),
   ('Diadema'),
@@ -2477,7 +2477,7 @@ VALUES
   ('Caruaru'),
   ('Bayeux'),
   ('Codó');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sousa'),
   ('Gravataí'),
@@ -2489,7 +2489,7 @@ VALUES
   ('Campina Grande'),
   ('Camaçari'),
   ('Uberaba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caruaru'),
   ('Petrópolis'),
@@ -2501,7 +2501,7 @@ VALUES
   ('Contagem'),
   ('Florianópolis'),
   ('Mauá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cajazeiras'),
   ('Chapadinha'),
@@ -2513,7 +2513,7 @@ VALUES
   ('Petrópolis'),
   ('Mogi das Cruzes'),
   ('Paranaguá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ponta Grossa'),
   ('Ribeirão das Neves'),
@@ -2525,7 +2525,7 @@ VALUES
   ('Paulista'),
   ('Caxias'),
   ('Juazeiro');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro do Norte'),
   ('Bayeux'),
@@ -2537,7 +2537,7 @@ VALUES
   ('Nova Iguaçu'),
   ('Feira de Santana'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro do Norte'),
   ('Cajazeiras'),
@@ -2549,7 +2549,7 @@ VALUES
   ('Pelotas'),
   ('Caucaia'),
   ('Maranguape');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio de Janeiro'),
   ('Foz do Iguaçu'),
@@ -2561,7 +2561,7 @@ VALUES
   ('Caucaia'),
   ('Porto Alegre'),
   ('Diadema');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caxias'),
   ('São Gonçalo'),
@@ -2573,7 +2573,7 @@ VALUES
   ('Cajazeiras'),
   ('Foz do Iguaçu'),
   ('Belford Roxo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Camaçari'),
   ('Fortaleza'),
@@ -2585,7 +2585,7 @@ VALUES
   ('Cabo de Santo Agostinho'),
   ('Duque de Caxias'),
   ('Colombo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Rita'),
   ('Anápolis'),
@@ -2597,7 +2597,7 @@ VALUES
   ('Itabuna'),
   ('Santa Maria'),
   ('Recife');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Grande'),
   ('São José'),
@@ -2609,7 +2609,7 @@ VALUES
   ('Juazeiro'),
   ('Juazeiro'),
   ('Salvador');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mauá'),
   ('Itajaí'),
@@ -2621,7 +2621,7 @@ VALUES
   ('Blumenau'),
   ('Guarulhos'),
   ('Caruaru');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Timon'),
@@ -2633,7 +2633,7 @@ VALUES
   ('Cabo de Santo Agostinho'),
   ('Barra do Corda'),
   ('Colombo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cabo de Santo Agostinho'),
   ('Anápolis'),
@@ -2645,7 +2645,7 @@ VALUES
   ('Blumenau'),
   ('Canoas'),
   ('Piracicaba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Porto Alegre'),
   ('Fortaleza'),
@@ -2657,7 +2657,7 @@ VALUES
   ('Itajaí'),
   ('Novo Hamburgo'),
   ('Cabo de Santo Agostinho');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Imperatriz'),
   ('Recife'),
@@ -2669,7 +2669,7 @@ VALUES
   ('Sobral'),
   ('Caxias do Sul'),
   ('Castanhal');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belo Horizonte'),
   ('Maracanaú'),
@@ -2681,7 +2681,7 @@ VALUES
   ('São José dos Pinhais'),
   ('Campina Grande'),
   ('Valparaíso de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Niterói'),
   ('João Pessoa'),
@@ -2693,7 +2693,7 @@ VALUES
   ('São José'),
   ('Caucaia'),
   ('Santarém');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caruaru'),
   ('Niterói'),
@@ -2705,7 +2705,7 @@ VALUES
   ('Rio Grande'),
   ('Cascavel'),
   ('Parauapebas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ilhéus'),
   ('Petrópolis'),
@@ -2717,7 +2717,7 @@ VALUES
   ('Parauapebas'),
   ('Campina Grande'),
   ('Porto Alegre');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cametá'),
   ('Bayeux'),
@@ -2729,7 +2729,7 @@ VALUES
   ('Santa Maria'),
   ('Lauro de Freitas'),
   ('Bragança');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão das Neves'),
   ('Bayeux'),
@@ -2741,7 +2741,7 @@ VALUES
   ('Petrópolis'),
   ('Juazeiro'),
   ('Cametá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Duque de Caxias'),
   ('Piracicaba'),
@@ -2753,7 +2753,7 @@ VALUES
   ('Rio Verde'),
   ('Vitória da Conquista'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bacabal'),
   ('Uberaba'),
@@ -2765,7 +2765,7 @@ VALUES
   ('Lauro de Freitas'),
   ('Chapadinha'),
   ('João Pessoa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jaboatão dos Guararapes'),
   ('Londrina'),
@@ -2777,7 +2777,7 @@ VALUES
   ('Curitiba'),
   ('Sousa'),
   ('Santa Rita');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jaboatão dos Guararapes'),
   ('Rio Verde'),
@@ -2789,7 +2789,7 @@ VALUES
   ('Novo Hamburgo'),
   ('Caxias do Sul'),
   ('Itapipoca');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Criciúma'),
   ('Duque de Caxias'),
@@ -2801,7 +2801,7 @@ VALUES
   ('Petrópolis'),
   ('Foz do Iguaçu'),
   ('Belford Roxo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Maracanaú'),
   ('Valparaíso de Goiás'),
@@ -2813,7 +2813,7 @@ VALUES
   ('Crato'),
   ('Florianópolis'),
   ('Recife');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Osasco'),
   ('Criciúma'),
@@ -2825,7 +2825,7 @@ VALUES
   ('Blumenau'),
   ('Maranguape'),
   ('Valparaíso de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jundiaí'),
   ('Jaboatão dos Guararapes'),
@@ -2837,7 +2837,7 @@ VALUES
   ('Santa Rita'),
   ('Caxias'),
   ('Osasco');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Paço do Lumiar'),
   ('Mogi das Cruzes'),
@@ -2849,7 +2849,7 @@ VALUES
   ('Chapadinha'),
   ('Pelotas'),
   ('Bayeux');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Sousa'),
@@ -2861,7 +2861,7 @@ VALUES
   ('Barra do Corda'),
   ('Petrópolis'),
   ('São Gonçalo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cametá'),
   ('Maranguape'),
@@ -2873,7 +2873,7 @@ VALUES
   ('Goiânia'),
   ('Ribeirão Preto'),
   ('Chapecó');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cajazeiras'),
   ('Açailândia'),
@@ -2885,7 +2885,7 @@ VALUES
   ('Jundiaí'),
   ('Paulista'),
   ('Maracanaú');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Marabá'),
   ('Caxias do Sul'),
@@ -2897,7 +2897,7 @@ VALUES
   ('Chapecó'),
   ('Duque de Caxias'),
   ('Ananindeua');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ananindeua'),
   ('Caucaia'),
@@ -2909,7 +2909,7 @@ VALUES
   ('Uberaba'),
   ('Goiânia'),
   ('Santa Rita');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Açailândia'),
   ('Cametá'),
@@ -2921,7 +2921,7 @@ VALUES
   ('Águas Lindas de Goiás'),
   ('Recife'),
   ('Fortaleza');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Aparecida de Goiânia'),
   ('Belém'),
@@ -2933,7 +2933,7 @@ VALUES
   ('Caucaia'),
   ('Santa Luzia'),
   ('Cabo de Santo Agostinho');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Camaçari'),
   ('Camaragibe'),
@@ -2945,7 +2945,7 @@ VALUES
   ('João Pessoa'),
   ('Itajaí'),
   ('Pelotas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itabuna'),
   ('Juazeiro do Norte'),
@@ -2957,7 +2957,7 @@ VALUES
   ('São José'),
   ('Imperatriz'),
   ('São José');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São João de Meriti'),
   ('Itapipoca'),
@@ -2969,7 +2969,7 @@ VALUES
   ('Caucaia'),
   ('Rio Grande'),
   ('Mauá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belo Horizonte'),
   ('Aparecida de Goiânia'),
@@ -2981,7 +2981,7 @@ VALUES
   ('Chapecó'),
   ('São Gonçalo'),
   ('Caruaru');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belém'),
   ('Mauá'),
@@ -2993,7 +2993,7 @@ VALUES
   ('Carapicuíba'),
   ('Nova Iguaçu'),
   ('Osasco');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campos dos Goytacazes'),
   ('São Luís'),
@@ -3005,7 +3005,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Chapecó'),
   ('Carapicuíba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itajaí'),
   ('Mogi das Cruzes'),
@@ -3021,7 +3021,7 @@ VALUES
 
 
 
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Petrolina'),
   ('Itapipoca'),
@@ -3033,7 +3033,7 @@ VALUES
   ('Chapadinha'),
   ('São Luís'),
   ('Pelotas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Grande'),
   ('Santa Rita'),
@@ -3045,7 +3045,7 @@ VALUES
   ('Petrolina'),
   ('Ponta Grossa'),
   ('Montes Claros');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Londrina'),
   ('Santarém'),
@@ -3057,7 +3057,7 @@ VALUES
   ('Belford Roxo'),
   ('Vitória da Conquista'),
   ('Luziânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campos dos Goytacazes'),
   ('Bayeux'),
@@ -3069,7 +3069,7 @@ VALUES
   ('Parauapebas'),
   ('Ilhéus'),
   ('Bayeux');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belém'),
   ('Caucaia'),
@@ -3081,7 +3081,7 @@ VALUES
   ('Ilhéus'),
   ('Santarém'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sete Lagoas'),
   ('Blumenau'),
@@ -3093,7 +3093,7 @@ VALUES
   ('Juiz de Fora'),
   ('Cabo de Santo Agostinho'),
   ('Belo Horizonte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José'),
   ('Rio Verde'),
@@ -3105,7 +3105,7 @@ VALUES
   ('Osasco'),
   ('Luziânia'),
   ('Camaragibe');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Verde'),
   ('Ribeirão das Neves'),
@@ -3117,7 +3117,7 @@ VALUES
   ('Santa Luzia'),
   ('Caxias do Sul'),
   ('Aparecida de Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Gravataí'),
   ('Novo Hamburgo'),
@@ -3129,7 +3129,7 @@ VALUES
   ('Chapadinha'),
   ('Cascavel'),
   ('Sousa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Verde'),
   ('Patos'),
@@ -3141,7 +3141,7 @@ VALUES
   ('São José dos Pinhais'),
   ('Guarulhos'),
   ('Caxias');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Imperatriz'),
   ('Santa Maria'),
@@ -3153,7 +3153,7 @@ VALUES
   ('Pelotas'),
   ('Guarulhos'),
   ('Ponta Grossa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Balsas'),
   ('Itajaí'),
@@ -3165,7 +3165,7 @@ VALUES
   ('Mauá'),
   ('Feira de Santana'),
   ('São Gonçalo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Valparaíso de Goiás'),
   ('Rio Verde'),
@@ -3177,7 +3177,7 @@ VALUES
   ('Chapecó'),
   ('Colombo'),
   ('Bayeux');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juiz de Fora'),
   ('Itabuna'),
@@ -3189,7 +3189,7 @@ VALUES
   ('Belém'),
   ('Mauá'),
   ('São José');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Cametá'),
@@ -3201,7 +3201,7 @@ VALUES
   ('Novo Hamburgo'),
   ('Pelotas'),
   ('Castanhal');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro'),
   ('Uberlândia'),
@@ -3213,7 +3213,7 @@ VALUES
   ('Duque de Caxias'),
   ('Florianópolis'),
   ('Patos');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mauá'),
   ('Governador Valadares'),
@@ -3225,7 +3225,7 @@ VALUES
   ('Mauá'),
   ('Governador Valadares'),
   ('Itabuna');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarulhos'),
   ('Piracicaba'),
@@ -3237,7 +3237,7 @@ VALUES
   ('Cabo de Santo Agostinho'),
   ('João Pessoa'),
   ('Patos');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caucaia'),
   ('Juazeiro'),
@@ -3249,7 +3249,7 @@ VALUES
   ('Itapipoca'),
   ('Codó'),
   ('Santarém');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cabo de Santo Agostinho'),
   ('Salvador'),
@@ -3261,7 +3261,7 @@ VALUES
   ('Foz do Iguaçu'),
   ('Florianópolis'),
   ('Ilhéus');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santarém'),
   ('Ipatinga'),
@@ -3273,7 +3273,7 @@ VALUES
   ('Governador Valadares'),
   ('Itajaí'),
   ('Bragança');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Osasco'),
   ('Colombo'),
@@ -3285,7 +3285,7 @@ VALUES
   ('Niterói'),
   ('Londrina'),
   ('Águas Lindas de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarapuava'),
   ('Ananindeua'),
@@ -3297,7 +3297,7 @@ VALUES
   ('Aparecida de Goiânia'),
   ('Belo Horizonte'),
   ('Luziânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Betim'),
   ('Cajazeiras'),
@@ -3309,7 +3309,7 @@ VALUES
   ('Salvador'),
   ('Itabuna'),
   ('Crato');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Nova Iguaçu'),
   ('Gravataí'),
@@ -3321,7 +3321,7 @@ VALUES
   ('Camaragibe'),
   ('Salvador'),
   ('Cajazeiras');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Patos'),
   ('Sousa'),
@@ -3333,7 +3333,7 @@ VALUES
   ('Gravataí'),
   ('Rio de Janeiro'),
   ('Campos dos Goytacazes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Governador Valadares'),
   ('Crato'),
@@ -3345,7 +3345,7 @@ VALUES
   ('Paço do Lumiar'),
   ('Barra do Corda'),
   ('Vitória da Conquista');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sobral'),
   ('Belo Horizonte'),
@@ -3357,7 +3357,7 @@ VALUES
   ('Chapecó'),
   ('Criciúma'),
   ('Santa Maria');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caruaru'),
   ('Feira de Santana'),
@@ -3369,7 +3369,7 @@ VALUES
   ('Foz do Iguaçu'),
   ('Colombo'),
   ('Piracicaba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Camaragibe'),
   ('Osasco'),
@@ -3381,7 +3381,7 @@ VALUES
   ('Petrópolis'),
   ('Divinópolis'),
   ('Juazeiro');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Timon'),
   ('Mauá'),
@@ -3393,7 +3393,7 @@ VALUES
   ('São José'),
   ('Chapadinha'),
   ('Betim');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Niterói'),
   ('Cajazeiras'),
@@ -3405,7 +3405,7 @@ VALUES
   ('Sousa'),
   ('Santa Inês'),
   ('Camaçari');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Crato'),
   ('Castanhal'),
@@ -3417,7 +3417,7 @@ VALUES
   ('Caruaru'),
   ('Gravataí'),
   ('Feira de Santana');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('João Pessoa'),
   ('Marabá'),
@@ -3429,7 +3429,7 @@ VALUES
   ('Caucaia'),
   ('Mauá'),
   ('Joinville');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caxias do Sul'),
   ('Lauro de Freitas'),
@@ -3441,7 +3441,7 @@ VALUES
   ('Camaragibe'),
   ('Itajaí'),
   ('Lauro de Freitas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Maranguape'),
   ('Jaboatão dos Guararapes'),
@@ -3453,7 +3453,7 @@ VALUES
   ('Florianópolis'),
   ('Florianópolis'),
   ('Patos');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São João de Meriti'),
   ('Rio de Janeiro'),
@@ -3465,7 +3465,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Caxias'),
   ('Belém');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Crato'),
   ('Santa Rita'),
@@ -3477,7 +3477,7 @@ VALUES
   ('Feira de Santana'),
   ('São José dos Pinhais'),
   ('Salvador');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Pelotas'),
   ('Santa Inês'),
@@ -3489,7 +3489,7 @@ VALUES
   ('Águas Lindas de Goiás'),
   ('Bragança'),
   ('São José dos Pinhais');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Rita'),
   ('Montes Claros'),
@@ -3501,7 +3501,7 @@ VALUES
   ('Castanhal'),
   ('Montes Claros'),
   ('São José dos Pinhais');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campinas'),
   ('Parauapebas'),
@@ -3513,7 +3513,7 @@ VALUES
   ('Itajaí'),
   ('Caucaia'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Luziânia'),
   ('Chapecó'),
@@ -3525,7 +3525,7 @@ VALUES
   ('Caucaia'),
   ('Juiz de Fora'),
   ('Crato');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Aparecida de Goiânia'),
   ('Ribeirão Preto'),
@@ -3537,7 +3537,7 @@ VALUES
   ('Luziânia'),
   ('Chapadinha'),
   ('São João de Meriti');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bacabal'),
   ('Joinville'),
@@ -3549,7 +3549,7 @@ VALUES
   ('Paulista'),
   ('Juazeiro'),
   ('Piracicaba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Chapecó'),
   ('Sobral'),
@@ -3561,7 +3561,7 @@ VALUES
   ('Divinópolis'),
   ('Montes Claros'),
   ('Balsas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Abaetetuba'),
   ('Paço do Lumiar'),
@@ -3573,7 +3573,7 @@ VALUES
   ('Caxias do Sul'),
   ('Mauá'),
   ('Piracicaba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Verde'),
   ('Duque de Caxias'),
@@ -3585,7 +3585,7 @@ VALUES
   ('Ribeirão Preto'),
   ('Sobral'),
   ('Camaragibe');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Maria'),
   ('Marabá'),
@@ -3597,7 +3597,7 @@ VALUES
   ('Canoas'),
   ('Petrópolis'),
   ('Caxias');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão Preto'),
   ('Camaçari'),
@@ -3609,7 +3609,7 @@ VALUES
   ('Patos'),
   ('Balsas'),
   ('Bacabal');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jaboatão dos Guararapes'),
   ('Luziânia'),
@@ -3624,7 +3624,7 @@ VALUES
 
 
 
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Sousa'),
@@ -3636,7 +3636,7 @@ VALUES
   ('Cascavel'),
   ('Petrópolis'),
   ('Osasco');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Colombo'),
   ('Foz do Iguaçu'),
@@ -3648,7 +3648,7 @@ VALUES
   ('Juazeiro'),
   ('Paço do Lumiar'),
   ('Santa Inês');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Aparecida de Goiânia'),
   ('Juazeiro do Norte'),
@@ -3660,7 +3660,7 @@ VALUES
   ('Itabuna'),
   ('Sousa'),
   ('Caruaru');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Rio Verde'),
@@ -3672,7 +3672,7 @@ VALUES
   ('Jaboatão dos Guararapes'),
   ('Patos'),
   ('Criciúma');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sete Lagoas'),
   ('Nova Iguaçu'),
@@ -3684,7 +3684,7 @@ VALUES
   ('Cascavel'),
   ('São João de Meriti'),
   ('Santa Luzia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarulhos'),
   ('Bragança'),
@@ -3696,7 +3696,7 @@ VALUES
   ('Jaboatão dos Guararapes'),
   ('Criciúma'),
   ('Ponta Grossa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Valparaíso de Goiás'),
   ('Cajazeiras'),
@@ -3708,7 +3708,7 @@ VALUES
   ('Aparecida de Goiânia'),
   ('Guarulhos'),
   ('Vitória da Conquista');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Rita'),
   ('Jaboatão dos Guararapes'),
@@ -3720,7 +3720,7 @@ VALUES
   ('Cabo de Santo Agostinho'),
   ('Juiz de Fora'),
   ('São Gonçalo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itabuna'),
   ('João Pessoa'),
@@ -3732,7 +3732,7 @@ VALUES
   ('Maracanaú'),
   ('Governador Valadares'),
   ('João Pessoa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Osasco'),
   ('Campos dos Goytacazes'),
@@ -3744,7 +3744,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Betim'),
   ('Itabuna');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('São José'),
@@ -3756,7 +3756,7 @@ VALUES
   ('Campina Grande'),
   ('Anápolis'),
   ('Governador Valadares');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Parauapebas'),
   ('Sobral'),
@@ -3768,7 +3768,7 @@ VALUES
   ('Castanhal'),
   ('Jundiaí'),
   ('Cascavel');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio de Janeiro'),
   ('Chapadinha'),
@@ -3780,7 +3780,7 @@ VALUES
   ('Belém'),
   ('Jundiaí'),
   ('Timon');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bragança'),
   ('Ponta Grossa'),
@@ -3792,7 +3792,7 @@ VALUES
   ('Maranguape'),
   ('Luziânia'),
   ('Crato');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Foz do Iguaçu'),
   ('Florianópolis'),
@@ -3804,7 +3804,7 @@ VALUES
   ('São Luís'),
   ('Marabá'),
   ('Castanhal');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José dos Pinhais'),
   ('Itajaí'),
@@ -3816,7 +3816,7 @@ VALUES
   ('Fortaleza'),
   ('Sousa'),
   ('Ribeirão Preto');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Paranaguá'),
   ('Porto Alegre'),
@@ -3828,7 +3828,7 @@ VALUES
   ('São José dos Pinhais'),
   ('Novo Hamburgo'),
   ('Londrina');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('Gravataí'),
@@ -3840,7 +3840,7 @@ VALUES
   ('Governador Valadares'),
   ('São José'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mauá'),
   ('Imperatriz'),
@@ -3852,7 +3852,7 @@ VALUES
   ('São Gonçalo'),
   ('Luziânia'),
   ('São José dos Pinhais');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Curitiba'),
   ('Carapicuíba'),
@@ -3864,7 +3864,7 @@ VALUES
   ('Rio Verde'),
   ('Lauro de Freitas'),
   ('São José dos Pinhais');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campina Grande'),
   ('Belford Roxo'),
@@ -3876,7 +3876,7 @@ VALUES
   ('São José dos Pinhais'),
   ('Patos'),
   ('Campinas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Açailândia'),
   ('Ribeirão Preto'),
@@ -3888,7 +3888,7 @@ VALUES
   ('Camaçari'),
   ('Vitória da Conquista'),
   ('Nova Iguaçu');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campinas'),
   ('Juazeiro do Norte'),
@@ -3900,7 +3900,7 @@ VALUES
   ('Duque de Caxias'),
   ('Luziânia'),
   ('Feira de Santana');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sousa'),
   ('Valparaíso de Goiás'),
@@ -3912,7 +3912,7 @@ VALUES
   ('Gravataí'),
   ('Chapadinha'),
   ('Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarulhos'),
   ('Parauapebas'),
@@ -3924,7 +3924,7 @@ VALUES
   ('Montes Claros'),
   ('Águas Lindas de Goiás'),
   ('São José');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São João de Meriti'),
   ('Londrina'),
@@ -3936,7 +3936,7 @@ VALUES
   ('Pelotas'),
   ('Itapipoca'),
   ('Sousa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Chapecó'),
   ('Belém'),
@@ -3948,7 +3948,7 @@ VALUES
   ('Anápolis'),
   ('Itabuna'),
   ('Codó');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caruaru'),
   ('Itapipoca'),
@@ -3960,7 +3960,7 @@ VALUES
   ('Vitória da Conquista'),
   ('Ipatinga'),
   ('Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Niterói'),
   ('Ilhéus'),
@@ -3972,7 +3972,7 @@ VALUES
   ('Marabá'),
   ('Maringá'),
   ('Camaragibe');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Barra do Corda'),
@@ -3984,7 +3984,7 @@ VALUES
   ('Londrina'),
   ('Belford Roxo'),
   ('Ilhéus');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Uberlândia'),
   ('Salvador'),
@@ -3996,7 +3996,7 @@ VALUES
   ('Carapicuíba'),
   ('Santarém'),
   ('Barra do Corda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão Preto'),
   ('Ananindeua'),
@@ -4008,7 +4008,7 @@ VALUES
   ('Camaragibe'),
   ('Bacabal'),
   ('Itabuna');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itapipoca'),
   ('Olinda'),
@@ -4020,7 +4020,7 @@ VALUES
   ('João Pessoa'),
   ('Itabuna'),
   ('Rio Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jaboatão dos Guararapes'),
   ('Jaboatão dos Guararapes'),
@@ -4032,7 +4032,7 @@ VALUES
   ('Ananindeua'),
   ('Joinville'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Osasco'),
   ('Patos'),
@@ -4044,7 +4044,7 @@ VALUES
   ('Osasco'),
   ('Foz do Iguaçu'),
   ('Maringá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sousa'),
   ('Ipatinga'),
@@ -4056,7 +4056,7 @@ VALUES
   ('Águas Lindas de Goiás'),
   ('Jaboatão dos Guararapes'),
   ('Marabá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('João Pessoa'),
   ('Uberaba'),
@@ -4068,7 +4068,7 @@ VALUES
   ('São José'),
   ('Curitiba'),
   ('Juazeiro do Norte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belém'),
   ('Maracanaú'),
@@ -4080,7 +4080,7 @@ VALUES
   ('Castanhal'),
   ('Goiânia'),
   ('Uberlândia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Maringá'),
   ('Osasco'),
@@ -4092,7 +4092,7 @@ VALUES
   ('Feira de Santana'),
   ('Nova Iguaçu'),
   ('Juazeiro');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itabuna'),
   ('Campinas'),
@@ -4104,7 +4104,7 @@ VALUES
   ('Guarapuava'),
   ('Florianópolis'),
   ('Castanhal');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José dos Pinhais'),
   ('Belford Roxo'),
@@ -4116,7 +4116,7 @@ VALUES
   ('Ipatinga'),
   ('Cascavel'),
   ('Novo Hamburgo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caucaia'),
   ('Açailândia'),
@@ -4128,7 +4128,7 @@ VALUES
   ('Bragança'),
   ('Paulista'),
   ('Rio Verde');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Canoas'),
   ('Sobral'),
@@ -4140,7 +4140,7 @@ VALUES
   ('São João de Meriti'),
   ('Sete Lagoas'),
   ('Balsas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Betim'),
   ('Maringá'),
@@ -4152,7 +4152,7 @@ VALUES
   ('Belo Horizonte'),
   ('Águas Lindas de Goiás'),
   ('Cabo de Santo Agostinho');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Foz do Iguaçu'),
   ('Abaetetuba'),
@@ -4164,7 +4164,7 @@ VALUES
   ('Luziânia'),
   ('Juazeiro do Norte'),
   ('Campos dos Goytacazes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José dos Pinhais'),
   ('Campos dos Goytacazes'),
@@ -4176,7 +4176,7 @@ VALUES
   ('Mogi das Cruzes'),
   ('Joinville'),
   ('Águas Lindas de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ananindeua'),
   ('Cajazeiras'),
@@ -4188,7 +4188,7 @@ VALUES
   ('Florianópolis'),
   ('Itabuna'),
   ('Duque de Caxias');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itajaí'),
   ('Curitiba'),
@@ -4200,7 +4200,7 @@ VALUES
   ('Campinas'),
   ('Sobral'),
   ('Santa Luzia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Valparaíso de Goiás'),
   ('Sousa'),
@@ -4212,7 +4212,7 @@ VALUES
   ('Londrina'),
   ('Timon'),
   ('Belford Roxo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Chapecó'),
   ('Maringá'),
@@ -4228,7 +4228,7 @@ VALUES
 
 
 
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Sousa'),
@@ -4240,7 +4240,7 @@ VALUES
   ('Cascavel'),
   ('Petrópolis'),
   ('Osasco');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Colombo'),
   ('Foz do Iguaçu'),
@@ -4252,7 +4252,7 @@ VALUES
   ('Juazeiro'),
   ('Paço do Lumiar'),
   ('Santa Inês');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Aparecida de Goiânia'),
   ('Juazeiro do Norte'),
@@ -4264,7 +4264,7 @@ VALUES
   ('Itabuna'),
   ('Sousa'),
   ('Caruaru');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Rio Verde'),
@@ -4276,7 +4276,7 @@ VALUES
   ('Jaboatão dos Guararapes'),
   ('Patos'),
   ('Criciúma');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sete Lagoas'),
   ('Nova Iguaçu'),
@@ -4288,7 +4288,7 @@ VALUES
   ('Cascavel'),
   ('São João de Meriti'),
   ('Santa Luzia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarulhos'),
   ('Bragança'),
@@ -4300,7 +4300,7 @@ VALUES
   ('Jaboatão dos Guararapes'),
   ('Criciúma'),
   ('Ponta Grossa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Valparaíso de Goiás'),
   ('Cajazeiras'),
@@ -4312,7 +4312,7 @@ VALUES
   ('Aparecida de Goiânia'),
   ('Guarulhos'),
   ('Vitória da Conquista');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Rita'),
   ('Jaboatão dos Guararapes'),
@@ -4324,7 +4324,7 @@ VALUES
   ('Cabo de Santo Agostinho'),
   ('Juiz de Fora'),
   ('São Gonçalo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itabuna'),
   ('João Pessoa'),
@@ -4336,7 +4336,7 @@ VALUES
   ('Maracanaú'),
   ('Governador Valadares'),
   ('João Pessoa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Osasco'),
   ('Campos dos Goytacazes'),
@@ -4348,7 +4348,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Betim'),
   ('Itabuna');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('São José'),
@@ -4360,7 +4360,7 @@ VALUES
   ('Campina Grande'),
   ('Anápolis'),
   ('Governador Valadares');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Parauapebas'),
   ('Sobral'),
@@ -4372,7 +4372,7 @@ VALUES
   ('Castanhal'),
   ('Jundiaí'),
   ('Cascavel');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio de Janeiro'),
   ('Chapadinha'),
@@ -4384,7 +4384,7 @@ VALUES
   ('Belém'),
   ('Jundiaí'),
   ('Timon');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bragança'),
   ('Ponta Grossa'),
@@ -4396,7 +4396,7 @@ VALUES
   ('Maranguape'),
   ('Luziânia'),
   ('Crato');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Foz do Iguaçu'),
   ('Florianópolis'),
@@ -4408,7 +4408,7 @@ VALUES
   ('São Luís'),
   ('Marabá'),
   ('Castanhal');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José dos Pinhais'),
   ('Itajaí'),
@@ -4420,7 +4420,7 @@ VALUES
   ('Fortaleza'),
   ('Sousa'),
   ('Ribeirão Preto');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Paranaguá'),
   ('Porto Alegre'),
@@ -4432,7 +4432,7 @@ VALUES
   ('São José dos Pinhais'),
   ('Novo Hamburgo'),
   ('Londrina');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('Gravataí'),
@@ -4444,7 +4444,7 @@ VALUES
   ('Governador Valadares'),
   ('São José'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mauá'),
   ('Imperatriz'),
@@ -4456,7 +4456,7 @@ VALUES
   ('São Gonçalo'),
   ('Luziânia'),
   ('São José dos Pinhais');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Curitiba'),
   ('Carapicuíba'),
@@ -4468,7 +4468,7 @@ VALUES
   ('Rio Verde'),
   ('Lauro de Freitas'),
   ('São José dos Pinhais');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campina Grande'),
   ('Belford Roxo'),
@@ -4480,7 +4480,7 @@ VALUES
   ('São José dos Pinhais'),
   ('Patos'),
   ('Campinas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Açailândia'),
   ('Ribeirão Preto'),
@@ -4492,7 +4492,7 @@ VALUES
   ('Camaçari'),
   ('Vitória da Conquista'),
   ('Nova Iguaçu');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campinas'),
   ('Juazeiro do Norte'),
@@ -4504,7 +4504,7 @@ VALUES
   ('Duque de Caxias'),
   ('Luziânia'),
   ('Feira de Santana');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sousa'),
   ('Valparaíso de Goiás'),
@@ -4516,7 +4516,7 @@ VALUES
   ('Gravataí'),
   ('Chapadinha'),
   ('Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarulhos'),
   ('Parauapebas'),
@@ -4528,7 +4528,7 @@ VALUES
   ('Montes Claros'),
   ('Águas Lindas de Goiás'),
   ('São José');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São João de Meriti'),
   ('Londrina'),
@@ -4540,7 +4540,7 @@ VALUES
   ('Pelotas'),
   ('Itapipoca'),
   ('Sousa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Chapecó'),
   ('Belém'),
@@ -4552,7 +4552,7 @@ VALUES
   ('Anápolis'),
   ('Itabuna'),
   ('Codó');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caruaru'),
   ('Itapipoca'),
@@ -4564,7 +4564,7 @@ VALUES
   ('Vitória da Conquista'),
   ('Ipatinga'),
   ('Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Niterói'),
   ('Ilhéus'),
@@ -4576,7 +4576,7 @@ VALUES
   ('Marabá'),
   ('Maringá'),
   ('Camaragibe');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Barra do Corda'),
@@ -4588,7 +4588,7 @@ VALUES
   ('Londrina'),
   ('Belford Roxo'),
   ('Ilhéus');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Uberlândia'),
   ('Salvador'),
@@ -4600,7 +4600,7 @@ VALUES
   ('Carapicuíba'),
   ('Santarém'),
   ('Barra do Corda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão Preto'),
   ('Ananindeua'),
@@ -4612,7 +4612,7 @@ VALUES
   ('Camaragibe'),
   ('Bacabal'),
   ('Itabuna');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itapipoca'),
   ('Olinda'),
@@ -4624,7 +4624,7 @@ VALUES
   ('João Pessoa'),
   ('Itabuna'),
   ('Rio Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jaboatão dos Guararapes'),
   ('Jaboatão dos Guararapes'),
@@ -4636,7 +4636,7 @@ VALUES
   ('Ananindeua'),
   ('Joinville'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Osasco'),
   ('Patos'),
@@ -4648,7 +4648,7 @@ VALUES
   ('Osasco'),
   ('Foz do Iguaçu'),
   ('Maringá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sousa'),
   ('Ipatinga'),
@@ -4660,7 +4660,7 @@ VALUES
   ('Águas Lindas de Goiás'),
   ('Jaboatão dos Guararapes'),
   ('Marabá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('João Pessoa'),
   ('Uberaba'),
@@ -4672,7 +4672,7 @@ VALUES
   ('São José'),
   ('Curitiba'),
   ('Juazeiro do Norte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belém'),
   ('Maracanaú'),
@@ -4684,7 +4684,7 @@ VALUES
   ('Castanhal'),
   ('Goiânia'),
   ('Uberlândia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Maringá'),
   ('Osasco'),
@@ -4696,7 +4696,7 @@ VALUES
   ('Feira de Santana'),
   ('Nova Iguaçu'),
   ('Juazeiro');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itabuna'),
   ('Campinas'),
@@ -4708,7 +4708,7 @@ VALUES
   ('Guarapuava'),
   ('Florianópolis'),
   ('Castanhal');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José dos Pinhais'),
   ('Belford Roxo'),
@@ -4720,7 +4720,7 @@ VALUES
   ('Ipatinga'),
   ('Cascavel'),
   ('Novo Hamburgo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caucaia'),
   ('Açailândia'),
@@ -4732,7 +4732,7 @@ VALUES
   ('Bragança'),
   ('Paulista'),
   ('Rio Verde');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Canoas'),
   ('Sobral'),
@@ -4744,7 +4744,7 @@ VALUES
   ('São João de Meriti'),
   ('Sete Lagoas'),
   ('Balsas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Betim'),
   ('Maringá'),
@@ -4756,7 +4756,7 @@ VALUES
   ('Belo Horizonte'),
   ('Águas Lindas de Goiás'),
   ('Cabo de Santo Agostinho');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Foz do Iguaçu'),
   ('Abaetetuba'),
@@ -4768,7 +4768,7 @@ VALUES
   ('Luziânia'),
   ('Juazeiro do Norte'),
   ('Campos dos Goytacazes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José dos Pinhais'),
   ('Campos dos Goytacazes'),
@@ -4780,7 +4780,7 @@ VALUES
   ('Mogi das Cruzes'),
   ('Joinville'),
   ('Águas Lindas de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ananindeua'),
   ('Cajazeiras'),
@@ -4792,7 +4792,7 @@ VALUES
   ('Florianópolis'),
   ('Itabuna'),
   ('Duque de Caxias');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itajaí'),
   ('Curitiba'),
@@ -4804,7 +4804,7 @@ VALUES
   ('Campinas'),
   ('Sobral'),
   ('Santa Luzia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Valparaíso de Goiás'),
   ('Sousa'),
@@ -4816,7 +4816,7 @@ VALUES
   ('Londrina'),
   ('Timon'),
   ('Belford Roxo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Chapecó'),
   ('Maringá'),
@@ -4832,7 +4832,7 @@ VALUES
 
 
 
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Osasco'),
   ('Joinville'),
@@ -4844,7 +4844,7 @@ VALUES
   ('Uberaba'),
   ('Vitória da Conquista'),
   ('Canoas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Duque de Caxias'),
   ('Guarulhos'),
@@ -4856,7 +4856,7 @@ VALUES
   ('Patos'),
   ('Guarulhos'),
   ('Guarulhos');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bragança'),
   ('Ananindeua'),
@@ -4868,7 +4868,7 @@ VALUES
   ('Itapipoca'),
   ('Ilhéus'),
   ('Maracanaú');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Recife'),
   ('Goiânia'),
@@ -4880,7 +4880,7 @@ VALUES
   ('Governador Valadares'),
   ('Recife'),
   ('Porto Alegre');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caruaru'),
   ('Contagem'),
@@ -4892,7 +4892,7 @@ VALUES
   ('Barra do Corda'),
   ('Caruaru'),
   ('Juazeiro do Norte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Pelotas'),
   ('Jundiaí'),
@@ -4904,7 +4904,7 @@ VALUES
   ('Balsas'),
   ('Crato'),
   ('Santa Rita');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Colombo'),
   ('Vitória da Conquista'),
@@ -4916,7 +4916,7 @@ VALUES
   ('Santa Inês'),
   ('Gravataí'),
   ('Joinville');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jundiaí'),
   ('Uberaba'),
@@ -4928,7 +4928,7 @@ VALUES
   ('Itajaí'),
   ('Valparaíso de Goiás'),
   ('Bayeux');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ponta Grossa'),
   ('Bragança'),
@@ -4940,7 +4940,7 @@ VALUES
   ('Guarapuava'),
   ('Timon'),
   ('Campinas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Vitória da Conquista'),
   ('Açailândia'),
@@ -4952,7 +4952,7 @@ VALUES
   ('Luziânia'),
   ('Sobral'),
   ('Imperatriz');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Pelotas'),
   ('Gravataí'),
@@ -4964,7 +4964,7 @@ VALUES
   ('Ananindeua'),
   ('Recife'),
   ('Ananindeua');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Camaragibe'),
   ('Caxias do Sul'),
@@ -4976,7 +4976,7 @@ VALUES
   ('Timon'),
   ('São Gonçalo'),
   ('Maringá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Novo Hamburgo'),
   ('Lauro de Freitas'),
@@ -4988,7 +4988,7 @@ VALUES
   ('Goiânia'),
   ('Santa Inês'),
   ('Chapadinha');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Vitória da Conquista'),
   ('Joinville'),
@@ -5000,7 +5000,7 @@ VALUES
   ('Mauá'),
   ('Betim'),
   ('Itabuna');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Abaetetuba'),
   ('Novo Hamburgo'),
@@ -5012,7 +5012,7 @@ VALUES
   ('Porto Alegre'),
   ('Divinópolis'),
   ('Pelotas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ilhéus'),
   ('Santa Inês'),
@@ -5024,7 +5024,7 @@ VALUES
   ('João Pessoa'),
   ('Paranaguá'),
   ('Olinda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bragança'),
   ('São José dos Pinhais'),
@@ -5036,7 +5036,7 @@ VALUES
   ('Uberlândia'),
   ('Canoas'),
   ('Ilhéus');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Grande'),
   ('Joinville'),
@@ -5048,7 +5048,7 @@ VALUES
   ('Campos dos Goytacazes'),
   ('Novo Hamburgo'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jundiaí'),
   ('Campos dos Goytacazes'),
@@ -5060,7 +5060,7 @@ VALUES
   ('Ipatinga'),
   ('Imperatriz'),
   ('Balsas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Camaragibe'),
   ('Ribeirão Preto'),
@@ -5072,7 +5072,7 @@ VALUES
   ('Barra do Corda'),
   ('Vitória da Conquista'),
   ('Lauro de Freitas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Niterói'),
   ('Itajaí'),
@@ -5084,7 +5084,7 @@ VALUES
   ('Rio Grande'),
   ('Luziânia'),
   ('Parauapebas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itapipoca'),
   ('Campinas'),
@@ -5096,7 +5096,7 @@ VALUES
   ('Chapecó'),
   ('Sousa'),
   ('Santa Inês');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('Cametá'),
@@ -5108,7 +5108,7 @@ VALUES
   ('Parauapebas'),
   ('Florianópolis'),
   ('São Luís');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Maria'),
   ('Marabá'),
@@ -5120,7 +5120,7 @@ VALUES
   ('Uberaba'),
   ('Rio de Janeiro'),
   ('Marabá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Petrópolis'),
   ('Belo Horizonte'),
@@ -5132,7 +5132,7 @@ VALUES
   ('Blumenau'),
   ('Maracanaú'),
   ('Ponta Grossa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Maranguape'),
   ('São Luís'),
@@ -5144,7 +5144,7 @@ VALUES
   ('Codó'),
   ('Luziânia'),
   ('São Luís');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Chapecó'),
   ('Paranaguá'),
@@ -5156,7 +5156,7 @@ VALUES
   ('Santa Rita'),
   ('Itajaí'),
   ('Ilhéus');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Camaçari'),
   ('Belém'),
@@ -5168,7 +5168,7 @@ VALUES
   ('Gravataí'),
   ('Itabuna'),
   ('Duque de Caxias');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Anápolis'),
   ('Salvador'),
@@ -5180,7 +5180,7 @@ VALUES
   ('São José dos Pinhais'),
   ('Santa Rita'),
   ('Diadema');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caruaru'),
   ('Guarapuava'),
@@ -5192,7 +5192,7 @@ VALUES
   ('Recife'),
   ('Balsas'),
   ('Bayeux');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cascavel'),
   ('Crato'),
@@ -5204,7 +5204,7 @@ VALUES
   ('Fortaleza'),
   ('Paulista'),
   ('Juazeiro do Norte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Porto Alegre'),
   ('Blumenau'),
@@ -5216,7 +5216,7 @@ VALUES
   ('Canoas'),
   ('Jundiaí'),
   ('Petrópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belo Horizonte'),
   ('São José'),
@@ -5228,7 +5228,7 @@ VALUES
   ('Santa Rita'),
   ('Juiz de Fora'),
   ('Salvador');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belford Roxo'),
   ('Diadema'),
@@ -5240,7 +5240,7 @@ VALUES
   ('Uberlândia'),
   ('Timon'),
   ('Bragança');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('João Pessoa'),
   ('Camaçari'),
@@ -5252,7 +5252,7 @@ VALUES
   ('São José'),
   ('Campina Grande'),
   ('Caucaia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José dos Pinhais'),
   ('Salvador'),
@@ -5264,7 +5264,7 @@ VALUES
   ('São José dos Pinhais'),
   ('Santa Rita'),
   ('Petrópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bragança'),
   ('Montes Claros'),
@@ -5276,7 +5276,7 @@ VALUES
   ('Goiânia'),
   ('Londrina'),
   ('Nova Iguaçu');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Feira de Santana'),
   ('Sousa'),
@@ -5288,7 +5288,7 @@ VALUES
   ('Diadema'),
   ('Belo Horizonte'),
   ('Caruaru');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('Ilhéus'),
@@ -5300,7 +5300,7 @@ VALUES
   ('Guarapuava'),
   ('Aparecida de Goiânia'),
   ('Balsas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ponta Grossa'),
   ('São Gonçalo'),
@@ -5312,7 +5312,7 @@ VALUES
   ('Luziânia'),
   ('Cabo de Santo Agostinho'),
   ('Cascavel');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caucaia'),
   ('Sobral'),
@@ -5324,7 +5324,7 @@ VALUES
   ('Florianópolis'),
   ('Luziânia'),
   ('Blumenau');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São Gonçalo'),
   ('Mogi das Cruzes'),
@@ -5336,7 +5336,7 @@ VALUES
   ('Maranguape'),
   ('Rio Grande'),
   ('Diadema');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Maria'),
   ('Barra do Corda'),
@@ -5348,7 +5348,7 @@ VALUES
   ('Caxias do Sul'),
   ('Patos'),
   ('Duque de Caxias');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Luziânia'),
   ('Rio de Janeiro'),
@@ -5360,7 +5360,7 @@ VALUES
   ('Aparecida de Goiânia'),
   ('Maranguape'),
   ('Carapicuíba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campinas'),
   ('Sete Lagoas'),
@@ -5372,7 +5372,7 @@ VALUES
   ('Santa Maria'),
   ('Maranguape'),
   ('Ananindeua');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Valparaíso de Goiás'),
   ('Crato'),
@@ -5384,7 +5384,7 @@ VALUES
   ('Itabuna'),
   ('Blumenau'),
   ('Lauro de Freitas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São Gonçalo'),
   ('Petrópolis'),
@@ -5396,7 +5396,7 @@ VALUES
   ('Guarapuava'),
   ('Maracanaú'),
   ('Ponta Grossa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Blumenau'),
   ('Rio Grande'),
@@ -5408,7 +5408,7 @@ VALUES
   ('Jaboatão dos Guararapes'),
   ('Fortaleza'),
   ('Maracanaú');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Paulista'),
   ('Ribeirão Preto'),
@@ -5420,7 +5420,7 @@ VALUES
   ('Parauapebas'),
   ('Crato'),
   ('Paço do Lumiar');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Maringá'),
   ('Governador Valadares'),
@@ -5436,7 +5436,7 @@ VALUES
 
 
 
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Águas Lindas de Goiás'),
   ('Ananindeua'),
@@ -5448,7 +5448,7 @@ VALUES
   ('Rio Grande'),
   ('Crato'),
   ('Paulista');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bragança'),
   ('Ribeirão das Neves'),
@@ -5460,7 +5460,7 @@ VALUES
   ('Crato'),
   ('Ananindeua'),
   ('Sobral');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Canoas'),
   ('Caxias do Sul'),
@@ -5472,7 +5472,7 @@ VALUES
   ('Maranguape'),
   ('Crato'),
   ('Camaragibe');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campos dos Goytacazes'),
   ('Cajazeiras'),
@@ -5484,7 +5484,7 @@ VALUES
   ('Castanhal'),
   ('Camaçari'),
   ('Osasco');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caruaru'),
   ('Paranaguá'),
@@ -5496,7 +5496,7 @@ VALUES
   ('Sobral'),
   ('Novo Hamburgo'),
   ('Castanhal');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Luziânia'),
   ('Rio de Janeiro'),
@@ -5508,7 +5508,7 @@ VALUES
   ('Olinda'),
   ('Uberlândia'),
   ('Anápolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Feira de Santana'),
   ('Canoas'),
@@ -5520,7 +5520,7 @@ VALUES
   ('Criciúma'),
   ('Jaboatão dos Guararapes'),
   ('Patos');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itapipoca'),
   ('João Pessoa'),
@@ -5532,7 +5532,7 @@ VALUES
   ('Florianópolis'),
   ('Balsas'),
   ('Patos');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Contagem'),
@@ -5544,7 +5544,7 @@ VALUES
   ('Niterói'),
   ('João Pessoa'),
   ('Camaragibe');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sousa'),
   ('Mauá'),
@@ -5556,7 +5556,7 @@ VALUES
   ('Diadema'),
   ('Águas Lindas de Goiás'),
   ('Cascavel');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São Gonçalo'),
   ('Cajazeiras'),
@@ -5568,7 +5568,7 @@ VALUES
   ('Anápolis'),
   ('Criciúma'),
   ('Santa Maria');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Anápolis'),
   ('Duque de Caxias'),
@@ -5580,7 +5580,7 @@ VALUES
   ('Contagem'),
   ('Cabo de Santo Agostinho'),
   ('Fortaleza');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('Santa Rita'),
@@ -5592,7 +5592,7 @@ VALUES
   ('Aparecida de Goiânia'),
   ('Bayeux'),
   ('Porto Alegre');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Olinda'),
   ('Aparecida de Goiânia'),
@@ -5604,7 +5604,7 @@ VALUES
   ('Curitiba'),
   ('Petrolina'),
   ('Crato');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cametá'),
   ('João Pessoa'),
@@ -5616,7 +5616,7 @@ VALUES
   ('Jaboatão dos Guararapes'),
   ('Anápolis'),
   ('Maranguape');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campinas'),
   ('Niterói'),
@@ -5628,7 +5628,7 @@ VALUES
   ('Chapecó'),
   ('Recife'),
   ('Curitiba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sousa'),
   ('Ribeirão das Neves'),
@@ -5640,7 +5640,7 @@ VALUES
   ('Chapecó'),
   ('Jaboatão dos Guararapes'),
   ('Barra do Corda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Governador Valadares'),
   ('Mogi das Cruzes'),
@@ -5652,7 +5652,7 @@ VALUES
   ('Mogi das Cruzes'),
   ('Sousa'),
   ('Uberlândia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Valparaíso de Goiás'),
   ('Sobral'),
@@ -5664,7 +5664,7 @@ VALUES
   ('Timon'),
   ('Piracicaba'),
   ('São José dos Pinhais');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Paulista'),
   ('Ananindeua'),
@@ -5676,7 +5676,7 @@ VALUES
   ('Parauapebas'),
   ('Caucaia'),
   ('São José dos Pinhais');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jaboatão dos Guararapes'),
   ('Gravataí'),
@@ -5688,7 +5688,7 @@ VALUES
   ('Lauro de Freitas'),
   ('Bragança'),
   ('Joinville');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ananindeua'),
   ('Luziânia'),
@@ -5700,7 +5700,7 @@ VALUES
   ('Marabá'),
   ('Divinópolis'),
   ('Nova Iguaçu');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Florianópolis'),
   ('Recife'),
@@ -5712,7 +5712,7 @@ VALUES
   ('Chapecó'),
   ('Rio Verde'),
   ('Porto Alegre');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Balsas'),
   ('Rio de Janeiro'),
@@ -5724,7 +5724,7 @@ VALUES
   ('Ribeirão Preto'),
   ('Osasco'),
   ('Maranguape');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Crato'),
   ('Balsas'),
@@ -5736,7 +5736,7 @@ VALUES
   ('Santa Maria'),
   ('Timon'),
   ('Joinville');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sete Lagoas'),
   ('Camaçari'),
@@ -5748,7 +5748,7 @@ VALUES
   ('Marabá'),
   ('Feira de Santana'),
   ('Feira de Santana');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Curitiba'),
   ('Chapecó'),
@@ -5760,7 +5760,7 @@ VALUES
   ('Feira de Santana'),
   ('Parauapebas'),
   ('Campos dos Goytacazes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Camaçari'),
   ('Montes Claros'),
@@ -5772,7 +5772,7 @@ VALUES
   ('Ilhéus'),
   ('Londrina'),
   ('Fortaleza');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Salvador'),
   ('Piracicaba'),
@@ -5784,7 +5784,7 @@ VALUES
   ('Paranaguá'),
   ('Colombo'),
   ('Vitória da Conquista');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São Gonçalo'),
   ('Maringá'),
@@ -5796,7 +5796,7 @@ VALUES
   ('João Pessoa'),
   ('Luziânia'),
   ('Ilhéus');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Petrolina'),
   ('Cabo de Santo Agostinho'),
@@ -5808,7 +5808,7 @@ VALUES
   ('Piracicaba'),
   ('Anápolis'),
   ('Balsas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sete Lagoas'),
   ('Guarapuava'),
@@ -5820,7 +5820,7 @@ VALUES
   ('Açailândia'),
   ('Luziânia'),
   ('Crato');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itabuna'),
   ('Porto Alegre'),
@@ -5832,7 +5832,7 @@ VALUES
   ('Paranaguá'),
   ('Londrina'),
   ('Olinda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Paço do Lumiar'),
   ('Codó'),
@@ -5844,7 +5844,7 @@ VALUES
   ('Florianópolis'),
   ('Açailândia'),
   ('Belém');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Joinville'),
   ('Ribeirão das Neves'),
@@ -5856,7 +5856,7 @@ VALUES
   ('Itabuna'),
   ('Cabo de Santo Agostinho'),
   ('Caucaia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ananindeua'),
   ('Olinda'),
@@ -5868,7 +5868,7 @@ VALUES
   ('Anápolis'),
   ('Caruaru'),
   ('Chapecó');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Maranguape'),
   ('Guarapuava'),
@@ -5880,7 +5880,7 @@ VALUES
   ('Aparecida de Goiânia'),
   ('Juiz de Fora'),
   ('São José');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Osasco'),
   ('Paço do Lumiar'),
@@ -5892,7 +5892,7 @@ VALUES
   ('Pelotas'),
   ('Canoas'),
   ('Camaçari');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cajazeiras'),
   ('Maranguape'),
@@ -5904,7 +5904,7 @@ VALUES
   ('Porto Alegre'),
   ('Caucaia'),
   ('Balsas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Patos'),
   ('Chapadinha'),
@@ -5916,7 +5916,7 @@ VALUES
   ('Montes Claros'),
   ('Canoas'),
   ('Guarapuava');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Patos'),
   ('Crato'),
@@ -5928,7 +5928,7 @@ VALUES
   ('Paranaguá'),
   ('Aparecida de Goiânia'),
   ('Salvador');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Olinda'),
   ('Águas Lindas de Goiás'),
@@ -5940,7 +5940,7 @@ VALUES
   ('Parauapebas'),
   ('Duque de Caxias'),
   ('São João de Meriti');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Codó'),
   ('Rio Grande'),
@@ -5952,7 +5952,7 @@ VALUES
   ('Caucaia'),
   ('Paço do Lumiar'),
   ('Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Abaetetuba'),
   ('Balsas'),
@@ -5964,7 +5964,7 @@ VALUES
   ('Cametá'),
   ('São José'),
   ('Ribeirão das Neves');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Nova Iguaçu'),
   ('Paranaguá'),
@@ -5976,7 +5976,7 @@ VALUES
   ('Belém'),
   ('Contagem'),
   ('São Gonçalo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Luzia'),
   ('Joinville'),
@@ -5988,7 +5988,7 @@ VALUES
   ('Ipatinga'),
   ('Patos'),
   ('Anápolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José dos Pinhais'),
   ('Londrina'),
@@ -6000,7 +6000,7 @@ VALUES
   ('Gravataí'),
   ('Bayeux'),
   ('Ribeirão das Neves');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São João de Meriti'),
   ('Luziânia'),
@@ -6012,7 +6012,7 @@ VALUES
   ('Novo Hamburgo'),
   ('Bayeux'),
   ('Jaboatão dos Guararapes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Olinda'),
   ('Porto Alegre'),
@@ -6024,7 +6024,7 @@ VALUES
   ('Divinópolis'),
   ('Londrina'),
   ('Codó');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Uberaba'),
   ('Paranaguá'),
@@ -6041,7 +6041,7 @@ VALUES
 
 
 
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Londrina'),
   ('Florianópolis'),
@@ -6053,7 +6053,7 @@ VALUES
   ('Campos dos Goytacazes'),
   ('Campinas'),
   ('Anápolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Duque de Caxias'),
   ('São Luís'),
@@ -6065,7 +6065,7 @@ VALUES
   ('Barra do Corda'),
   ('Piracicaba'),
   ('Caucaia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('João Pessoa'),
   ('Santa Maria'),
@@ -6077,7 +6077,7 @@ VALUES
   ('Ponta Grossa'),
   ('Osasco'),
   ('Gravataí');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Recife'),
   ('Bayeux'),
@@ -6089,7 +6089,7 @@ VALUES
   ('Osasco'),
   ('Jaboatão dos Guararapes'),
   ('Caxias do Sul');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Olinda'),
   ('Maracanaú'),
@@ -6101,7 +6101,7 @@ VALUES
   ('Jundiaí'),
   ('Campinas'),
   ('Anápolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Vitória da Conquista'),
   ('Valparaíso de Goiás'),
@@ -6113,7 +6113,7 @@ VALUES
   ('Caxias'),
   ('São João de Meriti'),
   ('Gravataí');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Vitória da Conquista'),
   ('Santarém'),
@@ -6125,7 +6125,7 @@ VALUES
   ('Petrolina'),
   ('Nova Iguaçu'),
   ('Bragança');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Feira de Santana'),
   ('João Pessoa'),
@@ -6137,7 +6137,7 @@ VALUES
   ('Ilhéus'),
   ('Divinópolis'),
   ('São Gonçalo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Grande'),
   ('Jaboatão dos Guararapes'),
@@ -6149,7 +6149,7 @@ VALUES
   ('Londrina'),
   ('Ponta Grossa'),
   ('Mogi das Cruzes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José'),
   ('Maringá'),
@@ -6161,7 +6161,7 @@ VALUES
   ('Balsas'),
   ('Belford Roxo'),
   ('Paço do Lumiar');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Paulista'),
   ('São José'),
@@ -6173,7 +6173,7 @@ VALUES
   ('Guarapuava'),
   ('Criciúma'),
   ('Montes Claros');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cametá'),
   ('Codó'),
@@ -6185,7 +6185,7 @@ VALUES
   ('Campinas'),
   ('Barra do Corda'),
   ('Uberlândia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jaboatão dos Guararapes'),
   ('Niterói'),
@@ -6197,7 +6197,7 @@ VALUES
   ('Juazeiro do Norte'),
   ('Timon'),
   ('Paranaguá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Divinópolis'),
   ('Belém'),
@@ -6209,7 +6209,7 @@ VALUES
   ('Paulista'),
   ('Camaragibe'),
   ('Criciúma');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Lauro de Freitas'),
   ('Divinópolis'),
@@ -6221,7 +6221,7 @@ VALUES
   ('Cajazeiras'),
   ('Maringá'),
   ('Lauro de Freitas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ananindeua'),
   ('Abaetetuba'),
@@ -6233,7 +6233,7 @@ VALUES
   ('João Pessoa'),
   ('Uberaba'),
   ('Sousa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ananindeua'),
   ('Fortaleza'),
@@ -6245,7 +6245,7 @@ VALUES
   ('Porto Alegre'),
   ('Cametá'),
   ('Olinda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Castanhal'),
   ('Salvador'),
@@ -6257,7 +6257,7 @@ VALUES
   ('São José dos Pinhais'),
   ('Bayeux'),
   ('Ponta Grossa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Canoas'),
   ('Lauro de Freitas'),
@@ -6269,7 +6269,7 @@ VALUES
   ('São José'),
   ('Jundiaí'),
   ('Valparaíso de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mauá'),
   ('Campos dos Goytacazes'),
@@ -6281,7 +6281,7 @@ VALUES
   ('Contagem'),
   ('São Luís'),
   ('São Gonçalo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão das Neves'),
   ('Balsas'),
@@ -6293,7 +6293,7 @@ VALUES
   ('Ipatinga'),
   ('Goiânia'),
   ('Belford Roxo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cabo de Santo Agostinho'),
   ('Londrina'),
@@ -6305,7 +6305,7 @@ VALUES
   ('Juiz de Fora'),
   ('Juazeiro'),
   ('Petrópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Canoas'),
   ('Paulista'),
@@ -6317,7 +6317,7 @@ VALUES
   ('Londrina'),
   ('Maracanaú'),
   ('Abaetetuba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Luziânia'),
   ('Joinville'),
@@ -6329,7 +6329,7 @@ VALUES
   ('Jundiaí'),
   ('Itajaí'),
   ('Açailândia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José dos Pinhais'),
   ('Jundiaí'),
@@ -6341,7 +6341,7 @@ VALUES
   ('Maracanaú'),
   ('Timon'),
   ('Juazeiro');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Piracicaba'),
   ('Juazeiro'),
@@ -6353,7 +6353,7 @@ VALUES
   ('Novo Hamburgo'),
   ('Divinópolis'),
   ('Joinville');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São Luís'),
   ('Luziânia'),
@@ -6365,7 +6365,7 @@ VALUES
   ('Caucaia'),
   ('Ilhéus'),
   ('Diadema');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Osasco'),
   ('Caxias do Sul'),
@@ -6377,7 +6377,7 @@ VALUES
   ('Chapecó'),
   ('Cametá'),
   ('Sousa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Chapecó'),
   ('Curitiba'),
@@ -6389,7 +6389,7 @@ VALUES
   ('Maracanaú'),
   ('Guarulhos'),
   ('São José');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ponta Grossa'),
   ('Aparecida de Goiânia'),
@@ -6401,7 +6401,7 @@ VALUES
   ('Paulista'),
   ('Nova Iguaçu'),
   ('Juazeiro');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Patos'),
   ('Guarapuava'),
@@ -6413,7 +6413,7 @@ VALUES
   ('Águas Lindas de Goiás'),
   ('Foz do Iguaçu'),
   ('São José');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Paço do Lumiar'),
   ('Londrina'),
@@ -6425,7 +6425,7 @@ VALUES
   ('São José'),
   ('Luziânia'),
   ('Patos');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Águas Lindas de Goiás'),
   ('Duque de Caxias'),
@@ -6437,7 +6437,7 @@ VALUES
   ('Cabo de Santo Agostinho'),
   ('Belém'),
   ('Lauro de Freitas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Camaragibe'),
   ('Camaragibe'),
@@ -6449,7 +6449,7 @@ VALUES
   ('Feira de Santana'),
   ('Cascavel'),
   ('Bragança');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Chapecó'),
   ('Goiânia'),
@@ -6461,7 +6461,7 @@ VALUES
   ('Timon'),
   ('Patos'),
   ('Campinas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José'),
   ('Luziânia'),
@@ -6473,7 +6473,7 @@ VALUES
   ('Maringá'),
   ('Parauapebas'),
   ('Sobral');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Olinda'),
   ('Maranguape'),
@@ -6485,7 +6485,7 @@ VALUES
   ('Carapicuíba'),
   ('Bayeux'),
   ('Juiz de Fora');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Diadema'),
   ('Abaetetuba'),
@@ -6497,7 +6497,7 @@ VALUES
   ('Florianópolis'),
   ('Caucaia'),
   ('Luziânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jaboatão dos Guararapes'),
   ('Jaboatão dos Guararapes'),
@@ -6509,7 +6509,7 @@ VALUES
   ('Rio de Janeiro'),
   ('Cajazeiras'),
   ('Chapadinha');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sete Lagoas'),
   ('Caxias do Sul'),
@@ -6521,7 +6521,7 @@ VALUES
   ('Fortaleza'),
   ('Ananindeua'),
   ('Luziânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Olinda'),
   ('Salvador'),
@@ -6533,7 +6533,7 @@ VALUES
   ('São Luís'),
   ('São Luís'),
   ('Abaetetuba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro do Norte'),
   ('Patos'),
@@ -6545,7 +6545,7 @@ VALUES
   ('Porto Alegre'),
   ('São José'),
   ('Juiz de Fora');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Vitória da Conquista'),
   ('Patos'),
@@ -6557,7 +6557,7 @@ VALUES
   ('Sobral'),
   ('Bayeux'),
   ('Jaboatão dos Guararapes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cascavel'),
   ('Juiz de Fora'),
@@ -6569,7 +6569,7 @@ VALUES
   ('Timon'),
   ('Patos'),
   ('Caxias do Sul');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Uberlândia'),
   ('Luziânia'),
@@ -6581,7 +6581,7 @@ VALUES
   ('Criciúma'),
   ('São José dos Pinhais'),
   ('Luziânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cametá'),
   ('Ilhéus'),
@@ -6593,7 +6593,7 @@ VALUES
   ('Bacabal'),
   ('Diadema'),
   ('Ananindeua');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Marabá'),
   ('Nova Iguaçu'),
@@ -6605,7 +6605,7 @@ VALUES
   ('Santa Maria'),
   ('Olinda'),
   ('Montes Claros');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Maria'),
   ('Patos'),
@@ -6617,7 +6617,7 @@ VALUES
   ('Juiz de Fora'),
   ('Rio Verde'),
   ('Cajazeiras');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Parauapebas'),
   ('Blumenau'),
@@ -6629,7 +6629,7 @@ VALUES
   ('Campinas'),
   ('Niterói'),
   ('Guarapuava');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro do Norte'),
   ('Bacabal'),
@@ -6646,7 +6646,7 @@ VALUES
 
 
 
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Castanhal'),
   ('Santa Maria'),
@@ -6658,7 +6658,7 @@ VALUES
   ('Piracicaba'),
   ('Caxias'),
   ('Itajaí');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cametá'),
   ('Cajazeiras'),
@@ -6670,7 +6670,7 @@ VALUES
   ('Goiânia'),
   ('Ribeirão Preto'),
   ('Petrópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Curitiba'),
@@ -6682,7 +6682,7 @@ VALUES
   ('Paço do Lumiar'),
   ('São José dos Pinhais'),
   ('Bayeux');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Valparaíso de Goiás'),
   ('Timon'),
@@ -6694,7 +6694,7 @@ VALUES
   ('Juazeiro'),
   ('Patos'),
   ('Campinas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Carapicuíba'),
   ('Ponta Grossa'),
@@ -6706,7 +6706,7 @@ VALUES
   ('Joinville'),
   ('Ananindeua'),
   ('Mogi das Cruzes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Maracanaú'),
   ('Cajazeiras'),
@@ -6718,7 +6718,7 @@ VALUES
   ('Belford Roxo'),
   ('Carapicuíba'),
   ('Anápolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Betim'),
   ('Juazeiro'),
@@ -6730,7 +6730,7 @@ VALUES
   ('Bayeux'),
   ('Mogi das Cruzes'),
   ('Porto Alegre');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Fortaleza'),
   ('Chapadinha'),
@@ -6742,7 +6742,7 @@ VALUES
   ('João Pessoa'),
   ('Santa Inês'),
   ('Patos');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Londrina'),
   ('Ananindeua'),
@@ -6754,7 +6754,7 @@ VALUES
   ('Maranguape'),
   ('Bayeux'),
   ('Canoas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Grande'),
   ('Cajazeiras'),
@@ -6766,7 +6766,7 @@ VALUES
   ('Anápolis'),
   ('Crato'),
   ('Pelotas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Governador Valadares'),
   ('Ananindeua'),
@@ -6778,7 +6778,7 @@ VALUES
   ('Gravataí'),
   ('Sousa'),
   ('Governador Valadares');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Maria'),
   ('Belford Roxo'),
@@ -6790,7 +6790,7 @@ VALUES
   ('Jaboatão dos Guararapes'),
   ('Caxias'),
   ('Duque de Caxias');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Duque de Caxias'),
   ('Sobral'),
@@ -6802,7 +6802,7 @@ VALUES
   ('Açailândia'),
   ('Rio Grande'),
   ('Valparaíso de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Maringá'),
   ('Belém'),
@@ -6814,7 +6814,7 @@ VALUES
   ('Rio de Janeiro'),
   ('Bacabal'),
   ('Gravataí');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Nova Iguaçu'),
   ('Patos'),
@@ -6826,7 +6826,7 @@ VALUES
   ('São Gonçalo'),
   ('Aparecida de Goiânia'),
   ('Curitiba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Paranaguá'),
   ('Rio Grande'),
@@ -6838,7 +6838,7 @@ VALUES
   ('Camaçari'),
   ('Uberlândia'),
   ('Belford Roxo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itajaí'),
   ('Duque de Caxias'),
@@ -6850,7 +6850,7 @@ VALUES
   ('Juazeiro'),
   ('Chapecó'),
   ('Juazeiro');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Joinville'),
   ('Nova Iguaçu'),
@@ -6862,7 +6862,7 @@ VALUES
   ('São Gonçalo'),
   ('Cabo de Santo Agostinho'),
   ('Cabo de Santo Agostinho');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mauá'),
   ('Sobral'),
@@ -6874,7 +6874,7 @@ VALUES
   ('Codó'),
   ('Santa Maria'),
   ('Balsas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campinas'),
   ('Santa Inês'),
@@ -6886,7 +6886,7 @@ VALUES
   ('Sete Lagoas'),
   ('Caxias do Sul'),
   ('Criciúma');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Piracicaba'),
   ('Barra do Corda'),
@@ -6898,7 +6898,7 @@ VALUES
   ('Chapecó'),
   ('Divinópolis'),
   ('Petrópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campos dos Goytacazes'),
   ('Sobral'),
@@ -6910,7 +6910,7 @@ VALUES
   ('Luziânia'),
   ('Cametá'),
   ('Ribeirão das Neves');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Olinda'),
   ('Rio Verde'),
@@ -6922,7 +6922,7 @@ VALUES
   ('Paulista'),
   ('Petrolina'),
   ('Santa Rita');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('Santa Rita'),
@@ -6934,7 +6934,7 @@ VALUES
   ('Caruaru'),
   ('Luziânia'),
   ('Rio de Janeiro');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cascavel'),
   ('Goiânia'),
@@ -6946,7 +6946,7 @@ VALUES
   ('Diadema'),
   ('Joinville'),
   ('Cametá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('João Pessoa'),
   ('Santa Rita'),
@@ -6958,7 +6958,7 @@ VALUES
   ('Gravataí'),
   ('Rio Verde'),
   ('Chapecó');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Chapecó'),
   ('Santa Luzia'),
@@ -6970,7 +6970,7 @@ VALUES
   ('Açailândia'),
   ('Criciúma'),
   ('Guarulhos');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Chapecó'),
   ('Maranguape'),
@@ -6982,7 +6982,7 @@ VALUES
   ('São José dos Pinhais'),
   ('Camaragibe'),
   ('Crato');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Patos'),
   ('Niterói'),
@@ -6994,7 +6994,7 @@ VALUES
   ('Parauapebas'),
   ('Imperatriz'),
   ('Governador Valadares');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Olinda'),
   ('Recife'),
@@ -7006,7 +7006,7 @@ VALUES
   ('Patos'),
   ('São José'),
   ('Ribeirão Preto');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itabuna'),
   ('Belford Roxo'),
@@ -7018,7 +7018,7 @@ VALUES
   ('Foz do Iguaçu'),
   ('Belo Horizonte'),
   ('Juazeiro');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Camaragibe'),
   ('Camaragibe'),
@@ -7030,7 +7030,7 @@ VALUES
   ('Jaboatão dos Guararapes'),
   ('Caruaru'),
   ('Paulista');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Aparecida de Goiânia'),
   ('Ipatinga'),
@@ -7042,7 +7042,7 @@ VALUES
   ('Florianópolis'),
   ('Campinas'),
   ('Camaçari');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Grande'),
   ('Barra do Corda'),
@@ -7054,7 +7054,7 @@ VALUES
   ('Imperatriz'),
   ('Pelotas'),
   ('Piracicaba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sobral'),
   ('Olinda'),
@@ -7066,7 +7066,7 @@ VALUES
   ('Campos dos Goytacazes'),
   ('Rio Verde'),
   ('Chapecó');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Pelotas'),
   ('Canoas'),
@@ -7078,7 +7078,7 @@ VALUES
   ('Uberaba'),
   ('Santarém'),
   ('Rio Verde');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Rita'),
   ('Sousa'),
@@ -7090,7 +7090,7 @@ VALUES
   ('Juazeiro'),
   ('Guarulhos'),
   ('São José dos Pinhais');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Maria'),
   ('Santa Inês'),
@@ -7102,7 +7102,7 @@ VALUES
   ('Belo Horizonte'),
   ('São Gonçalo'),
   ('Bayeux');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Fortaleza'),
   ('Contagem'),
@@ -7114,7 +7114,7 @@ VALUES
   ('Maracanaú'),
   ('João Pessoa'),
   ('Caxias do Sul');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Niterói'),
   ('Campos dos Goytacazes'),
@@ -7126,7 +7126,7 @@ VALUES
   ('Foz do Iguaçu'),
   ('Vitória da Conquista'),
   ('Diadema');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Florianópolis'),
   ('Curitiba'),
@@ -7138,7 +7138,7 @@ VALUES
   ('Sousa'),
   ('Maracanaú'),
   ('Crato');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Castanhal'),
   ('Rio Grande'),
@@ -7150,7 +7150,7 @@ VALUES
   ('Lauro de Freitas'),
   ('Juazeiro do Norte'),
   ('Marabá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Diadema'),
   ('Ribeirão Preto'),
@@ -7162,7 +7162,7 @@ VALUES
   ('Fortaleza'),
   ('Chapadinha'),
   ('João Pessoa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itajaí'),
   ('Itapipoca'),
@@ -7174,7 +7174,7 @@ VALUES
   ('João Pessoa'),
   ('São José dos Pinhais'),
   ('Uberlândia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Valparaíso de Goiás'),
   ('Chapecó'),
@@ -7186,7 +7186,7 @@ VALUES
   ('Rio Grande'),
   ('Cascavel'),
   ('Bayeux');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itabuna'),
   ('Governador Valadares'),
@@ -7198,7 +7198,7 @@ VALUES
   ('Santa Inês'),
   ('Belém'),
   ('Betim');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itabuna'),
   ('Águas Lindas de Goiás'),
@@ -7210,7 +7210,7 @@ VALUES
   ('São José dos Pinhais'),
   ('Itapipoca'),
   ('Olinda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Canoas'),
   ('Cabo de Santo Agostinho'),
@@ -7222,7 +7222,7 @@ VALUES
   ('Goiânia'),
   ('Olinda'),
   ('Timon');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Inês'),
   ('Florianópolis'),
@@ -7234,7 +7234,7 @@ VALUES
   ('Ponta Grossa'),
   ('João Pessoa'),
   ('São Gonçalo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cajazeiras'),
   ('Duque de Caxias'),
@@ -7250,7 +7250,7 @@ VALUES
 
 
 
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José dos Pinhais'),
   ('Belém'),
@@ -7262,7 +7262,7 @@ VALUES
   ('Anápolis'),
   ('Castanhal'),
   ('Jundiaí');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cascavel'),
   ('Diadema'),
@@ -7274,7 +7274,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Osasco'),
   ('Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Maranguape'),
   ('Belford Roxo'),
@@ -7286,7 +7286,7 @@ VALUES
   ('Bayeux'),
   ('Belford Roxo'),
   ('Recife');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Parauapebas'),
   ('Ribeirão das Neves'),
@@ -7298,7 +7298,7 @@ VALUES
   ('Caucaia'),
   ('Guarapuava'),
   ('Diadema');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Parauapebas'),
   ('Nova Iguaçu'),
@@ -7310,7 +7310,7 @@ VALUES
   ('Cajazeiras'),
   ('Blumenau'),
   ('Parauapebas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Abaetetuba'),
   ('Duque de Caxias'),
@@ -7322,7 +7322,7 @@ VALUES
   ('Ilhéus'),
   ('Colombo'),
   ('João Pessoa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Divinópolis'),
   ('Mauá'),
@@ -7334,7 +7334,7 @@ VALUES
   ('Caucaia'),
   ('Aparecida de Goiânia'),
   ('Paranaguá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Joinville'),
   ('Itapipoca'),
@@ -7346,7 +7346,7 @@ VALUES
   ('João Pessoa'),
   ('João Pessoa'),
   ('Curitiba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Feira de Santana'),
   ('Ilhéus'),
@@ -7358,7 +7358,7 @@ VALUES
   ('Timon'),
   ('Salvador'),
   ('Diadema');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caxias'),
   ('Cajazeiras'),
@@ -7370,7 +7370,7 @@ VALUES
   ('Porto Alegre'),
   ('Maracanaú'),
   ('Belford Roxo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Luzia'),
   ('Mogi das Cruzes'),
@@ -7382,7 +7382,7 @@ VALUES
   ('São João de Meriti'),
   ('Sousa'),
   ('Caruaru');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Paulista'),
   ('Canoas'),
@@ -7394,7 +7394,7 @@ VALUES
   ('São Gonçalo'),
   ('Lauro de Freitas'),
   ('Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Anápolis'),
   ('Marabá'),
@@ -7406,7 +7406,7 @@ VALUES
   ('Maringá'),
   ('Rio Grande'),
   ('Luziânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cametá'),
   ('Cabo de Santo Agostinho'),
@@ -7418,7 +7418,7 @@ VALUES
   ('Sousa'),
   ('Itapipoca'),
   ('Florianópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itajaí'),
   ('Olinda'),
@@ -7430,7 +7430,7 @@ VALUES
   ('João Pessoa'),
   ('Ilhéus'),
   ('Ribeirão Preto');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Rita'),
   ('Goiânia'),
@@ -7442,7 +7442,7 @@ VALUES
   ('Rio de Janeiro'),
   ('Sobral'),
   ('Juiz de Fora');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('Olinda'),
@@ -7454,7 +7454,7 @@ VALUES
   ('Blumenau'),
   ('Marabá'),
   ('Camaçari');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Valparaíso de Goiás'),
   ('Caruaru'),
@@ -7466,7 +7466,7 @@ VALUES
   ('Betim'),
   ('Santa Inês'),
   ('Rio Verde');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarulhos'),
   ('Santarém'),
@@ -7478,7 +7478,7 @@ VALUES
   ('Fortaleza'),
   ('Diadema'),
   ('Rio Verde');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Colombo'),
   ('Caxias do Sul'),
@@ -7490,7 +7490,7 @@ VALUES
   ('Cajazeiras'),
   ('Santa Rita'),
   ('Castanhal');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro'),
   ('Governador Valadares'),
@@ -7502,7 +7502,7 @@ VALUES
   ('Feira de Santana'),
   ('Juiz de Fora'),
   ('Rio Verde');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarapuava'),
   ('Feira de Santana'),
@@ -7514,7 +7514,7 @@ VALUES
   ('Camaragibe'),
   ('Cametá'),
   ('Petrópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itabuna'),
   ('São Gonçalo'),
@@ -7526,7 +7526,7 @@ VALUES
   ('Juazeiro'),
   ('Belo Horizonte'),
   ('Águas Lindas de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Colombo'),
   ('Luziânia'),
@@ -7538,7 +7538,7 @@ VALUES
   ('São João de Meriti'),
   ('Fortaleza'),
   ('São Gonçalo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Curitiba'),
   ('Açailândia'),
@@ -7550,7 +7550,7 @@ VALUES
   ('Jundiaí'),
   ('Maracanaú'),
   ('Sobral');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ipatinga'),
   ('Belford Roxo'),
@@ -7562,7 +7562,7 @@ VALUES
   ('Salvador'),
   ('Gravataí'),
   ('Paranaguá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Águas Lindas de Goiás'),
   ('Caucaia'),
@@ -7574,7 +7574,7 @@ VALUES
   ('Campos dos Goytacazes'),
   ('Nova Iguaçu'),
   ('Juiz de Fora');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Valparaíso de Goiás'),
   ('Luziânia'),
@@ -7586,7 +7586,7 @@ VALUES
   ('Santa Maria'),
   ('Caruaru'),
   ('Itajaí');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belo Horizonte'),
   ('Crato'),
@@ -7598,7 +7598,7 @@ VALUES
   ('Mogi das Cruzes'),
   ('Jaboatão dos Guararapes'),
   ('Jaboatão dos Guararapes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Barra do Corda'),
   ('Petrópolis'),
@@ -7610,7 +7610,7 @@ VALUES
   ('Campina Grande'),
   ('Carapicuíba'),
   ('Bayeux');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Recife'),
   ('Recife'),
@@ -7622,7 +7622,7 @@ VALUES
   ('Goiânia'),
   ('Joinville'),
   ('Pelotas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Piracicaba'),
   ('Itapipoca'),
@@ -7634,7 +7634,7 @@ VALUES
   ('Colombo'),
   ('Fortaleza'),
   ('Paulista');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Betim'),
   ('Maracanaú'),
@@ -7646,7 +7646,7 @@ VALUES
   ('Imperatriz'),
   ('Uberlândia'),
   ('Montes Claros');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ananindeua'),
   ('Patos'),
@@ -7658,7 +7658,7 @@ VALUES
   ('Guarulhos'),
   ('São João de Meriti'),
   ('Chapecó');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Carapicuíba'),
   ('Maracanaú'),
@@ -7670,7 +7670,7 @@ VALUES
   ('Fortaleza'),
   ('Londrina'),
   ('Florianópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campina Grande'),
   ('Camaragibe'),
@@ -7682,7 +7682,7 @@ VALUES
   ('Crato'),
   ('Itapipoca'),
   ('Cametá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Barra do Corda'),
   ('Divinópolis'),
@@ -7694,7 +7694,7 @@ VALUES
   ('Montes Claros'),
   ('Rio de Janeiro'),
   ('Governador Valadares');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belford Roxo'),
   ('Piracicaba'),
@@ -7706,7 +7706,7 @@ VALUES
   ('Ananindeua'),
   ('Barra do Corda'),
   ('Itabuna');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Chapadinha'),
   ('Anápolis'),
@@ -7718,7 +7718,7 @@ VALUES
   ('Florianópolis'),
   ('Petrolina'),
   ('Bacabal');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Gravataí'),
   ('Aparecida de Goiânia'),
@@ -7730,7 +7730,7 @@ VALUES
   ('Santa Maria'),
   ('Pelotas'),
   ('Belo Horizonte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Governador Valadares'),
   ('Itajaí'),
@@ -7742,7 +7742,7 @@ VALUES
   ('Açailândia'),
   ('Jundiaí'),
   ('São João de Meriti');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São João de Meriti'),
   ('Luziânia'),
@@ -7754,7 +7754,7 @@ VALUES
   ('Canoas'),
   ('Luziânia'),
   ('Marabá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Salvador'),
   ('Maracanaú'),
@@ -7766,7 +7766,7 @@ VALUES
   ('Bayeux'),
   ('Rio Grande'),
   ('Lauro de Freitas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São Luís'),
   ('Ipatinga'),
@@ -7778,7 +7778,7 @@ VALUES
   ('Guarapuava'),
   ('Bragança'),
   ('Duque de Caxias');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Águas Lindas de Goiás'),
   ('Santa Inês'),
@@ -7790,7 +7790,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Ipatinga'),
   ('Jaboatão dos Guararapes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Marabá'),
   ('Águas Lindas de Goiás'),
@@ -7802,7 +7802,7 @@ VALUES
   ('Belo Horizonte'),
   ('Petrópolis'),
   ('Vitória da Conquista');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Chapecó'),
   ('Rio Grande'),
@@ -7814,7 +7814,7 @@ VALUES
   ('São Luís'),
   ('Uberaba'),
   ('Campinas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Petrolina'),
   ('Porto Alegre'),
@@ -7826,7 +7826,7 @@ VALUES
   ('Guarapuava'),
   ('Belém'),
   ('Carapicuíba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Codó'),
   ('Rio Grande'),
@@ -7838,7 +7838,7 @@ VALUES
   ('Bacabal'),
   ('Rio de Janeiro'),
   ('Paranaguá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cabo de Santo Agostinho'),
   ('Osasco'),
@@ -7853,7 +7853,7 @@ VALUES
 
 
 
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Salvador'),
   ('Caxias do Sul'),
@@ -7865,7 +7865,7 @@ VALUES
   ('Petrolina'),
   ('Divinópolis'),
   ('Belo Horizonte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Inês'),
   ('Gravataí'),
@@ -7877,7 +7877,7 @@ VALUES
   ('Itapipoca'),
   ('Diadema'),
   ('Caucaia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sete Lagoas'),
   ('Itabuna'),
@@ -7889,7 +7889,7 @@ VALUES
   ('Ribeirão Preto'),
   ('Luziânia'),
   ('Rio de Janeiro');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caucaia'),
   ('Águas Lindas de Goiás'),
@@ -7901,7 +7901,7 @@ VALUES
   ('Montes Claros'),
   ('Novo Hamburgo'),
   ('Campos dos Goytacazes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Criciúma'),
   ('Açailândia'),
@@ -7913,7 +7913,7 @@ VALUES
   ('Fortaleza'),
   ('Foz do Iguaçu'),
   ('Campos dos Goytacazes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarapuava'),
   ('Juiz de Fora'),
@@ -7925,7 +7925,7 @@ VALUES
   ('São João de Meriti'),
   ('Itajaí'),
   ('Rio Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão das Neves'),
   ('João Pessoa'),
@@ -7937,7 +7937,7 @@ VALUES
   ('Gravataí'),
   ('Caxias do Sul'),
   ('Caxias do Sul');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Recife'),
   ('Ananindeua'),
@@ -7949,7 +7949,7 @@ VALUES
   ('Crato'),
   ('Caucaia'),
   ('Ponta Grossa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Montes Claros'),
   ('Ribeirão das Neves'),
@@ -7961,7 +7961,7 @@ VALUES
   ('Itajaí'),
   ('Maracanaú'),
   ('Belford Roxo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sousa'),
   ('Caucaia'),
@@ -7973,7 +7973,7 @@ VALUES
   ('Goiânia'),
   ('Foz do Iguaçu'),
   ('Aparecida de Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarapuava'),
   ('Marabá'),
@@ -7985,7 +7985,7 @@ VALUES
   ('Goiânia'),
   ('Açailândia'),
   ('São Gonçalo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarulhos'),
   ('Florianópolis'),
@@ -7997,7 +7997,7 @@ VALUES
   ('Novo Hamburgo'),
   ('Bragança'),
   ('Jaboatão dos Guararapes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Porto Alegre'),
   ('Novo Hamburgo'),
@@ -8009,7 +8009,7 @@ VALUES
   ('Bacabal'),
   ('Montes Claros'),
   ('Caucaia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ipatinga'),
   ('Curitiba'),
@@ -8021,7 +8021,7 @@ VALUES
   ('Sousa'),
   ('Caucaia'),
   ('Parauapebas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro do Norte'),
   ('Petrópolis'),
@@ -8033,7 +8033,7 @@ VALUES
   ('Petrolina'),
   ('Petrolina'),
   ('Sousa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Verde'),
   ('Luziânia'),
@@ -8045,7 +8045,7 @@ VALUES
   ('Ribeirão Preto'),
   ('Rio de Janeiro'),
   ('Barra do Corda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão Preto'),
   ('Itajaí'),
@@ -8057,7 +8057,7 @@ VALUES
   ('Sousa'),
   ('Sobral'),
   ('Águas Lindas de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Rita'),
   ('Salvador'),
@@ -8069,7 +8069,7 @@ VALUES
   ('Campina Grande'),
   ('Crato'),
   ('Codó');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Verde'),
   ('Petrolina'),
@@ -8081,7 +8081,7 @@ VALUES
   ('Itapipoca'),
   ('São Luís'),
   ('Canoas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bacabal'),
   ('Bacabal'),
@@ -8093,7 +8093,7 @@ VALUES
   ('Bragança'),
   ('Rio Verde'),
   ('Santa Inês');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itabuna'),
   ('Campina Grande'),
@@ -8105,7 +8105,7 @@ VALUES
   ('Goiânia'),
   ('Goiânia'),
   ('Chapadinha');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campinas'),
   ('São João de Meriti'),
@@ -8117,7 +8117,7 @@ VALUES
   ('Parauapebas'),
   ('Castanhal'),
   ('Florianópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Goiânia'),
   ('Luziânia'),
@@ -8129,7 +8129,7 @@ VALUES
   ('São José'),
   ('Novo Hamburgo'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarapuava'),
   ('Bayeux'),
@@ -8141,7 +8141,7 @@ VALUES
   ('Bayeux'),
   ('Duque de Caxias'),
   ('Maracanaú');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ponta Grossa'),
   ('Joinville'),
@@ -8153,7 +8153,7 @@ VALUES
   ('Salvador'),
   ('Bragança'),
   ('Caucaia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ananindeua'),
   ('Caruaru'),
@@ -8165,7 +8165,7 @@ VALUES
   ('Carapicuíba'),
   ('Bragança'),
   ('Itapipoca');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Luzia'),
   ('Goiânia'),
@@ -8177,7 +8177,7 @@ VALUES
   ('Caxias'),
   ('Cabo de Santo Agostinho'),
   ('Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Joinville'),
   ('Olinda'),
@@ -8189,7 +8189,7 @@ VALUES
   ('Curitiba'),
   ('Novo Hamburgo'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Governador Valadares'),
   ('Patos'),
@@ -8201,7 +8201,7 @@ VALUES
   ('Cajazeiras'),
   ('Cascavel'),
   ('Criciúma');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Novo Hamburgo'),
   ('Imperatriz'),
@@ -8213,7 +8213,7 @@ VALUES
   ('Cametá'),
   ('Criciúma'),
   ('Curitiba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jundiaí'),
   ('Novo Hamburgo'),
@@ -8225,7 +8225,7 @@ VALUES
   ('Bragança'),
   ('Itabuna'),
   ('São João de Meriti');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Petrópolis'),
   ('Joinville'),
@@ -8237,7 +8237,7 @@ VALUES
   ('Belo Horizonte'),
   ('Codó'),
   ('Blumenau');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José'),
   ('Florianópolis'),
@@ -8249,7 +8249,7 @@ VALUES
   ('Luziânia'),
   ('Imperatriz'),
   ('Parauapebas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Curitiba'),
   ('Camaragibe'),
@@ -8261,7 +8261,7 @@ VALUES
   ('Uberaba'),
   ('Campos dos Goytacazes'),
   ('Diadema');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Contagem'),
   ('Santa Rita'),
@@ -8273,7 +8273,7 @@ VALUES
   ('Castanhal'),
   ('Parauapebas'),
   ('Londrina');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cametá'),
   ('Blumenau'),
@@ -8285,7 +8285,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Chapadinha'),
   ('Carapicuíba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Petrolina'),
   ('Castanhal'),
@@ -8297,7 +8297,7 @@ VALUES
   ('Santa Rita'),
   ('Olinda'),
   ('Belford Roxo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belo Horizonte'),
   ('Montes Claros'),
@@ -8309,7 +8309,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('São Gonçalo'),
   ('Juazeiro do Norte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('São Luís'),
@@ -8321,7 +8321,7 @@ VALUES
   ('Camaçari'),
   ('Recife'),
   ('Anápolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Feira de Santana'),
@@ -8333,7 +8333,7 @@ VALUES
   ('Santa Luzia'),
   ('Santa Inês'),
   ('Curitiba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Balsas'),
   ('Ribeirão das Neves'),
@@ -8345,7 +8345,7 @@ VALUES
   ('Camaçari'),
   ('João Pessoa'),
   ('Campinas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Águas Lindas de Goiás'),
   ('Porto Alegre'),
@@ -8357,7 +8357,7 @@ VALUES
   ('Santarém'),
   ('Ananindeua'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro do Norte'),
   ('Gravataí'),
@@ -8369,7 +8369,7 @@ VALUES
   ('Chapecó'),
   ('São Luís'),
   ('Caxias do Sul');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro'),
   ('Camaragibe'),
@@ -8381,7 +8381,7 @@ VALUES
   ('Diadema'),
   ('Montes Claros'),
   ('Juazeiro do Norte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Nova Iguaçu'),
   ('Curitiba'),
@@ -8393,7 +8393,7 @@ VALUES
   ('Juazeiro do Norte'),
   ('Guarapuava'),
   ('Timon');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Florianópolis'),
   ('Marabá'),
@@ -8405,7 +8405,7 @@ VALUES
   ('Aparecida de Goiânia'),
   ('Caxias do Sul'),
   ('Fortaleza');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Camaragibe'),
   ('Valparaíso de Goiás'),
@@ -8417,7 +8417,7 @@ VALUES
   ('Bragança'),
   ('Itapipoca'),
   ('Cajazeiras');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão das Neves'),
   ('Paulista'),
@@ -8429,7 +8429,7 @@ VALUES
   ('São José'),
   ('Maringá'),
   ('Colombo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belém'),
   ('Jaboatão dos Guararapes'),
@@ -8441,7 +8441,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Salvador'),
   ('Itapipoca');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Nova Iguaçu'),
   ('Itabuna'),
@@ -8456,7 +8456,7 @@ VALUES
 
 
 
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Salvador'),
   ('Caxias do Sul'),
@@ -8468,7 +8468,7 @@ VALUES
   ('Petrolina'),
   ('Divinópolis'),
   ('Belo Horizonte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Inês'),
   ('Gravataí'),
@@ -8480,7 +8480,7 @@ VALUES
   ('Itapipoca'),
   ('Diadema'),
   ('Caucaia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sete Lagoas'),
   ('Itabuna'),
@@ -8492,7 +8492,7 @@ VALUES
   ('Ribeirão Preto'),
   ('Luziânia'),
   ('Rio de Janeiro');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caucaia'),
   ('Águas Lindas de Goiás'),
@@ -8504,7 +8504,7 @@ VALUES
   ('Montes Claros'),
   ('Novo Hamburgo'),
   ('Campos dos Goytacazes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Criciúma'),
   ('Açailândia'),
@@ -8516,7 +8516,7 @@ VALUES
   ('Fortaleza'),
   ('Foz do Iguaçu'),
   ('Campos dos Goytacazes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarapuava'),
   ('Juiz de Fora'),
@@ -8528,7 +8528,7 @@ VALUES
   ('São João de Meriti'),
   ('Itajaí'),
   ('Rio Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão das Neves'),
   ('João Pessoa'),
@@ -8540,7 +8540,7 @@ VALUES
   ('Gravataí'),
   ('Caxias do Sul'),
   ('Caxias do Sul');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Recife'),
   ('Ananindeua'),
@@ -8552,7 +8552,7 @@ VALUES
   ('Crato'),
   ('Caucaia'),
   ('Ponta Grossa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Montes Claros'),
   ('Ribeirão das Neves'),
@@ -8564,7 +8564,7 @@ VALUES
   ('Itajaí'),
   ('Maracanaú'),
   ('Belford Roxo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sousa'),
   ('Caucaia'),
@@ -8576,7 +8576,7 @@ VALUES
   ('Goiânia'),
   ('Foz do Iguaçu'),
   ('Aparecida de Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarapuava'),
   ('Marabá'),
@@ -8588,7 +8588,7 @@ VALUES
   ('Goiânia'),
   ('Açailândia'),
   ('São Gonçalo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarulhos'),
   ('Florianópolis'),
@@ -8600,7 +8600,7 @@ VALUES
   ('Novo Hamburgo'),
   ('Bragança'),
   ('Jaboatão dos Guararapes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Porto Alegre'),
   ('Novo Hamburgo'),
@@ -8612,7 +8612,7 @@ VALUES
   ('Bacabal'),
   ('Montes Claros'),
   ('Caucaia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ipatinga'),
   ('Curitiba'),
@@ -8624,7 +8624,7 @@ VALUES
   ('Sousa'),
   ('Caucaia'),
   ('Parauapebas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro do Norte'),
   ('Petrópolis'),
@@ -8636,7 +8636,7 @@ VALUES
   ('Petrolina'),
   ('Petrolina'),
   ('Sousa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Verde'),
   ('Luziânia'),
@@ -8648,7 +8648,7 @@ VALUES
   ('Ribeirão Preto'),
   ('Rio de Janeiro'),
   ('Barra do Corda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão Preto'),
   ('Itajaí'),
@@ -8660,7 +8660,7 @@ VALUES
   ('Sousa'),
   ('Sobral'),
   ('Águas Lindas de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Rita'),
   ('Salvador'),
@@ -8672,7 +8672,7 @@ VALUES
   ('Campina Grande'),
   ('Crato'),
   ('Codó');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Verde'),
   ('Petrolina'),
@@ -8684,7 +8684,7 @@ VALUES
   ('Itapipoca'),
   ('São Luís'),
   ('Canoas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bacabal'),
   ('Bacabal'),
@@ -8696,7 +8696,7 @@ VALUES
   ('Bragança'),
   ('Rio Verde'),
   ('Santa Inês');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itabuna'),
   ('Campina Grande'),
@@ -8708,7 +8708,7 @@ VALUES
   ('Goiânia'),
   ('Goiânia'),
   ('Chapadinha');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campinas'),
   ('São João de Meriti'),
@@ -8720,7 +8720,7 @@ VALUES
   ('Parauapebas'),
   ('Castanhal'),
   ('Florianópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Goiânia'),
   ('Luziânia'),
@@ -8732,7 +8732,7 @@ VALUES
   ('São José'),
   ('Novo Hamburgo'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarapuava'),
   ('Bayeux'),
@@ -8744,7 +8744,7 @@ VALUES
   ('Bayeux'),
   ('Duque de Caxias'),
   ('Maracanaú');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ponta Grossa'),
   ('Joinville'),
@@ -8756,7 +8756,7 @@ VALUES
   ('Salvador'),
   ('Bragança'),
   ('Caucaia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ananindeua'),
   ('Caruaru'),
@@ -8768,7 +8768,7 @@ VALUES
   ('Carapicuíba'),
   ('Bragança'),
   ('Itapipoca');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Luzia'),
   ('Goiânia'),
@@ -8780,7 +8780,7 @@ VALUES
   ('Caxias'),
   ('Cabo de Santo Agostinho'),
   ('Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Joinville'),
   ('Olinda'),
@@ -8792,7 +8792,7 @@ VALUES
   ('Curitiba'),
   ('Novo Hamburgo'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Governador Valadares'),
   ('Patos'),
@@ -8804,7 +8804,7 @@ VALUES
   ('Cajazeiras'),
   ('Cascavel'),
   ('Criciúma');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Novo Hamburgo'),
   ('Imperatriz'),
@@ -8816,7 +8816,7 @@ VALUES
   ('Cametá'),
   ('Criciúma'),
   ('Curitiba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jundiaí'),
   ('Novo Hamburgo'),
@@ -8828,7 +8828,7 @@ VALUES
   ('Bragança'),
   ('Itabuna'),
   ('São João de Meriti');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Petrópolis'),
   ('Joinville'),
@@ -8840,7 +8840,7 @@ VALUES
   ('Belo Horizonte'),
   ('Codó'),
   ('Blumenau');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José'),
   ('Florianópolis'),
@@ -8852,7 +8852,7 @@ VALUES
   ('Luziânia'),
   ('Imperatriz'),
   ('Parauapebas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Curitiba'),
   ('Camaragibe'),
@@ -8864,7 +8864,7 @@ VALUES
   ('Uberaba'),
   ('Campos dos Goytacazes'),
   ('Diadema');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Contagem'),
   ('Santa Rita'),
@@ -8876,7 +8876,7 @@ VALUES
   ('Castanhal'),
   ('Parauapebas'),
   ('Londrina');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cametá'),
   ('Blumenau'),
@@ -8888,7 +8888,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Chapadinha'),
   ('Carapicuíba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Petrolina'),
   ('Castanhal'),
@@ -8900,7 +8900,7 @@ VALUES
   ('Santa Rita'),
   ('Olinda'),
   ('Belford Roxo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belo Horizonte'),
   ('Montes Claros'),
@@ -8912,7 +8912,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('São Gonçalo'),
   ('Juazeiro do Norte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('São Luís'),
@@ -8924,7 +8924,7 @@ VALUES
   ('Camaçari'),
   ('Recife'),
   ('Anápolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Feira de Santana'),
@@ -8936,7 +8936,7 @@ VALUES
   ('Santa Luzia'),
   ('Santa Inês'),
   ('Curitiba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Balsas'),
   ('Ribeirão das Neves'),
@@ -8948,7 +8948,7 @@ VALUES
   ('Camaçari'),
   ('João Pessoa'),
   ('Campinas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Águas Lindas de Goiás'),
   ('Porto Alegre'),
@@ -8960,7 +8960,7 @@ VALUES
   ('Santarém'),
   ('Ananindeua'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro do Norte'),
   ('Gravataí'),
@@ -8972,7 +8972,7 @@ VALUES
   ('Chapecó'),
   ('São Luís'),
   ('Caxias do Sul');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro'),
   ('Camaragibe'),
@@ -8984,7 +8984,7 @@ VALUES
   ('Diadema'),
   ('Montes Claros'),
   ('Juazeiro do Norte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Nova Iguaçu'),
   ('Curitiba'),
@@ -8996,7 +8996,7 @@ VALUES
   ('Juazeiro do Norte'),
   ('Guarapuava'),
   ('Timon');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Florianópolis'),
   ('Marabá'),
@@ -9008,7 +9008,7 @@ VALUES
   ('Aparecida de Goiânia'),
   ('Caxias do Sul'),
   ('Fortaleza');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Camaragibe'),
   ('Valparaíso de Goiás'),
@@ -9020,7 +9020,7 @@ VALUES
   ('Bragança'),
   ('Itapipoca'),
   ('Cajazeiras');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão das Neves'),
   ('Paulista'),
@@ -9032,7 +9032,7 @@ VALUES
   ('São José'),
   ('Maringá'),
   ('Colombo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belém'),
   ('Jaboatão dos Guararapes'),
@@ -9044,7 +9044,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Salvador'),
   ('Itapipoca');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Nova Iguaçu'),
   ('Itabuna'),
@@ -9060,7 +9060,7 @@ VALUES
 
 
 
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Salvador'),
   ('Caxias do Sul'),
@@ -9072,7 +9072,7 @@ VALUES
   ('Petrolina'),
   ('Divinópolis'),
   ('Belo Horizonte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Inês'),
   ('Gravataí'),
@@ -9084,7 +9084,7 @@ VALUES
   ('Itapipoca'),
   ('Diadema'),
   ('Caucaia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sete Lagoas'),
   ('Itabuna'),
@@ -9096,7 +9096,7 @@ VALUES
   ('Ribeirão Preto'),
   ('Luziânia'),
   ('Rio de Janeiro');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caucaia'),
   ('Águas Lindas de Goiás'),
@@ -9108,7 +9108,7 @@ VALUES
   ('Montes Claros'),
   ('Novo Hamburgo'),
   ('Campos dos Goytacazes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Criciúma'),
   ('Açailândia'),
@@ -9120,7 +9120,7 @@ VALUES
   ('Fortaleza'),
   ('Foz do Iguaçu'),
   ('Campos dos Goytacazes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarapuava'),
   ('Juiz de Fora'),
@@ -9132,7 +9132,7 @@ VALUES
   ('São João de Meriti'),
   ('Itajaí'),
   ('Rio Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão das Neves'),
   ('João Pessoa'),
@@ -9144,7 +9144,7 @@ VALUES
   ('Gravataí'),
   ('Caxias do Sul'),
   ('Caxias do Sul');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Recife'),
   ('Ananindeua'),
@@ -9156,7 +9156,7 @@ VALUES
   ('Crato'),
   ('Caucaia'),
   ('Ponta Grossa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Montes Claros'),
   ('Ribeirão das Neves'),
@@ -9168,7 +9168,7 @@ VALUES
   ('Itajaí'),
   ('Maracanaú'),
   ('Belford Roxo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sousa'),
   ('Caucaia'),
@@ -9180,7 +9180,7 @@ VALUES
   ('Goiânia'),
   ('Foz do Iguaçu'),
   ('Aparecida de Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarapuava'),
   ('Marabá'),
@@ -9192,7 +9192,7 @@ VALUES
   ('Goiânia'),
   ('Açailândia'),
   ('São Gonçalo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarulhos'),
   ('Florianópolis'),
@@ -9204,7 +9204,7 @@ VALUES
   ('Novo Hamburgo'),
   ('Bragança'),
   ('Jaboatão dos Guararapes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Porto Alegre'),
   ('Novo Hamburgo'),
@@ -9216,7 +9216,7 @@ VALUES
   ('Bacabal'),
   ('Montes Claros'),
   ('Caucaia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ipatinga'),
   ('Curitiba'),
@@ -9228,7 +9228,7 @@ VALUES
   ('Sousa'),
   ('Caucaia'),
   ('Parauapebas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro do Norte'),
   ('Petrópolis'),
@@ -9240,7 +9240,7 @@ VALUES
   ('Petrolina'),
   ('Petrolina'),
   ('Sousa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Verde'),
   ('Luziânia'),
@@ -9252,7 +9252,7 @@ VALUES
   ('Ribeirão Preto'),
   ('Rio de Janeiro'),
   ('Barra do Corda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão Preto'),
   ('Itajaí'),
@@ -9264,7 +9264,7 @@ VALUES
   ('Sousa'),
   ('Sobral'),
   ('Águas Lindas de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Rita'),
   ('Salvador'),
@@ -9276,7 +9276,7 @@ VALUES
   ('Campina Grande'),
   ('Crato'),
   ('Codó');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Verde'),
   ('Petrolina'),
@@ -9288,7 +9288,7 @@ VALUES
   ('Itapipoca'),
   ('São Luís'),
   ('Canoas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bacabal'),
   ('Bacabal'),
@@ -9300,7 +9300,7 @@ VALUES
   ('Bragança'),
   ('Rio Verde'),
   ('Santa Inês');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itabuna'),
   ('Campina Grande'),
@@ -9312,7 +9312,7 @@ VALUES
   ('Goiânia'),
   ('Goiânia'),
   ('Chapadinha');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campinas'),
   ('São João de Meriti'),
@@ -9324,7 +9324,7 @@ VALUES
   ('Parauapebas'),
   ('Castanhal'),
   ('Florianópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Goiânia'),
   ('Luziânia'),
@@ -9336,7 +9336,7 @@ VALUES
   ('São José'),
   ('Novo Hamburgo'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarapuava'),
   ('Bayeux'),
@@ -9348,7 +9348,7 @@ VALUES
   ('Bayeux'),
   ('Duque de Caxias'),
   ('Maracanaú');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ponta Grossa'),
   ('Joinville'),
@@ -9360,7 +9360,7 @@ VALUES
   ('Salvador'),
   ('Bragança'),
   ('Caucaia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ananindeua'),
   ('Caruaru'),
@@ -9372,7 +9372,7 @@ VALUES
   ('Carapicuíba'),
   ('Bragança'),
   ('Itapipoca');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Luzia'),
   ('Goiânia'),
@@ -9384,7 +9384,7 @@ VALUES
   ('Caxias'),
   ('Cabo de Santo Agostinho'),
   ('Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Joinville'),
   ('Olinda'),
@@ -9396,7 +9396,7 @@ VALUES
   ('Curitiba'),
   ('Novo Hamburgo'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Governador Valadares'),
   ('Patos'),
@@ -9408,7 +9408,7 @@ VALUES
   ('Cajazeiras'),
   ('Cascavel'),
   ('Criciúma');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Novo Hamburgo'),
   ('Imperatriz'),
@@ -9420,7 +9420,7 @@ VALUES
   ('Cametá'),
   ('Criciúma'),
   ('Curitiba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jundiaí'),
   ('Novo Hamburgo'),
@@ -9432,7 +9432,7 @@ VALUES
   ('Bragança'),
   ('Itabuna'),
   ('São João de Meriti');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Petrópolis'),
   ('Joinville'),
@@ -9444,7 +9444,7 @@ VALUES
   ('Belo Horizonte'),
   ('Codó'),
   ('Blumenau');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José'),
   ('Florianópolis'),
@@ -9456,7 +9456,7 @@ VALUES
   ('Luziânia'),
   ('Imperatriz'),
   ('Parauapebas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Curitiba'),
   ('Camaragibe'),
@@ -9468,7 +9468,7 @@ VALUES
   ('Uberaba'),
   ('Campos dos Goytacazes'),
   ('Diadema');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Contagem'),
   ('Santa Rita'),
@@ -9480,7 +9480,7 @@ VALUES
   ('Castanhal'),
   ('Parauapebas'),
   ('Londrina');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cametá'),
   ('Blumenau'),
@@ -9492,7 +9492,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Chapadinha'),
   ('Carapicuíba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Petrolina'),
   ('Castanhal'),
@@ -9504,7 +9504,7 @@ VALUES
   ('Santa Rita'),
   ('Olinda'),
   ('Belford Roxo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belo Horizonte'),
   ('Montes Claros'),
@@ -9516,7 +9516,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('São Gonçalo'),
   ('Juazeiro do Norte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('São Luís'),
@@ -9528,7 +9528,7 @@ VALUES
   ('Camaçari'),
   ('Recife'),
   ('Anápolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Feira de Santana'),
@@ -9540,7 +9540,7 @@ VALUES
   ('Santa Luzia'),
   ('Santa Inês'),
   ('Curitiba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Balsas'),
   ('Ribeirão das Neves'),
@@ -9552,7 +9552,7 @@ VALUES
   ('Camaçari'),
   ('João Pessoa'),
   ('Campinas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Águas Lindas de Goiás'),
   ('Porto Alegre'),
@@ -9564,7 +9564,7 @@ VALUES
   ('Santarém'),
   ('Ananindeua'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro do Norte'),
   ('Gravataí'),
@@ -9576,7 +9576,7 @@ VALUES
   ('Chapecó'),
   ('São Luís'),
   ('Caxias do Sul');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro'),
   ('Camaragibe'),
@@ -9588,7 +9588,7 @@ VALUES
   ('Diadema'),
   ('Montes Claros'),
   ('Juazeiro do Norte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Nova Iguaçu'),
   ('Curitiba'),
@@ -9600,7 +9600,7 @@ VALUES
   ('Juazeiro do Norte'),
   ('Guarapuava'),
   ('Timon');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Florianópolis'),
   ('Marabá'),
@@ -9612,7 +9612,7 @@ VALUES
   ('Aparecida de Goiânia'),
   ('Caxias do Sul'),
   ('Fortaleza');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Camaragibe'),
   ('Valparaíso de Goiás'),
@@ -9624,7 +9624,7 @@ VALUES
   ('Bragança'),
   ('Itapipoca'),
   ('Cajazeiras');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão das Neves'),
   ('Paulista'),
@@ -9636,7 +9636,7 @@ VALUES
   ('São José'),
   ('Maringá'),
   ('Colombo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belém'),
   ('Jaboatão dos Guararapes'),
@@ -9648,7 +9648,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Salvador'),
   ('Itapipoca');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Nova Iguaçu'),
   ('Itabuna'),
@@ -9663,7 +9663,7 @@ VALUES
 
 
 
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Salvador'),
   ('Caxias do Sul'),
@@ -9675,7 +9675,7 @@ VALUES
   ('Petrolina'),
   ('Divinópolis'),
   ('Belo Horizonte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Inês'),
   ('Gravataí'),
@@ -9687,7 +9687,7 @@ VALUES
   ('Itapipoca'),
   ('Diadema'),
   ('Caucaia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sete Lagoas'),
   ('Itabuna'),
@@ -9699,7 +9699,7 @@ VALUES
   ('Ribeirão Preto'),
   ('Luziânia'),
   ('Rio de Janeiro');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caucaia'),
   ('Águas Lindas de Goiás'),
@@ -9711,7 +9711,7 @@ VALUES
   ('Montes Claros'),
   ('Novo Hamburgo'),
   ('Campos dos Goytacazes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Criciúma'),
   ('Açailândia'),
@@ -9723,7 +9723,7 @@ VALUES
   ('Fortaleza'),
   ('Foz do Iguaçu'),
   ('Campos dos Goytacazes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarapuava'),
   ('Juiz de Fora'),
@@ -9735,7 +9735,7 @@ VALUES
   ('São João de Meriti'),
   ('Itajaí'),
   ('Rio Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão das Neves'),
   ('João Pessoa'),
@@ -9747,7 +9747,7 @@ VALUES
   ('Gravataí'),
   ('Caxias do Sul'),
   ('Caxias do Sul');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Recife'),
   ('Ananindeua'),
@@ -9759,7 +9759,7 @@ VALUES
   ('Crato'),
   ('Caucaia'),
   ('Ponta Grossa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Montes Claros'),
   ('Ribeirão das Neves'),
@@ -9771,7 +9771,7 @@ VALUES
   ('Itajaí'),
   ('Maracanaú'),
   ('Belford Roxo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sousa'),
   ('Caucaia'),
@@ -9783,7 +9783,7 @@ VALUES
   ('Goiânia'),
   ('Foz do Iguaçu'),
   ('Aparecida de Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarapuava'),
   ('Marabá'),
@@ -9795,7 +9795,7 @@ VALUES
   ('Goiânia'),
   ('Açailândia'),
   ('São Gonçalo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarulhos'),
   ('Florianópolis'),
@@ -9807,7 +9807,7 @@ VALUES
   ('Novo Hamburgo'),
   ('Bragança'),
   ('Jaboatão dos Guararapes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Porto Alegre'),
   ('Novo Hamburgo'),
@@ -9819,7 +9819,7 @@ VALUES
   ('Bacabal'),
   ('Montes Claros'),
   ('Caucaia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ipatinga'),
   ('Curitiba'),
@@ -9831,7 +9831,7 @@ VALUES
   ('Sousa'),
   ('Caucaia'),
   ('Parauapebas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro do Norte'),
   ('Petrópolis'),
@@ -9843,7 +9843,7 @@ VALUES
   ('Petrolina'),
   ('Petrolina'),
   ('Sousa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Verde'),
   ('Luziânia'),
@@ -9855,7 +9855,7 @@ VALUES
   ('Ribeirão Preto'),
   ('Rio de Janeiro'),
   ('Barra do Corda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão Preto'),
   ('Itajaí'),
@@ -9867,7 +9867,7 @@ VALUES
   ('Sousa'),
   ('Sobral'),
   ('Águas Lindas de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Rita'),
   ('Salvador'),
@@ -9879,7 +9879,7 @@ VALUES
   ('Campina Grande'),
   ('Crato'),
   ('Codó');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Verde'),
   ('Petrolina'),
@@ -9891,7 +9891,7 @@ VALUES
   ('Itapipoca'),
   ('São Luís'),
   ('Canoas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bacabal'),
   ('Bacabal'),
@@ -9903,7 +9903,7 @@ VALUES
   ('Bragança'),
   ('Rio Verde'),
   ('Santa Inês');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itabuna'),
   ('Campina Grande'),
@@ -9915,7 +9915,7 @@ VALUES
   ('Goiânia'),
   ('Goiânia'),
   ('Chapadinha');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campinas'),
   ('São João de Meriti'),
@@ -9927,7 +9927,7 @@ VALUES
   ('Parauapebas'),
   ('Castanhal'),
   ('Florianópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Goiânia'),
   ('Luziânia'),
@@ -9939,7 +9939,7 @@ VALUES
   ('São José'),
   ('Novo Hamburgo'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarapuava'),
   ('Bayeux'),
@@ -9951,7 +9951,7 @@ VALUES
   ('Bayeux'),
   ('Duque de Caxias'),
   ('Maracanaú');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ponta Grossa'),
   ('Joinville'),
@@ -9963,7 +9963,7 @@ VALUES
   ('Salvador'),
   ('Bragança'),
   ('Caucaia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ananindeua'),
   ('Caruaru'),
@@ -9975,7 +9975,7 @@ VALUES
   ('Carapicuíba'),
   ('Bragança'),
   ('Itapipoca');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Luzia'),
   ('Goiânia'),
@@ -9987,7 +9987,7 @@ VALUES
   ('Caxias'),
   ('Cabo de Santo Agostinho'),
   ('Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Joinville'),
   ('Olinda'),
@@ -9999,7 +9999,7 @@ VALUES
   ('Curitiba'),
   ('Novo Hamburgo'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Governador Valadares'),
   ('Patos'),
@@ -10011,7 +10011,7 @@ VALUES
   ('Cajazeiras'),
   ('Cascavel'),
   ('Criciúma');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Novo Hamburgo'),
   ('Imperatriz'),
@@ -10023,7 +10023,7 @@ VALUES
   ('Cametá'),
   ('Criciúma'),
   ('Curitiba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jundiaí'),
   ('Novo Hamburgo'),
@@ -10035,7 +10035,7 @@ VALUES
   ('Bragança'),
   ('Itabuna'),
   ('São João de Meriti');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Petrópolis'),
   ('Joinville'),
@@ -10047,7 +10047,7 @@ VALUES
   ('Belo Horizonte'),
   ('Codó'),
   ('Blumenau');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José'),
   ('Florianópolis'),
@@ -10059,7 +10059,7 @@ VALUES
   ('Luziânia'),
   ('Imperatriz'),
   ('Parauapebas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Curitiba'),
   ('Camaragibe'),
@@ -10071,7 +10071,7 @@ VALUES
   ('Uberaba'),
   ('Campos dos Goytacazes'),
   ('Diadema');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Contagem'),
   ('Santa Rita'),
@@ -10083,7 +10083,7 @@ VALUES
   ('Castanhal'),
   ('Parauapebas'),
   ('Londrina');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cametá'),
   ('Blumenau'),
@@ -10095,7 +10095,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Chapadinha'),
   ('Carapicuíba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Petrolina'),
   ('Castanhal'),
@@ -10107,7 +10107,7 @@ VALUES
   ('Santa Rita'),
   ('Olinda'),
   ('Belford Roxo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belo Horizonte'),
   ('Montes Claros'),
@@ -10119,7 +10119,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('São Gonçalo'),
   ('Juazeiro do Norte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('São Luís'),
@@ -10131,7 +10131,7 @@ VALUES
   ('Camaçari'),
   ('Recife'),
   ('Anápolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Feira de Santana'),
@@ -10143,7 +10143,7 @@ VALUES
   ('Santa Luzia'),
   ('Santa Inês'),
   ('Curitiba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Balsas'),
   ('Ribeirão das Neves'),
@@ -10155,7 +10155,7 @@ VALUES
   ('Camaçari'),
   ('João Pessoa'),
   ('Campinas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Águas Lindas de Goiás'),
   ('Porto Alegre'),
@@ -10167,7 +10167,7 @@ VALUES
   ('Santarém'),
   ('Ananindeua'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro do Norte'),
   ('Gravataí'),
@@ -10179,7 +10179,7 @@ VALUES
   ('Chapecó'),
   ('São Luís'),
   ('Caxias do Sul');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro'),
   ('Camaragibe'),
@@ -10191,7 +10191,7 @@ VALUES
   ('Diadema'),
   ('Montes Claros'),
   ('Juazeiro do Norte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Nova Iguaçu'),
   ('Curitiba'),
@@ -10203,7 +10203,7 @@ VALUES
   ('Juazeiro do Norte'),
   ('Guarapuava'),
   ('Timon');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Florianópolis'),
   ('Marabá'),
@@ -10215,7 +10215,7 @@ VALUES
   ('Aparecida de Goiânia'),
   ('Caxias do Sul'),
   ('Fortaleza');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Camaragibe'),
   ('Valparaíso de Goiás'),
@@ -10227,7 +10227,7 @@ VALUES
   ('Bragança'),
   ('Itapipoca'),
   ('Cajazeiras');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ribeirão das Neves'),
   ('Paulista'),
@@ -10239,7 +10239,7 @@ VALUES
   ('São José'),
   ('Maringá'),
   ('Colombo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belém'),
   ('Jaboatão dos Guararapes'),
@@ -10251,7 +10251,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Salvador'),
   ('Itapipoca');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Nova Iguaçu'),
   ('Itabuna'),
@@ -10266,7 +10266,7 @@ VALUES
 
 
 
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Abaetetuba'),
   ('Chapadinha'),
@@ -10278,7 +10278,7 @@ VALUES
   ('Foz do Iguaçu'),
   ('Olinda'),
   ('Porto Alegre');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Luziânia'),
   ('Cametá'),
@@ -10290,7 +10290,7 @@ VALUES
   ('Blumenau'),
   ('Nova Iguaçu'),
   ('Paranaguá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sobral'),
   ('Ribeirão das Neves'),
@@ -10302,7 +10302,7 @@ VALUES
   ('Ananindeua'),
   ('Fortaleza'),
   ('Rio de Janeiro');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Salvador'),
   ('Marabá'),
@@ -10314,7 +10314,7 @@ VALUES
   ('Campinas'),
   ('Rio Grande'),
   ('Guarulhos');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Rita'),
   ('Betim'),
@@ -10326,7 +10326,7 @@ VALUES
   ('Cajazeiras'),
   ('Salvador'),
   ('Chapecó');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sousa'),
   ('Jundiaí'),
@@ -10338,7 +10338,7 @@ VALUES
   ('Maringá'),
   ('Salvador'),
   ('Juazeiro do Norte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Niterói'),
   ('Chapecó'),
@@ -10350,7 +10350,7 @@ VALUES
   ('Gravataí'),
   ('Itabuna'),
   ('Cabo de Santo Agostinho');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro'),
   ('São Gonçalo'),
@@ -10362,7 +10362,7 @@ VALUES
   ('Olinda'),
   ('Ribeirão das Neves'),
   ('Itajaí');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Aparecida de Goiânia'),
   ('Patos'),
@@ -10374,7 +10374,7 @@ VALUES
   ('Petrolina'),
   ('Paranaguá'),
   ('Itajaí');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Blumenau'),
   ('Joinville'),
@@ -10386,7 +10386,7 @@ VALUES
   ('Canoas'),
   ('Balsas'),
   ('Codó');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Maria'),
   ('Petrolina'),
@@ -10398,7 +10398,7 @@ VALUES
   ('Osasco'),
   ('Chapadinha'),
   ('Cascavel');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Abaetetuba'),
   ('Ilhéus'),
@@ -10410,7 +10410,7 @@ VALUES
   ('Paranaguá'),
   ('Maracanaú'),
   ('Rio de Janeiro');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Valparaíso de Goiás'),
   ('Lauro de Freitas'),
@@ -10422,7 +10422,7 @@ VALUES
   ('Montes Claros'),
   ('Ponta Grossa'),
   ('Rio Verde');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Luziânia'),
   ('Betim'),
@@ -10434,7 +10434,7 @@ VALUES
   ('São João de Meriti'),
   ('Rio Verde'),
   ('Chapadinha');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Verde'),
   ('Águas Lindas de Goiás'),
@@ -10446,7 +10446,7 @@ VALUES
   ('Novo Hamburgo'),
   ('Mauá'),
   ('Parauapebas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Blumenau'),
   ('Lauro de Freitas'),
@@ -10458,7 +10458,7 @@ VALUES
   ('Marabá'),
   ('Itajaí'),
   ('Cajazeiras');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Recife'),
   ('Colombo'),
@@ -10470,7 +10470,7 @@ VALUES
   ('Curitiba'),
   ('Cametá'),
   ('Olinda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Timon'),
   ('Ipatinga'),
@@ -10482,7 +10482,7 @@ VALUES
   ('Belford Roxo'),
   ('Ilhéus'),
   ('São Luís');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Codó'),
   ('Sobral'),
@@ -10494,7 +10494,7 @@ VALUES
   ('Sousa'),
   ('Ipatinga'),
   ('Canoas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José'),
   ('Itapipoca'),
@@ -10506,7 +10506,7 @@ VALUES
   ('Maringá'),
   ('Cascavel'),
   ('Santarém');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Anápolis'),
   ('Petrópolis'),
@@ -10518,7 +10518,7 @@ VALUES
   ('São José'),
   ('Canoas'),
   ('Pelotas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Açailândia'),
   ('Luziânia'),
@@ -10530,7 +10530,7 @@ VALUES
   ('São José'),
   ('Betim'),
   ('Feira de Santana');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Criciúma'),
   ('Guarulhos'),
@@ -10542,7 +10542,7 @@ VALUES
   ('Balsas'),
   ('Sousa'),
   ('Camaçari');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Castanhal'),
   ('Vitória da Conquista'),
@@ -10554,7 +10554,7 @@ VALUES
   ('Parauapebas'),
   ('Caxias'),
   ('Jaboatão dos Guararapes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itajaí'),
   ('Campos dos Goytacazes'),
@@ -10566,7 +10566,7 @@ VALUES
   ('Campos dos Goytacazes'),
   ('Santa Maria'),
   ('Olinda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José'),
   ('Marabá'),
@@ -10578,7 +10578,7 @@ VALUES
   ('Campina Grande'),
   ('Bragança'),
   ('São Gonçalo');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jaboatão dos Guararapes'),
   ('Novo Hamburgo'),
@@ -10590,7 +10590,7 @@ VALUES
   ('Diadema'),
   ('Maranguape'),
   ('Valparaíso de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Criciúma'),
   ('Marabá'),
@@ -10602,7 +10602,7 @@ VALUES
   ('Ribeirão Preto'),
   ('Caucaia'),
   ('Cabo de Santo Agostinho');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Inês'),
   ('Luziânia'),
@@ -10614,7 +10614,7 @@ VALUES
   ('Paulista'),
   ('Novo Hamburgo'),
   ('Olinda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Chapecó'),
   ('Itabuna'),
@@ -10626,7 +10626,7 @@ VALUES
   ('São José'),
   ('Pelotas'),
   ('Maringá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Paranaguá'),
   ('Curitiba'),
@@ -10638,7 +10638,7 @@ VALUES
   ('Santa Inês'),
   ('Maracanaú'),
   ('Olinda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Recife'),
   ('Nova Iguaçu'),
@@ -10650,7 +10650,7 @@ VALUES
   ('Jaboatão dos Guararapes'),
   ('Parauapebas'),
   ('Santa Rita');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belford Roxo'),
   ('Juiz de Fora'),
@@ -10662,7 +10662,7 @@ VALUES
   ('Petrópolis'),
   ('Belford Roxo'),
   ('Sousa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São Luís'),
   ('Petrópolis'),
@@ -10674,7 +10674,7 @@ VALUES
   ('Santa Inês'),
   ('Vitória da Conquista'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('Curitiba'),
@@ -10686,7 +10686,7 @@ VALUES
   ('Juazeiro'),
   ('Caxias'),
   ('Bragança');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Camaragibe'),
   ('Camaragibe'),
@@ -10698,7 +10698,7 @@ VALUES
   ('Chapecó'),
   ('Criciúma'),
   ('Sete Lagoas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cajazeiras'),
   ('Joinville'),
@@ -10710,7 +10710,7 @@ VALUES
   ('Santa Maria'),
   ('Lauro de Freitas'),
   ('Duque de Caxias');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caxias'),
   ('Guarulhos'),
@@ -10722,7 +10722,7 @@ VALUES
   ('Canoas'),
   ('Pelotas'),
   ('Petrolina');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Anápolis'),
   ('Ribeirão Preto'),
@@ -10734,7 +10734,7 @@ VALUES
   ('Campina Grande'),
   ('Criciúma'),
   ('Montes Claros');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Carapicuíba'),
   ('Rio Verde'),
@@ -10746,7 +10746,7 @@ VALUES
   ('Campinas'),
   ('Caucaia'),
   ('Florianópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('Petrópolis'),
@@ -10758,7 +10758,7 @@ VALUES
   ('Olinda'),
   ('Novo Hamburgo'),
   ('Caxias');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sousa'),
   ('Açailândia'),
@@ -10770,7 +10770,7 @@ VALUES
   ('Vitória da Conquista'),
   ('Campina Grande'),
   ('Joinville');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Petrópolis'),
   ('Gravataí'),
@@ -10782,7 +10782,7 @@ VALUES
   ('Bayeux'),
   ('Aparecida de Goiânia'),
   ('Montes Claros');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Maranguape'),
   ('Porto Alegre'),
@@ -10794,7 +10794,7 @@ VALUES
   ('Caruaru'),
   ('Blumenau'),
   ('Balsas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São João de Meriti'),
   ('Goiânia'),
@@ -10806,7 +10806,7 @@ VALUES
   ('Rio Verde'),
   ('Joinville'),
   ('Guarulhos');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Florianópolis'),
   ('Florianópolis'),
@@ -10818,7 +10818,7 @@ VALUES
   ('Parauapebas'),
   ('Novo Hamburgo'),
   ('Petrolina');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('Olinda'),
@@ -10830,7 +10830,7 @@ VALUES
   ('Paulista'),
   ('Ananindeua'),
   ('Ipatinga');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Barra do Corda'),
   ('Juazeiro'),
@@ -10842,7 +10842,7 @@ VALUES
   ('Santa Rita'),
   ('Belém'),
   ('Paranaguá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Criciúma'),
   ('Paranaguá'),
@@ -10854,7 +10854,7 @@ VALUES
   ('Belford Roxo'),
   ('Florianópolis'),
   ('João Pessoa');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santarém'),
   ('Diadema'),
@@ -10870,7 +10870,7 @@ VALUES
 
 
 
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Maracanaú'),
   ('Chapecó'),
@@ -10882,7 +10882,7 @@ VALUES
   ('São Gonçalo'),
   ('Rio Verde'),
   ('Itajaí');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Rita'),
   ('Maranguape'),
@@ -10894,7 +10894,7 @@ VALUES
   ('Sousa'),
   ('Ilhéus'),
   ('Valparaíso de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São Gonçalo'),
   ('Diadema'),
@@ -10906,7 +10906,7 @@ VALUES
   ('Chapecó'),
   ('Florianópolis'),
   ('Ribeirão das Neves');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarapuava'),
   ('Florianópolis'),
@@ -10918,7 +10918,7 @@ VALUES
   ('Curitiba'),
   ('São José'),
   ('Caruaru');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarapuava'),
   ('Santa Luzia'),
@@ -10930,7 +10930,7 @@ VALUES
   ('Valparaíso de Goiás'),
   ('Curitiba'),
   ('Cascavel');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Luzia'),
   ('Sete Lagoas'),
@@ -10942,7 +10942,7 @@ VALUES
   ('Imperatriz'),
   ('Aparecida de Goiânia'),
   ('Anápolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Grande'),
   ('Campos dos Goytacazes'),
@@ -10954,7 +10954,7 @@ VALUES
   ('Marabá'),
   ('Pelotas'),
   ('Ribeirão Preto');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Castanhal'),
   ('Camaragibe'),
@@ -10966,7 +10966,7 @@ VALUES
   ('Rio de Janeiro'),
   ('Niterói'),
   ('Uberlândia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Blumenau'),
   ('Campina Grande'),
@@ -10978,7 +10978,7 @@ VALUES
   ('Ribeirão Preto'),
   ('Ilhéus'),
   ('Rio Verde');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Betim'),
   ('Parauapebas'),
@@ -10990,7 +10990,7 @@ VALUES
   ('Paulista'),
   ('São João de Meriti'),
   ('Londrina');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belo Horizonte'),
   ('Novo Hamburgo'),
@@ -11002,7 +11002,7 @@ VALUES
   ('Paço do Lumiar'),
   ('Belford Roxo'),
   ('Caruaru');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Imperatriz'),
   ('Luziânia'),
@@ -11014,7 +11014,7 @@ VALUES
   ('Novo Hamburgo'),
   ('Chapecó'),
   ('São João de Meriti');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Maranguape'),
   ('Caruaru'),
@@ -11026,7 +11026,7 @@ VALUES
   ('Niterói'),
   ('Santarém'),
   ('São José');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sousa'),
   ('Florianópolis'),
@@ -11038,7 +11038,7 @@ VALUES
   ('Camaçari'),
   ('Bacabal'),
   ('Camaragibe');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jundiaí'),
   ('Paulista'),
@@ -11050,7 +11050,7 @@ VALUES
   ('Pelotas'),
   ('Marabá'),
   ('Marabá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Salvador'),
   ('Divinópolis'),
@@ -11062,7 +11062,7 @@ VALUES
   ('Vitória da Conquista'),
   ('Piracicaba'),
   ('Guarulhos');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Vitória da Conquista'),
   ('Diadema'),
@@ -11074,7 +11074,7 @@ VALUES
   ('Santa Inês'),
   ('São Gonçalo'),
   ('Camaçari');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Aparecida de Goiânia'),
   ('Abaetetuba'),
@@ -11086,7 +11086,7 @@ VALUES
   ('João Pessoa'),
   ('Foz do Iguaçu'),
   ('Petrolina');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Mogi das Cruzes'),
   ('Águas Lindas de Goiás'),
@@ -11098,7 +11098,7 @@ VALUES
   ('Cabo de Santo Agostinho'),
   ('Imperatriz'),
   ('Uberlândia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Verde'),
   ('Itajaí'),
@@ -11110,7 +11110,7 @@ VALUES
   ('São Gonçalo'),
   ('Feira de Santana'),
   ('Luziânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Divinópolis'),
   ('Nova Iguaçu'),
@@ -11122,7 +11122,7 @@ VALUES
   ('Feira de Santana'),
   ('Petrolina'),
   ('Bacabal');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Anápolis'),
   ('Caxias'),
@@ -11134,7 +11134,7 @@ VALUES
   ('Santarém'),
   ('Betim'),
   ('Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Marabá'),
   ('Águas Lindas de Goiás'),
@@ -11146,7 +11146,7 @@ VALUES
   ('João Pessoa'),
   ('São José'),
   ('Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Curitiba'),
   ('Nova Iguaçu'),
@@ -11158,7 +11158,7 @@ VALUES
   ('Sete Lagoas'),
   ('São José'),
   ('Paranaguá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarulhos'),
   ('Petrolina'),
@@ -11170,7 +11170,7 @@ VALUES
   ('Sete Lagoas'),
   ('Paranaguá'),
   ('Bacabal');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caxias'),
   ('Duque de Caxias'),
@@ -11182,7 +11182,7 @@ VALUES
   ('Camaragibe'),
   ('Santa Rita'),
   ('Piracicaba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sousa'),
   ('Patos'),
@@ -11194,7 +11194,7 @@ VALUES
   ('Juiz de Fora'),
   ('Valparaíso de Goiás'),
   ('Anápolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Luziânia'),
   ('Belém'),
@@ -11206,7 +11206,7 @@ VALUES
   ('Feira de Santana'),
   ('Ribeirão Preto'),
   ('Itabuna');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarulhos'),
   ('Canoas'),
@@ -11218,7 +11218,7 @@ VALUES
   ('Aparecida de Goiânia'),
   ('Diadema'),
   ('Pelotas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Barra do Corda'),
   ('Vitória da Conquista'),
@@ -11230,7 +11230,7 @@ VALUES
   ('Uberlândia'),
   ('Feira de Santana'),
   ('Rio Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José'),
   ('Petrolina'),
@@ -11242,7 +11242,7 @@ VALUES
   ('Ribeirão das Neves'),
   ('Londrina'),
   ('Sete Lagoas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Foz do Iguaçu'),
   ('Ilhéus'),
@@ -11254,7 +11254,7 @@ VALUES
   ('Bayeux'),
   ('Anápolis'),
   ('Curitiba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Piracicaba'),
   ('Feira de Santana'),
@@ -11266,7 +11266,7 @@ VALUES
   ('Bragança'),
   ('Belford Roxo'),
   ('Santa Rita');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Joinville'),
   ('Mauá'),
@@ -11278,7 +11278,7 @@ VALUES
   ('Imperatriz'),
   ('Cascavel'),
   ('Rio Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Carapicuíba'),
   ('Timon'),
@@ -11290,7 +11290,7 @@ VALUES
   ('Ribeirão das Neves'),
   ('Cabo de Santo Agostinho'),
   ('Governador Valadares');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Novo Hamburgo'),
   ('Uberaba'),
@@ -11302,7 +11302,7 @@ VALUES
   ('Santa Luzia'),
   ('Mauá'),
   ('Rio Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Patos'),
   ('Parauapebas'),
@@ -11314,7 +11314,7 @@ VALUES
   ('Salvador'),
   ('Piracicaba'),
   ('Canoas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Montes Claros'),
   ('São João de Meriti'),
@@ -11326,7 +11326,7 @@ VALUES
   ('Montes Claros'),
   ('Ipatinga'),
   ('Paulista');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Balsas'),
   ('Camaçari'),
@@ -11338,7 +11338,7 @@ VALUES
   ('Petrolina'),
   ('Joinville'),
   ('Bayeux');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarulhos'),
   ('Juazeiro do Norte'),
@@ -11350,7 +11350,7 @@ VALUES
   ('Chapecó'),
   ('Blumenau'),
   ('Campina Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Luziânia'),
   ('Fortaleza'),
@@ -11362,7 +11362,7 @@ VALUES
   ('Carapicuíba'),
   ('Mauá'),
   ('Parauapebas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Açailândia'),
   ('Bacabal'),
@@ -11374,7 +11374,7 @@ VALUES
   ('Caucaia'),
   ('Itabuna'),
   ('Nova Iguaçu');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Verde'),
   ('Uberlândia'),
@@ -11386,7 +11386,7 @@ VALUES
   ('Águas Lindas de Goiás'),
   ('Uberaba'),
   ('Maringá');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Belo Horizonte'),
   ('Novo Hamburgo'),
@@ -11398,7 +11398,7 @@ VALUES
   ('Santa Luzia'),
   ('Bayeux'),
   ('Castanhal');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Curitiba'),
   ('Rio Grande'),
@@ -11410,7 +11410,7 @@ VALUES
   ('Canoas'),
   ('Rio Grande'),
   ('Curitiba');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Luzia'),
   ('Crato'),
@@ -11422,7 +11422,7 @@ VALUES
   ('Rio Verde'),
   ('Uberlândia'),
   ('Divinópolis');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Florianópolis'),
   ('Campinas'),
@@ -11434,7 +11434,7 @@ VALUES
   ('Vitória da Conquista'),
   ('Ponta Grossa'),
   ('São José');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('João Pessoa'),
   ('Mogi das Cruzes'),
@@ -11446,7 +11446,7 @@ VALUES
   ('Caxias do Sul'),
   ('Canoas'),
   ('Maracanaú');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Petrópolis'),
   ('Petrópolis'),
@@ -11458,7 +11458,7 @@ VALUES
   ('Chapecó'),
   ('Camaragibe'),
   ('Santa Maria');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Patos'),
   ('Itapipoca'),
@@ -11472,7 +11472,7 @@ VALUES
   ('Petrolina');
 
 
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Imperatriz'),
   ('Rio de Janeiro'),
@@ -11484,7 +11484,7 @@ VALUES
   ('Patos'),
   ('Bayeux'),
   ('Santa Inês');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Criciúma'),
   ('Marabá'),
@@ -11496,7 +11496,7 @@ VALUES
   ('Cabo de Santo Agostinho'),
   ('Rio Grande'),
   ('Pelotas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Guarulhos'),
   ('Sobral'),
@@ -11508,7 +11508,7 @@ VALUES
   ('Canoas'),
   ('Foz do Iguaçu'),
   ('Blumenau');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cametá'),
   ('Crato'),
@@ -11520,7 +11520,7 @@ VALUES
   ('São Gonçalo'),
   ('Fortaleza'),
   ('Maranguape');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Rita'),
   ('Patos'),
@@ -11532,7 +11532,7 @@ VALUES
   ('Uberaba'),
   ('Abaetetuba'),
   ('Rio Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caucaia'),
   ('Novo Hamburgo'),
@@ -11544,7 +11544,7 @@ VALUES
   ('Maracanaú'),
   ('Jundiaí'),
   ('Sobral');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Rita'),
   ('Paulista'),
@@ -11556,7 +11556,7 @@ VALUES
   ('Ribeirão das Neves'),
   ('Fortaleza'),
   ('Bragança');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Montes Claros'),
   ('Recife'),
@@ -11568,7 +11568,7 @@ VALUES
   ('Maracanaú'),
   ('Campinas'),
   ('Ilhéus');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Luzia'),
   ('Uberaba'),
@@ -11580,7 +11580,7 @@ VALUES
   ('Niterói'),
   ('Luziânia'),
   ('Jundiaí');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Duque de Caxias'),
   ('Sete Lagoas'),
@@ -11592,7 +11592,7 @@ VALUES
   ('Guarulhos'),
   ('Parauapebas'),
   ('Cascavel');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Verde'),
   ('Jaboatão dos Guararapes'),
@@ -11604,7 +11604,7 @@ VALUES
   ('Águas Lindas de Goiás'),
   ('Governador Valadares'),
   ('Chapadinha');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Águas Lindas de Goiás'),
   ('Codó'),
@@ -11616,7 +11616,7 @@ VALUES
   ('Novo Hamburgo'),
   ('Itapipoca'),
   ('Luziânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campina Grande'),
   ('Campina Grande'),
@@ -11628,7 +11628,7 @@ VALUES
   ('Recife'),
   ('Sousa'),
   ('Bayeux');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Santa Maria'),
   ('Codó'),
@@ -11640,7 +11640,7 @@ VALUES
   ('Cabo de Santo Agostinho'),
   ('Sousa'),
   ('Belém');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Codó'),
   ('Sete Lagoas'),
@@ -11652,7 +11652,7 @@ VALUES
   ('João Pessoa'),
   ('Carapicuíba'),
   ('Chapadinha');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Feira de Santana'),
   ('Caxias'),
@@ -11664,7 +11664,7 @@ VALUES
   ('Olinda'),
   ('Duque de Caxias'),
   ('Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Verde'),
   ('Criciúma'),
@@ -11676,7 +11676,7 @@ VALUES
   ('Joinville'),
   ('Campinas'),
   ('Duque de Caxias');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Jundiaí'),
   ('Parauapebas'),
@@ -11688,7 +11688,7 @@ VALUES
   ('Goiânia'),
   ('Osasco'),
   ('Chapadinha');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Bayeux'),
   ('Abaetetuba'),
@@ -11700,7 +11700,7 @@ VALUES
   ('Sousa'),
   ('Juazeiro'),
   ('Barra do Corda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campina Grande'),
   ('Goiânia'),
@@ -11712,7 +11712,7 @@ VALUES
   ('Maranguape'),
   ('Cascavel'),
   ('Canoas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cascavel'),
   ('Caucaia'),
@@ -11724,7 +11724,7 @@ VALUES
   ('Juazeiro do Norte'),
   ('Salvador'),
   ('Campinas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Diadema'),
   ('Novo Hamburgo'),
@@ -11736,7 +11736,7 @@ VALUES
   ('Cajazeiras'),
   ('Itabuna'),
   ('Ribeirão Preto');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Caxias do Sul'),
   ('Belford Roxo'),
@@ -11748,7 +11748,7 @@ VALUES
   ('Balsas'),
   ('Crato'),
   ('Feira de Santana');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Imperatriz'),
   ('Belém'),
@@ -11760,7 +11760,7 @@ VALUES
   ('Campinas'),
   ('Santa Maria'),
   ('Bacabal');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itabuna'),
   ('Paço do Lumiar'),
@@ -11772,7 +11772,7 @@ VALUES
   ('Joinville'),
   ('Juazeiro'),
   ('Aparecida de Goiânia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio Verde'),
   ('Balsas'),
@@ -11784,7 +11784,7 @@ VALUES
   ('Porto Alegre'),
   ('Itapipoca'),
   ('Maranguape');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Uberlândia'),
   ('Parauapebas'),
@@ -11796,7 +11796,7 @@ VALUES
   ('Caxias do Sul'),
   ('Bacabal'),
   ('Barra do Corda');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ilhéus'),
   ('São João de Meriti'),
@@ -11808,7 +11808,7 @@ VALUES
   ('Novo Hamburgo'),
   ('João Pessoa'),
   ('Bayeux');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Codó'),
   ('Patos'),
@@ -11820,7 +11820,7 @@ VALUES
   ('Camaçari'),
   ('Montes Claros'),
   ('Campos dos Goytacazes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Foz do Iguaçu'),
   ('Cametá'),
@@ -11832,7 +11832,7 @@ VALUES
   ('Londrina'),
   ('Santarém'),
   ('Belo Horizonte');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Uberlândia'),
   ('Marabá'),
@@ -11844,7 +11844,7 @@ VALUES
   ('Niterói'),
   ('Londrina'),
   ('Santa Rita');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Rio de Janeiro'),
   ('São Gonçalo'),
@@ -11856,7 +11856,7 @@ VALUES
   ('Barra do Corda'),
   ('Cajazeiras'),
   ('Sobral');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Novo Hamburgo'),
   ('Feira de Santana'),
@@ -11868,7 +11868,7 @@ VALUES
   ('Canoas'),
   ('Juazeiro'),
   ('Chapecó');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Valparaíso de Goiás'),
   ('Mogi das Cruzes'),
@@ -11880,7 +11880,7 @@ VALUES
   ('Fortaleza'),
   ('Camaragibe'),
   ('Valparaíso de Goiás');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ilhéus'),
   ('Rio Verde'),
@@ -11892,7 +11892,7 @@ VALUES
   ('Petrópolis'),
   ('Mauá'),
   ('Guarulhos');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Ipatinga'),
   ('Cascavel'),
@@ -11904,7 +11904,7 @@ VALUES
   ('Paço do Lumiar'),
   ('Foz do Iguaçu'),
   ('Blumenau');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São João de Meriti'),
   ('Guarulhos'),
@@ -11916,7 +11916,7 @@ VALUES
   ('Olinda'),
   ('Governador Valadares'),
   ('Recife');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Juazeiro'),
   ('Itabuna'),
@@ -11928,7 +11928,7 @@ VALUES
   ('Guarulhos'),
   ('Juazeiro do Norte'),
   ('Canoas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Itajaí'),
   ('São Gonçalo'),
@@ -11940,7 +11940,7 @@ VALUES
   ('Anápolis'),
   ('Caxias do Sul'),
   ('Foz do Iguaçu');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('São José dos Pinhais'),
   ('Chapadinha'),
@@ -11952,7 +11952,7 @@ VALUES
   ('Guarulhos'),
   ('Curitiba'),
   ('Rio Grande');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Campina Grande'),
   ('Goiânia'),
@@ -11964,7 +11964,7 @@ VALUES
   ('Sobral'),
   ('Divinópolis'),
   ('Bayeux');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Cametá'),
   ('Crato'),
@@ -11976,7 +11976,7 @@ VALUES
   ('São José dos Pinhais'),
   ('Governador Valadares'),
   ('Balsas');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Camaçari'),
   ('Belém'),
@@ -11988,7 +11988,7 @@ VALUES
   ('Ilhéus'),
   ('Cajazeiras'),
   ('Cajazeiras');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('João Pessoa'),
   ('Camaragibe'),
@@ -12000,7 +12000,7 @@ VALUES
   ('Jaboatão dos Guararapes'),
   ('Abaetetuba'),
   ('Cascavel');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Maracanaú'),
   ('Porto Alegre'),
@@ -12012,7 +12012,7 @@ VALUES
   ('Cascavel'),
   ('Novo Hamburgo'),
   ('Santa Rita');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Castanhal'),
   ('Ananindeua'),
@@ -12024,7 +12024,7 @@ VALUES
   ('Abaetetuba'),
   ('Uberlândia'),
   ('Diadema');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Goiânia'),
   ('Maringá'),
@@ -12036,7 +12036,7 @@ VALUES
   ('Codó'),
   ('Abaetetuba'),
   ('Uberlândia');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Londrina'),
   ('Rio de Janeiro'),
@@ -12048,7 +12048,7 @@ VALUES
   ('Santa Rita'),
   ('Guarulhos'),
   ('Mogi das Cruzes');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Sobral'),
   ('Camaragibe'),
@@ -12060,7 +12060,7 @@ VALUES
   ('Camaragibe'),
   ('Campos dos Goytacazes'),
   ('Londrina');
-INSERT INTO cidades (nome)
+INSERT INTO cidade (nome)
 VALUES
   ('Nova Iguaçu'),
   ('Feira de Santana'),
