@@ -1,11 +1,11 @@
 
 do $$
-  declare i int := 0;
+  declare i int := 1;
 begin 
-	while i < 20 loop 
+	while i < 10001 loop 
   	INSERT INTO paisesTecnicos (idtecnico, pais)
 	VALUES  
-    (i, concat('pais-', i))
+    (i, concat('pais-', i));
     i := i + 1;
   end loop;
 end$$;

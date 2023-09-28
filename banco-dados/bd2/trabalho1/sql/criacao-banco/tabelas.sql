@@ -30,7 +30,7 @@ create table tecnico (
 
 create table jogadorBrasileiro (
   id serial constraint pk_jogadorBrasileiro primary key,
-  cpf varchar(14),
+  cpf varchar(15),
   nome varchar(50),
   posicao varchar(50),
   idEquipe int constraint fk_jogadorBrasileiro_equipe references equipe(id),
