@@ -1,7 +1,3 @@
-# Universidade Federal do Paraná, campus Dois Vizinhos
+# Engenharia de Software, UTFPR-DV
 
-Repositório criado para armazenar trabalhos e atividades realizados durante o curso de ```Engenharia de Software``` 
-
-```
-Steven Reis
-```
+Repositório criado para armazenar trabalhos e atividades desenvolvidos durante o curso
