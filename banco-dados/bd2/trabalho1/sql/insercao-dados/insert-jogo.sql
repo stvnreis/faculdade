@@ -19,7 +19,6 @@ begin
        	idEquipeCasa := 5001;
         idCidade := 1;
       end if;
-      raise notice 'i %', i;
       insert into jogo(dataJogo, idEquipeCasa, idEquipeFora, golsEquipeCasa, golsEquipeFora, idCidade, estadio, idCampeonato)
         values((select cast(concat(cast((date_part('year', now()) - (random() * 100))as int), '-01-0', cast(random()*10 + 1 as int)) as date)) , idEquipeCasa, idEquipeFora, random() * 10 + 1, random() * 10 + 1, idCidade, concat('estadio-', i), idCampeonato);
       
@@ -28,7 +27,6 @@ begin
       idEquipeFora := idEquipeFora + 1;
       idCidade := idCidade + 1;
     end loop;
-	raise notice 'j %', j;
    	i := 0;
     j := j + 1;
     idEquipeCasa := 1;
