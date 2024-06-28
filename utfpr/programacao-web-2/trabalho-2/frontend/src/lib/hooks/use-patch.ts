@@ -13,22 +13,22 @@ export interface postApiDataResponse<TData> {
 }
 
 export function usePatch<TData>(url: string): postApiDataResponse<TData> {
-  // const { accessToken } = useAuth()
+  const { accessToken } = useAuth()
   const [isLoading, setIsLoading] = useState(true)
 
   const handlePatch = (data: TData) => {
-    Api()
+    Api(accessToken)
       .patch<ApiResponse<TData>>(url, {
         ...data
       })
       .then((response) => {
 
-        toast.success(response.data.message)
+        toast.success('Sucesso')
       })
       .catch((err: AxiosError) => {
         const apiResponse = err.response?.data as ApiResponse<null>
 
-        toast.error(apiResponse.message)
+        toast.error('Erro')
       })
       .finally(() => setIsLoading(false))
   }

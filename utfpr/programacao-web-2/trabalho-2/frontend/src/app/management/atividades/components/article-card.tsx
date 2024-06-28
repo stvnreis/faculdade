@@ -13,18 +13,13 @@ interface ArticleCardProps {
   data: Atividade
   usuarios: Usuario[]
   handleItemSubmit: (atividade: Atividade) => void
+  handlePublish: (atividade: Atividade) => void
 }
 
-export const ArticleCard = ({data, handleItemSubmit,usuarios}: ArticleCardProps) => {
+export const ArticleCard = ({data, handleItemSubmit,usuarios, handlePublish}: ArticleCardProps) => {
   const {handleOpen, handleOpenChange, isOpen} = useModal()
 
   const {handleDelete} = useDelete('/atividade/' + data.id)
-  const { handlePost } = usePost<Atividade>('/atividade/' + data.id + '/publish')
-
-  const handlePublish = () => {
-
-    handlePost(data)
-  }
 
   return <div>
     <SubmitArticleModal usuarios={usuarios} handleOpen={handleOpen} handleOpenChange={handleOpenChange} isOpen={isOpen} atividade={{...data}} handleItemSubmit={handleItemSubmit} />
@@ -34,10 +29,9 @@ export const ArticleCard = ({data, handleItemSubmit,usuarios}: ArticleCardProps)
 
         <div className="flex justify-center gap-5">
           <Button text="Abrir Atividade" handleClick={() => handleOpen()}/>
-          <Button isHidden={false} text="Remover Atividade" handleClick={handleDelete} color="danger" />
+          {/* <Button isHidden={false} text="Remover Atividade" handleClick={handleDelete} color="danger" /> */}
+          <Button isHidden={false} text="Entregar atividade" handleClick={() => handlePublish(data)} color="success" />
         </div>
-
-        <Button isHidden={false} text="Entregar atividade" handleClick={handlePublish} color="success" />
       </CardBody>
     </Card>
   </div>

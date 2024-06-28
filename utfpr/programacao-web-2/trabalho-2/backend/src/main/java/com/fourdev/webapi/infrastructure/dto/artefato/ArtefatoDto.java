@@ -26,6 +26,8 @@ public class ArtefatoDto implements IDto<Long> {
     @JsonIgnore
     private AtividadeDto atividade;
 
+    private Long idUsuario;
+
     @Override
     public Long getId() {
 

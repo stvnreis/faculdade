@@ -1,19 +1,26 @@
 'use client'
 
-import { TipoUsuario } from "@/types"
 import { useSession } from "next-auth/react"
 
 export type TUserData = {
-  email: string
-  password: string
+  usuario?: {
+    nome: string
+    usuario: string
+  }
+  senha?: string
+  accessToken: string
 }
 
-export function useAuth() {
-  // const { data } = useSession()
+export function useAuth(): TUserData {
+  const { data } = useSession()
 
-  // return {
-  //   usuario: data?.usuario,
-  //   tipoUsuario: data?.tipoUsuario as TipoUsuario,
-  //   accessToken: data?.accessToken
-  // }
+  console.log(data)
+
+  return {
+    usuario: {
+      nome: data?.nome as any,
+      usuario: data?.usuario as any
+    },
+    accessToken: data?.accessToken as string
+  }
 }

@@ -2,6 +2,8 @@ package com.fourdev.webapi.infrastructure.implement.atividade.service;
 
 import static java.util.Objects.isNull;
 
+import java.time.LocalDateTime;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -56,15 +58,20 @@ public class AtividadeServiceImplement extends ServiceInterfaceImplement<Ativida
 
     @Override
     @Transactional
-    public void entregarAtividade(Long idAtividade, String idExternoUsuario, Artefato artefato) {
+    public void entregarAtividade(Long idAtividade, Long idUsuario, Artefato artefato) {
 
         Atividade atividade = atividadeRepository.findById(idAtividade);
-        Usuario usuario = usuarioRepository.findByIdExterno(idExternoUsuario);
+        Usuario usuario = usuarioRepository.findById(idUsuario);
 
         UsuarioAtividade usuarioAtividade = getUsuarioAtividade(atividade, usuario);
 
-        if (isNull(usuarioAtividade) || usuarioAtividade.isEntregue()) {
-            return;
+        if (isNull(usuarioAtividade)) {
+            usuarioAtividade = new UsuarioAtividade();
+
+            usuarioAtividade.setAtividade(atividade);
+            usuarioAtividade.setUsuario(usuario);
+            usuarioAtividade.setArtefato(artefato);
+            usuarioAtividade.setDhEntrega(LocalDateTime.now());
         }
 
         usuarioAtividade.entregarAtividade(artefato);

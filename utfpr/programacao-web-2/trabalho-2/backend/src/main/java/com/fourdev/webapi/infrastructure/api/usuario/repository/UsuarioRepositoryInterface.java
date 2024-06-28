@@ -10,4 +10,6 @@ import com.fourdev.webapi.infrastructure.api.RepositoryInterface;
 public interface UsuarioRepositoryInterface extends RepositoryInterface<Usuario> {
 
     Usuario findByIdExterno(String idExterno);
+
+    Usuario findByUsuario(String usuario);
 }

@@ -4,7 +4,8 @@ export type TipoUsuario = {
 }
 
 export type Usuario = {
-  id: string
+  id: number
+  idExterno?: string
   nome: string
   usuario: string
   email: string

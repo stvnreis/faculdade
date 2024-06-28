@@ -25,4 +25,7 @@ public interface JpaUsuarioRepository extends JpaRepository<Usuario, Long> {
     @Override
     @Query(value = "from Usuario u left join UsuarioAtividade ua on ua.usuario.id = u.id left join Atividade a on a.id = ua.atividade.id")
     List<Usuario> findAll();
+
+    @Query(value = "from Usuario u left join UsuarioAtividade ua on ua.usuario.id = u.id left join Atividade a on a.id = ua.atividade.id where u.usuario = :usuario")
+    Optional<Usuario> findByUsuario(String usuario);
 }

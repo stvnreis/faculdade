@@ -4,9 +4,9 @@ import { toast } from "sonner";
 
 export const Api = (accessToken?: string) => axios.create({
   baseURL: 'http://localhost:8080',
-  // headers: {
-  //   Authorization: 'Bearer ' + accessToken
-  // }
+  headers: accessToken ? {
+    Authorization: 'Bearer ' + accessToken,
+  } : undefined
 })
 
 export async function getData<TData>(url: string, accessToken?: string) {

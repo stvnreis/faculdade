@@ -15,5 +15,5 @@ public interface AtividadeServiceInterface extends ServiceInterface<Atividade> {
 
     void atribuirUsuario(Long idAtividade, UsuarioAtividade usuario);
 
-    void entregarAtividade(Long idAtividade, String idExternoUsuario, Artefato artefato);
+    void entregarAtividade(Long idAtividade, Long idUsuario, Artefato artefato);
 }

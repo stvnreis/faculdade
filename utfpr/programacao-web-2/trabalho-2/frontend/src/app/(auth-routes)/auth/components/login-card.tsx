@@ -24,7 +24,6 @@ export const LoginCard = () => {
 
     const result = await signIn('credentials', {
       ...data,
-      callbackUrl: '/management',
       redirect: false
     })
 
@@ -45,18 +44,18 @@ export const LoginCard = () => {
         <CardHeader>Fazer Login</CardHeader>
         <CardBody className="gap-4">
           <Controller
-            name='email'
+            name='usuario'
             control={control}
             render={({field}) => 
               <Input
                 field={field}
-                label="Email"
+                label="Usuario"
                 type="text"
               />}
           />
           
           <Controller 
-            name='password'
+            name='senha'
             control={control}
             render={({field}) => 
               <Input

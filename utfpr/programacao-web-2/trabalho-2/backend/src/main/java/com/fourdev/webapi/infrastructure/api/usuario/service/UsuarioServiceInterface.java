@@ -9,4 +9,5 @@ import com.fourdev.webapi.infrastructure.api.ServiceInterface;
  */
 public interface UsuarioServiceInterface extends ServiceInterface<Usuario> {
 
+    Usuario findByUsername(String username);
 }

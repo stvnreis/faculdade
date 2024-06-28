@@ -13,11 +13,12 @@ export interface postApiDataResponse<TData> {
 }
 
 export function usePost<TData>(url: string): postApiDataResponse<TData> {
-  // const { accessToken } = useAuth()
+  const { accessToken, usuario } = useAuth()
+
   const [isLoading, setIsLoading] = useState(true)
 
   const handlePost = (data: TData) => {
-    Api()
+    Api(accessToken)
       .post<ApiResponse<TData>>(url, {
         ...data
       })

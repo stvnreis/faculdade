@@ -14,7 +14,9 @@ import lombok.Setter;
  */
 @Getter
 @Setter
-public class UsuarioDto implements IDto<String> {
+public class UsuarioDto implements IDto<Long> {
+
+    private Long id;
 
     @JsonIgnore
     private String idExterno;
@@ -27,18 +29,22 @@ public class UsuarioDto implements IDto<String> {
 
     private TipoUsuarioDto tipoUsuario;
 
-    @JsonIgnore
+    private String tpUsuario;
+
+    private String accessToken;
+
+//    @JsonIgnore
     private String senha;
 
     @Override
-    public String getId() {
+    public Long getId() {
 
-        return this.idExterno;
+        return this.id;
     }
 
     @JsonProperty
-    public void setId(String id) {
-        this.idExterno = id;
+    public void setId(Long id) {
+        this.id = id;
     }
 
     @JsonProperty

@@ -12,6 +12,7 @@ import com.fourdev.webapi.infrastructure.api.usuario.service.UsuarioServiceInter
 import com.fourdev.webapi.infrastructure.implement.ServiceInterfaceImplement;
 import com.fourdev.webapi.domain.usuario.Usuario;
 
+import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 
 /**
@@ -25,6 +26,8 @@ public class UsuarioServiceImplement extends ServiceInterfaceImplement<Usuario>
 
     private final TipoUsuarioServiceInterface tipoUsuarioService;
 
+    private final @NonNull UsuarioRepositoryInterface usuarioRepository;
+
     @Override
     public Usuario insert(Usuario entity) {
 
@@ -33,5 +36,11 @@ public class UsuarioServiceImplement extends ServiceInterfaceImplement<Usuario>
         entity.setTipoUsuario(tipoUsuario);
 
         return super.insert(entity);
+    }
+
+    @Override
+    public Usuario findByUsername(String username) {
+
+        return usuarioRepository.findByUsuario(username);
     }
 }

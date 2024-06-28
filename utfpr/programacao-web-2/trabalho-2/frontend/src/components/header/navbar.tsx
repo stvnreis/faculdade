@@ -13,6 +13,7 @@ import {
   NavbarItem,
 } from '@nextui-org/react'
 import { useRouter } from 'next/navigation'
+import { User } from './user/user'
 // import { User } from './user/user'
 
 export const Navbar = () => {
@@ -24,8 +25,8 @@ export const Navbar = () => {
 
   const menu = [
     {
-      title: 'Artigos',
-      url: '/management/artigos',
+      title: 'Atividades',
+      url: '/management/atividades',
     },
     {
       title: 'Usuários',
@@ -49,7 +50,7 @@ export const Navbar = () => {
           <NavbarItem>
             <DropdownTrigger>
               <Button disableRipple variant="light" endContent={icons.chevron}>
-                Gerenciador de artigos
+                Gerenciador de atividades
               </Button>
             </DropdownTrigger>
           </NavbarItem>
@@ -68,7 +69,7 @@ export const Navbar = () => {
         </Dropdown>
       </NavbarContent>
 
-      {/* <User /> */}
+      <User />
     </NextUiNavbar>
   )
 }

@@ -13,13 +13,14 @@ export interface fetchApiDataResponse<TData> {
 }
 
 export function useFetch<TData>(url: string): { data: TData | null | undefined, isLoading: boolean } {
-  // const { accessToken } = useAuth()
+  const { accessToken } = useAuth()
   const [data, setData] = useState<TData>()
   const [isLoading, setIsLoading] = useState(true)
 
   useEffect(() => {
     const fetchData = async (url: string, accessToken?: string) => {
-      Api()
+      console.log(accessToken)
+      Api(accessToken)
         .get<ApiResponse<TData>>(url)
         .then((response) => {
           setData(response.data.data)
@@ -32,8 +33,8 @@ export function useFetch<TData>(url: string): { data: TData | null | undefined, 
         .finally(() => setIsLoading(false))
     }
 
-    fetchData(url, '')
-  }, [url])
+    fetchData(url, accessToken)
+  }, [url, accessToken])
 
   return { data, isLoading }
 }

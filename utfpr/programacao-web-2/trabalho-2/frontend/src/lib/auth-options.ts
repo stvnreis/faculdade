@@ -7,28 +7,22 @@ export const nextAuthOptions: NextAuthOptions = {
     CredentialsProvider({
       name: 'credentials',
       credentials: {
-        email: { label: 'email', type: 'text' },
-        password: { label: 'password', type: 'text' },
+        usuario: { label: 'usuario', type: 'text' },
+        senha: { label: 'senha', type: 'text' },
       },
 
       async authorize(credentials, req) {
-        const { data: apiData } = await Api().post('/auth', {
-          email: credentials?.email,
-          password: credentials?.password,
+        const { data: apiData } = await Api().post('/auth/login', {
+          usuario: credentials?.usuario,
+          senha: credentials?.senha,
         })
 
-        const { data } = apiData
-
-        console.log(data)
-
-        return data || null
+        return apiData || null
       },
     }),
   ],
   pages: {
-    newUser: '/auth',
     signIn: '/auth',
-    error: '/auth',
   },
   callbacks: {
     async jwt({ token, user }) {

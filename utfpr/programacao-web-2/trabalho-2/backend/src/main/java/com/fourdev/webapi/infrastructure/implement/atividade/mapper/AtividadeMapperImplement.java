@@ -53,7 +53,6 @@ public class AtividadeMapperImplement implements AtividadeMapperInterface {
             dto.setUsuariosAtividade(usuarioAtividadeMapper.convertListToDto(domain.getUsuarioAtividades()));
 
             UsuarioAtividadeDto usuarioAtividadeDto = dto.getUsuariosAtividade().stream().findFirst().orElse(null);
-            dto.setDtEntregaMaxima(isNull(usuarioAtividadeDto) ? null : usuarioAtividadeDto.getDhEntregaMaximo().toLocalDate());
         }
 
         return dto;

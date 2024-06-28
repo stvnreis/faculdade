@@ -4,6 +4,7 @@ import java.util.Map;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
+import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -13,6 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.fourdev.webapi.application.AbstractEndpoint;
 import com.fourdev.webapi.domain.atividade.Atividade;
+import com.fourdev.webapi.domain.usuario.Usuario;
 import com.fourdev.webapi.infrastructure.api.artefato.mapper.ArtefatoMapperInterface;
 import com.fourdev.webapi.infrastructure.api.atividade.service.AtividadeServiceInterface;
 import com.fourdev.webapi.infrastructure.api.usuarioatividade.mapper.UsuarioAtividadeMapperInterface;
@@ -54,9 +56,11 @@ public class AtividadeEndpoint extends AbstractEndpoint<AtividadeDto, Atividade>
     }
 
     @PostMapping("{id}/entregar")
-    public ResponseEntity entregarAtividade(@PathVariable("id") Long idAtividade, @RequestParam Map<String, String> allRequestParams, @RequestBody ArtefatoDto artefato) {
+    public ResponseEntity entregarAtividade(@PathVariable("id") Long idAtividade, @RequestBody ArtefatoDto artefato) {
 
-        atividadeService.entregarAtividade(idAtividade, allRequestParams.get("idUsuario"), artefatoAtividadeMapper.convertToDomain(artefato));
+        var usuario = (Usuario) SecurityContextHolder.getContext().getAuthentication().getPrincipal();
+
+        atividadeService.entregarAtividade(idAtividade, usuario.getId(), artefatoAtividadeMapper.convertToDomain(artefato));
 
         return ok();
     }

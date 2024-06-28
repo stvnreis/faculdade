@@ -1,12 +1,11 @@
 import { Modal } from "@/components/modal/modal"
-import { Usuario, Atividade, UsuarioAtividade } from "@/types"
+import { Usuario, Atividade } from "@/types"
 import { Input } from "@/components/input/input"
-import { Controller, Form, SubmitHandler, useFieldArray, useForm } from "react-hook-form"
+import { Controller, Form, SubmitHandler, useForm } from "react-hook-form"
 import { Button } from "@/components/button/button"
 import { usePost } from "@/lib/hooks/use-post"
-import { MouseEvent, useEffect } from "react"
+import { useEffect } from "react"
 import { usePatch } from "@/lib/hooks/use-patch"
-import { useModal } from "@/lib/hooks/use-modal"
 import { TextArea } from "@/components/input/text-area"
 
 interface ArticleModalProps {
@@ -26,8 +25,6 @@ export const SubmitArticleModal = ({
   handleItemSubmit,
   usuarios
 }: ArticleModalProps) => {
-  const {isOpen: isGradeModalOpen, handleOpen: handleOpenGradeModal, handleOpenChange: handleOpenChangeGradeModal} = useModal()
-
   const {
     control,
     handleSubmit,
@@ -40,28 +37,16 @@ export const SubmitArticleModal = ({
   const {handlePatch} = usePatch<Atividade>('/atividade/' + atividade?.id)
 
   const onSubmit: SubmitHandler<Atividade> = (data) => {
-    data = mapData(data)
     handleItemSubmit(data)
 
     atividade === undefined || !atividade?.id ? handlePost(data) : handlePatch(data)
   }
 
-  const { fields, append, remove } = useFieldArray({
-    control,
-    name: "usuariosAtividade",
-  });
 
   useEffect(() => {
-    remove()
     if (atividade) reset(atividade)
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [atividade, isOpen])
-
-  const addUsuario = (e: MouseEvent<HTMLButtonElement>) => {
-    e.preventDefault()
-
-    append({} as UsuarioAtividade)
-  }
 
   return (
     <Form control={control}>
@@ -131,29 +116,7 @@ export const SubmitArticleModal = ({
             field={field}
           />} 
         />
-        
-        <Button text="Atribuir usuários" handleClick={addUsuario} />
-
-        <label className="text-sm font-bold">Usuarios atribuidos</label>
-        {fields.map((field, index) => {
-            return (
-              <Controller 
-              key={index}
-              name={`usuariosAtividade.${index}.usuario`}
-              control={control}
-              render={({field}) => <p {...field}>{field.value?.nome}</p>}
-            />
-          )
-        })}
       </Modal>
     </Form>
   )
-}
-
-function mapData(data: Atividade): Atividade {
-  data.usuariosAtividade.forEach((usuarioAtividade) => usuarioAtividade.dhEntregaMaximo = new Date(data.dtEntregaMaxima!).toISOString())
-
-  data.dtEntregaMaxima = undefined
-
-  return data
 }

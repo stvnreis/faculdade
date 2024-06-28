@@ -25,4 +25,10 @@ public class UsuarioRepository extends RepositoryInterfaceImplement<Usuario>
 
         return jpaUsuarioRepository.findByIdExterno(idExterno);
     }
+
+    @Override
+    public Usuario findByUsuario(String usuario) {
+
+        return jpaUsuarioRepository.findByUsuario(usuario).orElse(null);
+    }
 }

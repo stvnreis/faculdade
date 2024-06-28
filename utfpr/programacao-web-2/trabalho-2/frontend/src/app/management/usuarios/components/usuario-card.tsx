@@ -21,8 +21,6 @@ export const UsuarioCard = ({data, isHidden, roles}: UsuarioCardProps) => {
     handleOpen()
   }
 
-  console.log(data)
-
   const { handleDelete } = useDelete('/usuario/' + data.id)
 
   return (
